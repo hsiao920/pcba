@@ -1,2 +1,16 @@
 .history/
 kicad-happy/
+.backup_before_upgrade/
+*.kicad_prl
+*-backups/
+*.lck
+*.log
+validation/
+*_preview.pdf
+KiCad_A01_Control_V1_20260109/validation/
+USB_2to1_Switch/*_nozone.*
+USB_2to1_Switch/*_placed.*
+USB_2to1_Switch/drc*.json
+USB_2to1_Switch/nz_*.pdf
+USB_2to1_Switch/placed_top.pdf
+USB_2to1_Switch/routed.pdf
