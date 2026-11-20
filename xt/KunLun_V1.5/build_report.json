@@ -1,0 +1,130 @@
+{
+ "pages": [
+  {
+   "page": 1,
+   "title": "10.RV1126/1109_Power/GND",
+   "scale": 1.0,
+   "parts": 22,
+   "paper": "A4"
+  },
+  {
+   "page": 2,
+   "title": "11.RV1126/1109_OSC/PLL/PMUIO",
+   "scale": 1.0,
+   "parts": 14,
+   "paper": "A4"
+  },
+  {
+   "page": 3,
+   "title": "12.RV1126/1109_DRAM Controller",
+   "scale": 0.7,
+   "parts": 6,
+   "paper": "A3"
+  },
+  {
+   "page": 4,
+   "title": "13.RV1126/1109_Flash/SD",
+   "scale": 0.7,
+   "parts": 8,
+   "paper": "A3"
+  },
+  {
+   "page": 5,
+   "title": "14.RV1126/1109_USB Controller",
+   "scale": 1.0,
+   "parts": 5,
+   "paper": "A4"
+  },
+  {
+   "page": 6,
+   "title": "15.RV1126/1109_SARADC",
+   "scale": 1.0,
+   "parts": 2,
+   "paper": "A4"
+  },
+  {
+   "page": 7,
+   "title": "16.RV1126/1109_VideoInput",
+   "scale": 0.7,
+   "parts": 11,
+   "paper": "A3"
+  },
+  {
+   "page": 8,
+   "title": "17.RV1126/1109_VideoOutput Interface",
+   "scale": 0.7,
+   "parts": 14,
+   "paper": "A3"
+  },
+  {
+   "page": 9,
+   "title": "18.RV1126/1109_Audio",
+   "scale": 1.0,
+   "parts": 2,
+   "paper": "A4"
+  },
+  {
+   "page": 10,
+   "title": "23.Discrete Power for System",
+   "scale": 0.5,
+   "parts": 106,
+   "paper": "A2"
+  },
+  {
+   "page": 11,
+   "title": "25.BAT Scheme Wakeup Power",
+   "scale": 0.7,
+   "parts": 51,
+   "paper": "A3"
+  },
+  {
+   "page": 12,
+   "title": "26.USB OTG",
+   "scale": 1.0,
+   "parts": 16,
+   "paper": "A4"
+  },
+  {
+   "page": 13,
+   "title": "31. DRAM_LPDDR3_32 bit",
+   "scale": 0.7,
+   "parts": 67,
+   "paper": "A3"
+  },
+  {
+   "page": 14,
+   "title": "40.Flash-eMMC Flash",
+   "scale": 1.0,
+   "parts": 18,
+   "paper": "A4"
+  },
+  {
+   "page": 15,
+   "title": "Page 15",
+   "scale": 1.0,
+   "parts": 1,
+   "paper": "A4"
+  },
+  {
+   "page": 16,
+   "title": "Page 16",
+   "scale": 1.0,
+   "parts": 13,
+   "paper": "A4"
+  },
+  {
+   "page": 17,
+   "title": "Page 17",
+   "scale": 1.0,
+   "parts": 22,
+   "paper": "A4"
+  },
+  {
+   "page": 18,
+   "title": "Page 18",
+   "scale": 1.0,
+   "parts": 20,
+   "paper": "A4"
+  }
+ ]
+}

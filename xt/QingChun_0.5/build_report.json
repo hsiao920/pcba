@@ -1,0 +1,88 @@
+{
+ "pages": [
+  {
+   "page": 1,
+   "title": "RV1106 Power/Codec/ETH/USB",
+   "scale": 1.0,
+   "parts": 35,
+   "paper": "A3"
+  },
+  {
+   "page": 2,
+   "title": "RV1106 OSC/RTC/PMUIO/VCCIO",
+   "scale": 1.0,
+   "parts": 23,
+   "paper": "A3"
+  },
+  {
+   "page": 3,
+   "title": "RV1106 ADC/FLASH/SDMMC0",
+   "scale": 1.0,
+   "parts": 7,
+   "paper": "A3"
+  },
+  {
+   "page": 4,
+   "title": "RV1106 SDMMC1/LCD/VICAP/MIPI",
+   "scale": 1.0,
+   "parts": 12,
+   "paper": "A3"
+  },
+  {
+   "page": 5,
+   "title": "Power-System",
+   "scale": 1.0,
+   "parts": 46,
+   "paper": "A3"
+  },
+  {
+   "page": 6,
+   "title": "Wakeup Power/Charge",
+   "scale": 1.0,
+   "parts": 39,
+   "paper": "A3"
+  },
+  {
+   "page": 7,
+   "title": "USB-PORT",
+   "scale": 1.0,
+   "parts": 21,
+   "paper": "A4"
+  },
+  {
+   "page": 8,
+   "title": "FLASH-SPI-FLASH",
+   "scale": 1.0,
+   "parts": 16,
+   "paper": "A4"
+  },
+  {
+   "page": 9,
+   "title": "VI-Camera-UV-LOOK",
+   "scale": 1.0,
+   "parts": 9,
+   "paper": "A4"
+  },
+  {
+   "page": 10,
+   "title": "VO-RGB-LCD",
+   "scale": 1.0,
+   "parts": 10,
+   "paper": "A4"
+  },
+  {
+   "page": 11,
+   "title": "LED-DRV",
+   "scale": 1.0,
+   "parts": 35,
+   "paper": "A4"
+  },
+  {
+   "page": 12,
+   "title": "Others",
+   "scale": 1.0,
+   "parts": 26,
+   "paper": "A3"
+  }
+ ]
+}

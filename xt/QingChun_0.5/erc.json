@@ -1,0 +1,1328 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-11-20T12:38:58",
+    "ignored_checks": [
+        {
+            "description": "Input Power pin not driven by any Output Power pins",
+            "key": "power_pin_not_driven"
+        },
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.8",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee",
+            "violations": [
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'CAM_2V8'",
+                            "pos": {
+                                "x": 146.05,
+                                "y": 53.34
+                            },
+                            "uuid": "22b0788e-afd1-4660-9f4b-61622f29d673"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'PWM1_M0'",
+                            "pos": {
+                                "x": 186.69,
+                                "y": 133.35
+                            },
+                            "uuid": "ad69d456-0aae-4c7f-9eef-c9d45891256b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'PWM5_M0'",
+                            "pos": {
+                                "x": 186.69,
+                                "y": 135.89
+                            },
+                            "uuid": "254e58bd-311c-4190-9700-15f230c4e62d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO1_A2D'",
+                            "pos": {
+                                "x": 187.96,
+                                "y": 173.99
+                            },
+                            "uuid": "ea7f76a7-79a3-4539-9e4b-25ff7cef676a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO1_A3D'",
+                            "pos": {
+                                "x": 187.96,
+                                "y": 176.53
+                            },
+                            "uuid": "5d36dcf7-4641-4989-998d-43624a7b741d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'BAT_NTC'",
+                            "pos": {
+                                "x": 142.24,
+                                "y": 170.18
+                            },
+                            "uuid": "2ba8bcef-7aef-475d-a828-564ee4593d1b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'BAT_NTC'",
+                            "pos": {
+                                "x": 142.24,
+                                "y": 170.18
+                            },
+                            "uuid": "41e37fa7-316a-4e9a-b91f-9fb56a2e3447"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'PWM1_M0'",
+                            "pos": {
+                                "x": 35.56,
+                                "y": 16.51
+                            },
+                            "uuid": "73ef9217-c9f9-4db2-abda-ee1753a6dc0f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'PWM5_M0'",
+                            "pos": {
+                                "x": 35.56,
+                                "y": 19.05
+                            },
+                            "uuid": "c9c63944-f189-4be2-b0bf-e28ac8f37c9e"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO1_A2D'",
+                            "pos": {
+                                "x": 41.91,
+                                "y": 40.64
+                            },
+                            "uuid": "ab1bc0ad-db6d-40d8-9678-3a69691bfbd0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO1_A3D'",
+                            "pos": {
+                                "x": 41.91,
+                                "y": 43.18
+                            },
+                            "uuid": "e0fa8343-0346-4a54-b267-88b19bb116f6"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LED_OR'",
+                            "pos": {
+                                "x": 52.07,
+                                "y": 40.64
+                            },
+                            "uuid": "5d1a83be-9ab2-43ff-b963-78ff1d629121"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LED_GR'",
+                            "pos": {
+                                "x": 52.07,
+                                "y": 43.18
+                            },
+                            "uuid": "925a4a59-9e21-4434-87a7-ed7776ac1918"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LED_OR'",
+                            "pos": {
+                                "x": 261.62,
+                                "y": 198.12
+                            },
+                            "uuid": "3ca84ef0-883d-4e7c-842f-9910a2a039f6"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LED_OR'",
+                            "pos": {
+                                "x": 261.62,
+                                "y": 198.12
+                            },
+                            "uuid": "45cecc63-03fd-4d24-90cf-772c076da70b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LED_GR'",
+                            "pos": {
+                                "x": 314.96,
+                                "y": 198.12
+                            },
+                            "uuid": "0f6df042-58a8-4838-8b3a-ced8f38d1354"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LED_GR'",
+                            "pos": {
+                                "x": 314.96,
+                                "y": 198.12
+                            },
+                            "uuid": "30425083-af2a-4863-bf67-15e396bfb3ec"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                }
+            ]
+        },
+        {
+            "path": "/P01 RV1106 Power/Codec/ETH/USB/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/be80939e-d842-4f4d-9d44-cb19f179d1b5",
+            "violations": []
+        },
+        {
+            "path": "/P02 RV1106 OSC/RTC/PMUIO/VCCIO/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/b6c46885-a40d-4c09-b8d5-05e13b20df26",
+            "violations": []
+        },
+        {
+            "path": "/P03 RV1106 ADC/FLASH/SDMMC0/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/73cbb076-84d1-4ccf-8302-c773fa81d70e",
+            "violations": []
+        },
+        {
+            "path": "/P04 RV1106 SDMMC1/LCD/VICAP/MIPI/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/4b8b36cf-4c19-4a8e-9958-d93cd345ae12",
+            "violations": []
+        },
+        {
+            "path": "/P05 Power-System/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/ae1e32d9-7d9c-4a20-8b27-272a8484256c",
+            "violations": []
+        },
+        {
+            "path": "/P06 Wakeup Power/Charge/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/b2d57e4a-6873-4732-8b1e-c2615d32a29c",
+            "violations": [
+                {
+                    "description": "CHARGE_NPG 和 GPIO3_A7U 都連接到同一項上; 將使用 CHARGE_NPG 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'CHARGE_NPG'",
+                            "pos": {
+                                "x": 80.01,
+                                "y": 140.97
+                            },
+                            "uuid": "69e7220f-0ea4-4540-a85e-49fd15610793"
+                        },
+                        {
+                            "description": "全域標籤 'GPIO3_A7U'",
+                            "pos": {
+                                "x": 46.99,
+                                "y": 25.4
+                            },
+                            "uuid": "8d06a957-8f79-4541-b22b-c5ebaa723178"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "CHARGE_STAT 和 GPIO3_A6U 都連接到同一項上; 將使用 CHARGE_STAT 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'CHARGE_STAT'",
+                            "pos": {
+                                "x": 80.01,
+                                "y": 143.51
+                            },
+                            "uuid": "9f0cdd44-28ac-4dc0-88d7-48bbbcd850bf"
+                        },
+                        {
+                            "description": "全域標籤 'GPIO3_A6U'",
+                            "pos": {
+                                "x": 46.99,
+                                "y": 27.94
+                            },
+                            "uuid": "89609d3a-c6b7-4d82-b6ff-7e9a6d7ddb5d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "CHARGE_SDA 和 I2C0_SDA_M2 都連接到同一項上; 將使用 CHARGE_SDA 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'CHARGE_SDA'",
+                            "pos": {
+                                "x": 50.8,
+                                "y": 30.48
+                            },
+                            "uuid": "b9384d0c-6746-4e9d-80cc-5564f487ef75"
+                        },
+                        {
+                            "description": "全域標籤 'I2C0_SDA_M2'",
+                            "pos": {
+                                "x": 46.99,
+                                "y": 30.48
+                            },
+                            "uuid": "bd8df072-981b-4315-a2fa-728bbc165413"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "CHARGE_SCL 和 I2C0_SCL_M2 都連接到同一項上; 將使用 CHARGE_SCL 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'CHARGE_SCL'",
+                            "pos": {
+                                "x": 80.01,
+                                "y": 146.05
+                            },
+                            "uuid": "e96a61f5-303d-4f24-96a1-07d865f26d43"
+                        },
+                        {
+                            "description": "全域標籤 'I2C0_SCL_M2'",
+                            "pos": {
+                                "x": 46.99,
+                                "y": 33.02
+                            },
+                            "uuid": "df95b89f-6096-45bd-bcb7-1dae847cf2f6"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "ADC_VBAT 和 SARADC_IN0 都連接到同一項上; 將使用 ADC_VBAT 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'ADC_VBAT'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 40.64
+                            },
+                            "uuid": "3b3b8e82-484f-4a3d-8b3e-a350a195d0d0"
+                        },
+                        {
+                            "description": "全域標籤 'SARADC_IN0'",
+                            "pos": {
+                                "x": 46.99,
+                                "y": 40.64
+                            },
+                            "uuid": "37ecac6f-e583-4ee6-9d14-b00711616adb"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "GPIO3_A2U 和 PWR_HOLD_CPU 都連接到同一項上; 將使用 GPIO3_A2U 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO3_A2U'",
+                            "pos": {
+                                "x": 46.99,
+                                "y": 35.56
+                            },
+                            "uuid": "b6e54712-0529-4b7e-a1ef-a71444308731"
+                        },
+                        {
+                            "description": "全域標籤 'PWR_HOLD_CPU'",
+                            "pos": {
+                                "x": 50.8,
+                                "y": 35.56
+                            },
+                            "uuid": "ae4353a6-02d9-447c-9e86-4b1974b67420"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                }
+            ]
+        },
+        {
+            "path": "/P07 USB-PORT/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/d022da5c-2504-46df-8403-088492da639d",
+            "violations": []
+        },
+        {
+            "path": "/P08 FLASH-SPI-FLASH/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/72a3c9a3-9b2e-41cf-b91c-b3109379371c",
+            "violations": []
+        },
+        {
+            "path": "/P09 VI-Camera-UV-LOOK/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/5f4cac87-44d9-4660-8205-d7d3d70d4270",
+            "violations": [
+                {
+                    "description": "MIPI_CLK 和 MIPI_CLK_OUT0 都連接到同一項上; 將使用 MIPI_CLK 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'MIPI_CLK'",
+                            "pos": {
+                                "x": 54.61,
+                                "y": 41.91
+                            },
+                            "uuid": "838d699d-470b-4b47-a6cf-d74270f630b5"
+                        },
+                        {
+                            "description": "全域標籤 'MIPI_CLK_OUT0'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 41.91
+                            },
+                            "uuid": "08684e75-cc59-43c1-8890-37df2098c4f4"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "MIPI_D0P 和 MIPI_RX_D0P 都連接到同一項上; 將使用 MIPI_D0P 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'MIPI_D0P'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 49.53
+                            },
+                            "uuid": "60381500-5183-4ae8-add9-7c3eee6549c9"
+                        },
+                        {
+                            "description": "全域標籤 'MIPI_RX_D0P'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 49.53
+                            },
+                            "uuid": "dfddf0b3-999d-41cb-a441-d442dd0b2d2d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "MIPI_D0N 和 MIPI_RX_D0N 都連接到同一項上; 將使用 MIPI_D0N 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'MIPI_D0N'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 52.07
+                            },
+                            "uuid": "112d16f3-7d6c-4907-a332-09b222e6ea6f"
+                        },
+                        {
+                            "description": "全域標籤 'MIPI_RX_D0N'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 52.07
+                            },
+                            "uuid": "de54ed95-ddda-4d04-8057-dbc7ce224f7c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "MIPI_CLK0P 和 MIPI_RX_CLK0P 都連接到同一項上; 將使用 MIPI_CLK0P 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'MIPI_CLK0P'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 54.61
+                            },
+                            "uuid": "6c33db8a-a41d-4650-bac3-8bf0d6310a17"
+                        },
+                        {
+                            "description": "全域標籤 'MIPI_RX_CLK0P'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 54.61
+                            },
+                            "uuid": "b0d6a4f4-df96-448f-b77c-4468ab6fd0e2"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "MIPI_CLK0N 和 MIPI_RX_CLK0N 都連接到同一項上; 將使用 MIPI_CLK0N 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'MIPI_CLK0N'",
+                            "pos": {
+                                "x": 54.61,
+                                "y": 57.15
+                            },
+                            "uuid": "72fa1aad-8f36-4487-a455-d9a65147cef8"
+                        },
+                        {
+                            "description": "全域標籤 'MIPI_RX_CLK0N'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 57.15
+                            },
+                            "uuid": "432a2e8f-3547-43ba-bdac-278f98f105a0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "MIPI_PDN 和 MIPI_PDN0 都連接到同一項上; 將使用 MIPI_PDN 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'MIPI_PDN'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 59.69
+                            },
+                            "uuid": "0e0688c5-839b-41f9-a5ac-f4e5e352fe6c"
+                        },
+                        {
+                            "description": "全域標籤 'MIPI_PDN0'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 59.69
+                            },
+                            "uuid": "72488d67-bc1e-4b3b-ae93-c018ba49ead7"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "I2C4_SDA_M2 和 MIPI_I2C_SDA 都連接到同一項上; 將使用 I2C4_SDA_M2 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'I2C4_SDA_M2'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 44.45
+                            },
+                            "uuid": "7fe63601-8ba4-4d69-b3b1-a1149aba2996"
+                        },
+                        {
+                            "description": "全域標籤 'MIPI_I2C_SDA'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 44.45
+                            },
+                            "uuid": "1d990b52-5631-4541-825b-15c71a2f2f2b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "I2C4_SCL_M2 和 MIPI_I2C_SCL 都連接到同一項上; 將使用 I2C4_SCL_M2 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'I2C4_SCL_M2'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 46.99
+                            },
+                            "uuid": "2f42eea4-2eea-4adb-853a-748139694e24"
+                        },
+                        {
+                            "description": "全域標籤 'MIPI_I2C_SCL'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 46.99
+                            },
+                            "uuid": "6c2c579d-dd28-4ece-8867-2ac00dd23f8f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                }
+            ]
+        },
+        {
+            "path": "/P10 VO-RGB-LCD/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/b0103115-5860-4a45-b99a-ebcc77560cd5",
+            "violations": [
+                {
+                    "description": "LCD_DCLK 和 VO_LCDC_DCLK 都連接到同一項上; 將使用 LCD_DCLK 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_DCLK'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 104.14
+                            },
+                            "uuid": "6ac7719a-9a07-408d-9fa7-1a00d2a260bc"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_DCLK'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 104.14
+                            },
+                            "uuid": "0821c737-51d6-4b51-b267-2175c931e06c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_SCL 和 SPI1_CLK_M0 都連接到同一項上; 將使用 LCD_SCL 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_SCL'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 106.68
+                            },
+                            "uuid": "8d900b0e-7b26-4969-8997-d20d1d36f2e5"
+                        },
+                        {
+                            "description": "全域標籤 'SPI1_CLK_M0'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 106.68
+                            },
+                            "uuid": "c5009836-51c6-4200-a4a5-b0306f62e3c7"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_CS 和 SPI1_CS0_M0 都連接到同一項上; 將使用 LCD_CS 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_CS'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 109.22
+                            },
+                            "uuid": "f9e8169b-5ea1-417a-8415-09bdfe1c4827"
+                        },
+                        {
+                            "description": "全域標籤 'SPI1_CS0_M0'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 109.22
+                            },
+                            "uuid": "2984ec71-2f54-4ae4-90ad-b9e358fcefa4"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_SDA 和 SPI1_MOSI_M0 都連接到同一項上; 將使用 LCD_SDA 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_SDA'",
+                            "pos": {
+                                "x": 50.8,
+                                "y": 53.34
+                            },
+                            "uuid": "24cc44ad-2577-4f4d-9a9d-c44c0910f825"
+                        },
+                        {
+                            "description": "全域標籤 'SPI1_MOSI_M0'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 111.76
+                            },
+                            "uuid": "9d4cced0-2236-4680-abf5-b188133b1878"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_DEN 和 VO_LCDC_DEN 都連接到同一項上; 將使用 LCD_DEN 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_DEN'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 115.57
+                            },
+                            "uuid": "1d4ee105-e791-4827-bff0-b83955c0cf29"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_DEN'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 115.57
+                            },
+                            "uuid": "aa56141f-9093-4521-838b-ffc05d1fe54c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_HSYNC 和 VO_LCDC_HSYNC 都連接到同一項上; 將使用 LCD_HSYNC 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_HSYNC'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 118.11
+                            },
+                            "uuid": "32c0a19f-8980-41e3-b811-43d0a5b6b7f9"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_HSYNC'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 118.11
+                            },
+                            "uuid": "fb1118c8-4c0f-469a-b6d4-2e4c38b81b96"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_VSYNC 和 VO_LCDC_VSYNC 都連接到同一項上; 將使用 LCD_VSYNC 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_VSYNC'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 120.65
+                            },
+                            "uuid": "d7d03728-06d9-411d-b726-56fab3c06bb1"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_VSYNC'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 120.65
+                            },
+                            "uuid": "ec794db6-81b7-4bd5-81e9-b326261da3b5"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_D0 和 VO_LCDC_D0 都連接到同一項上; 將使用 LCD_D0 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_D0'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 123.19
+                            },
+                            "uuid": "e1c76dfa-4e7f-4fd4-84ec-71fb750f29ec"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_D0'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 123.19
+                            },
+                            "uuid": "42ead624-95dc-4b9b-8b7e-5dd6e76644bf"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_D1 和 VO_LCDC_D1 都連接到同一項上; 將使用 LCD_D1 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_D1'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 125.73
+                            },
+                            "uuid": "1a49bc4a-31cb-4781-ae07-0c55831368ce"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_D1'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 125.73
+                            },
+                            "uuid": "0e678bb1-7f9a-495a-b72c-134dd1aef4cf"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_D2 和 VO_LCDC_D2 都連接到同一項上; 將使用 LCD_D2 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_D2'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 128.27
+                            },
+                            "uuid": "48cb9827-5690-4fd8-adcb-0369e9e4e0c1"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_D2'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 128.27
+                            },
+                            "uuid": "c99b6c15-dca4-4f83-bb0e-a4437d28efaa"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_D3 和 VO_LCDC_D3 都連接到同一項上; 將使用 LCD_D3 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_D3'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 130.81
+                            },
+                            "uuid": "8d22d037-5f68-4cbf-9372-4cc6980b60c9"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_D3'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 130.81
+                            },
+                            "uuid": "21c31e59-0a9e-4613-b6b3-47bf5c5f5c83"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_D4 和 VO_LCDC_D4 都連接到同一項上; 將使用 LCD_D4 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_D4'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 133.35
+                            },
+                            "uuid": "2e68d376-3a80-4a65-ac8e-014d360d5ff3"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_D4'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 133.35
+                            },
+                            "uuid": "d7d53b90-4254-4fe7-aafc-30b419816966"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_D5 和 VO_LCDC_D5 都連接到同一項上; 將使用 LCD_D5 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_D5'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 135.89
+                            },
+                            "uuid": "4067cf82-3335-4cf1-aede-d382483394fc"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_D5'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 135.89
+                            },
+                            "uuid": "82f10786-cef1-4553-a2c1-d07ec9e3f862"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_D6 和 VO_LCDC_D6 都連接到同一項上; 將使用 LCD_D6 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_D6'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 138.43
+                            },
+                            "uuid": "12708b9d-ea48-4b70-b376-ca1880643d50"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_D6'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 138.43
+                            },
+                            "uuid": "5ce473a2-e5c6-43d3-bc3e-9d1e8186bd2b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_D7 和 VO_LCDC_D7 都連接到同一項上; 將使用 LCD_D7 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_D7'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 140.97
+                            },
+                            "uuid": "8ed43699-5f8e-4b6f-9035-32ba3fb49680"
+                        },
+                        {
+                            "description": "全域標籤 'VO_LCDC_D7'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 140.97
+                            },
+                            "uuid": "07e32870-33d4-4531-aa67-5c7571923d74"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "I2C3_SDA_M0 和 TP_SDA 都連接到同一項上; 將使用 I2C3_SDA_M0 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'I2C3_SDA_M0'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 152.4
+                            },
+                            "uuid": "3f6233ec-3f6c-42bb-8b5d-20c285250f28"
+                        },
+                        {
+                            "description": "全域標籤 'TP_SDA'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 152.4
+                            },
+                            "uuid": "d525c3ea-7df5-4e2f-ab7f-945e31a2a03d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "GPIO2_A2_D 和 TP_RST 都連接到同一項上; 將使用 GPIO2_A2_D 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO2_A2_D'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 154.94
+                            },
+                            "uuid": "fe007b8d-e12f-439c-bc4b-da6f8d167970"
+                        },
+                        {
+                            "description": "全域標籤 'TP_RST'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 154.94
+                            },
+                            "uuid": "05efaa76-9fd2-40f3-8720-f1651cad10a2"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "GPIO2_A3_D 和 TP_INT 都連接到同一項上; 將使用 GPIO2_A3_D 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO2_A3_D'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 157.48
+                            },
+                            "uuid": "0c0c83ed-d0e2-4d62-a41d-f2724c34048b"
+                        },
+                        {
+                            "description": "全域標籤 'TP_INT'",
+                            "pos": {
+                                "x": 55.88,
+                                "y": 157.48
+                            },
+                            "uuid": "d2f03a06-e488-4409-bb28-c9ecea0b2ef7"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "GPIO0_A2_D 和 LCD_RESET 都連接到同一項上; 將使用 GPIO0_A2_D 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO0_A2_D'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 143.51
+                            },
+                            "uuid": "c73f074f-f408-4cf4-8e10-ff07dd32de11"
+                        },
+                        {
+                            "description": "全域標籤 'LCD_RESET'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 143.51
+                            },
+                            "uuid": "c3779c84-0981-4958-af8d-6dfc2abcfcef"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "I2C3_SCL_M0 和 TP_SCL 都連接到同一項上; 將使用 I2C3_SCL_M0 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'I2C3_SCL_M0'",
+                            "pos": {
+                                "x": 49.53,
+                                "y": 149.86
+                            },
+                            "uuid": "dfd0f7b5-0280-4c03-9510-b5b521d4da4d"
+                        },
+                        {
+                            "description": "全域標籤 'TP_SCL'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 149.86
+                            },
+                            "uuid": "baf5f2b3-58e0-4970-83b0-827f352b9d3a"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "GPIO1_A4D 和 OWR_LCD 都連接到同一項上; 將使用 GPIO1_A4D 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO1_A4D'",
+                            "pos": {
+                                "x": 114.3,
+                                "y": 104.14
+                            },
+                            "uuid": "7d33a9ee-30b7-4137-a427-198daa45dcbb"
+                        },
+                        {
+                            "description": "全域標籤 'OWR_LCD'",
+                            "pos": {
+                                "x": 120.65,
+                                "y": 104.14
+                            },
+                            "uuid": "0e2bd0cf-e9c7-4945-8c91-70aaf3e7f2cc"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "LCD_LEDA 和 VCC_SYS 都連接到同一項上; 將使用 LCD_LEDA 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'LCD_LEDA'",
+                            "pos": {
+                                "x": 224.79,
+                                "y": 114.3
+                            },
+                            "uuid": "ef8eb1bd-bc66-41d7-bb0e-8d0f1fa3a500"
+                        },
+                        {
+                            "description": "Symbol #PWR0224 隱藏的接腳 1 [Power input, Line]",
+                            "pos": {
+                                "x": 201.93,
+                                "y": 114.3
+                            },
+                            "uuid": "1cad50dd-3114-49df-9522-5691f57e42cd"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                }
+            ]
+        },
+        {
+            "path": "/P11 LED-DRV/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/01fb162d-7747-4268-a9e7-ed03b7928f8f",
+            "violations": [
+                {
+                    "description": "UV_LED+ 和 VCC_UVLED 都連接到同一項上; 將使用 UV_LED+ 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'UV_LED+'",
+                            "pos": {
+                                "x": 60.96,
+                                "y": 114.3
+                            },
+                            "uuid": "24309efe-f262-4f8a-a388-af4140ffc201"
+                        },
+                        {
+                            "description": "Symbol #PWR0251 隱藏的接腳 1 [Power input, Line]",
+                            "pos": {
+                                "x": 38.1,
+                                "y": 114.3
+                            },
+                            "uuid": "ecd5e458-e848-463a-a462-197aba32e781"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "GPIO2_A5_D 和 OWR_UV 都連接到同一項上; 將使用 GPIO2_A5_D 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO2_A5_D'",
+                            "pos": {
+                                "x": 35.56,
+                                "y": 13.97
+                            },
+                            "uuid": "2a0494e7-45f7-43a6-a78b-c1cf1eb35d9f"
+                        },
+                        {
+                            "description": "全域標籤 'OWR_UV'",
+                            "pos": {
+                                "x": 45.72,
+                                "y": 13.97
+                            },
+                            "uuid": "2370d984-5204-44f2-9ab8-5101ca442137"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                }
+            ]
+        },
+        {
+            "path": "/P12 Others/",
+            "uuid_path": "/3723095f-fa54-4550-a2d9-df323f3b9fee/19cbe576-7df6-49ae-b9a3-2f5733da9f4d",
+            "violations": [
+                {
+                    "description": "I2C1_SDA_M1 和 SENSER_SDA 都連接到同一項上; 將使用 I2C1_SDA_M1 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'I2C1_SDA_M1'",
+                            "pos": {
+                                "x": 41.91,
+                                "y": 24.13
+                            },
+                            "uuid": "d6cb4371-4736-425c-ae3c-edab52aa51fe"
+                        },
+                        {
+                            "description": "全域標籤 'SENSER_SDA'",
+                            "pos": {
+                                "x": 46.99,
+                                "y": 24.13
+                            },
+                            "uuid": "6a698e37-5f0a-46c5-bdfa-0893c232077c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "GPIO1_A1D 和 TOUCH_OUT 都連接到同一項上; 將使用 GPIO1_A1D 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO1_A1D'",
+                            "pos": {
+                                "x": 41.91,
+                                "y": 34.29
+                            },
+                            "uuid": "c96d6d4b-45bf-4820-b5a5-034b5db08ee4"
+                        },
+                        {
+                            "description": "全域標籤 'TOUCH_OUT'",
+                            "pos": {
+                                "x": 46.99,
+                                "y": 34.29
+                            },
+                            "uuid": "0d34e411-5952-40fb-980f-fa52bf6a1cc9"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "I2C1_SCL_M1 和 SENSER_SCL 都連接到同一項上; 將使用 I2C1_SCL_M1 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'I2C1_SCL_M1'",
+                            "pos": {
+                                "x": 41.91,
+                                "y": 21.59
+                            },
+                            "uuid": "2e66fb3e-d276-476a-8e6d-796486a3017d"
+                        },
+                        {
+                            "description": "全域標籤 'SENSER_SCL'",
+                            "pos": {
+                                "x": 77.47,
+                                "y": 81.28
+                            },
+                            "uuid": "7ad379af-91b2-467d-b081-299de17a607d"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "GPIO1_A0D 和 HALL_OUT_CPU 都連接到同一項上; 將使用 GPIO1_A0D 作為網表中的網路名稱",
+                    "items": [
+                        {
+                            "description": "全域標籤 'GPIO1_A0D'",
+                            "pos": {
+                                "x": 41.91,
+                                "y": 31.75
+                            },
+                            "uuid": "27e0ed50-2c2c-445c-919a-bef9d0e53950"
+                        },
+                        {
+                            "description": "全域標籤 'HALL_OUT_CPU'",
+                            "pos": {
+                                "x": 355.6,
+                                "y": 71.12
+                            },
+                            "uuid": "ec4b441f-cd12-4273-b82b-d43c79974b43"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                }
+            ]
+        }
+    ],
+    "source": "QingChun_0.5.kicad_sch"
+}

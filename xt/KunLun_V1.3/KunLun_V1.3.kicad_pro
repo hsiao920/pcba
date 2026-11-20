@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "filename": "KunLun_V1.3.kicad_pro",
+    "version": 1
+  },
+  "schematic": {},
+  "erc": {
+    "rule_severities": {
+      "power_pin_not_driven": "ignore"
+    }
+  },
+  "boards": [],
+  "sheets": [
+    [
+      "317aa069-6e22-43d1-8b37-6ce5795f0124",
+      "Root"
+    ],
+    [
+      "9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976",
+      "P01"
+    ],
+    [
+      "c2980641-aa47-48ef-8e8e-bf48a98b4b43",
+      "P02"
+    ],
+    [
+      "9f797b64-75dd-4151-ad68-3c5928d87259",
+      "P03"
+    ],
+    [
+      "8a11ea88-1f97-4da5-bddf-8b753c69db84",
+      "P04"
+    ],
+    [
+      "b7664e4a-9e1f-486c-bc9b-b3007420acb6",
+      "P05"
+    ],
+    [
+      "d5e7e9cf-8ebb-436c-bafd-7978ef80758a",
+      "P06"
+    ],
+    [
+      "f598729b-10b2-4893-a93c-dd8e98ad83b2",
+      "P07"
+    ],
+    [
+      "01cbed86-fe10-4f85-bf68-18dfd1c817a4",
+      "P08"
+    ],
+    [
+      "277de794-ce03-45e4-9c33-cb7eba8df56f",
+      "P09"
+    ],
+    [
+      "e4d8fcda-1acd-45e3-af97-aff2f73ef0dd",
+      "P10"
+    ],
+    [
+      "bd849a7a-78bb-41d3-9ec8-881afd8d5839",
+      "P11"
+    ],
+    [
+      "e21252d1-c60c-4eb4-a190-a67f07e9018c",
+      "P12"
+    ],
+    [
+      "c165af41-fe7c-436c-be8d-827f035ac62b",
+      "P13"
+    ],
+    [
+      "0054b931-fba5-47bc-ab11-84ac1c91f8da",
+      "P14"
+    ],
+    [
+      "e087ff1d-8020-4bf5-9539-de5f4000a123",
+      "P15"
+    ],
+    [
+      "f3534ba1-d2d5-4315-98f6-43199c91790c",
+      "P16"
+    ],
+    [
+      "fd15b052-4e07-41eb-9c9a-306f53fad240",
+      "P17"
+    ],
+    [
+      "29b1b6f9-d0bd-460a-8759-e45d68f5c449",
+      "P18"
+    ]
+  ]
+}
