@@ -1,0 +1,148 @@
+    D1P ESD1 6 ok
+    D1P ESD1 1 ok
+    D1P J1 A6 ok
+    D1P J1 B6 ok
+D1P        pads= 5 tracks=192 vias=90  0.7s
+    D1N ESD1 4 ok
+    D1N ESD1 3 ok
+    D1N J1 A7 ok
+    D1N J1 B7 ok
+D1N        pads= 5 tracks=215 vias=92  0.5s
+    D2P ESD2 6 ok
+    D2P ESD2 1 ok
+    D2P J2 A6 ok
+    D2P J2 B6 ok
+D2P        pads= 5 tracks=231 vias=92  0.2s
+    D2N ESD2 4 ok
+    D2N ESD2 3 ok
+    D2N J2 A7 ok
+    D2N J2 B7 ok
+D2N        pads= 5 tracks=252 vias=94  1.0s
+    S R7 2 ok
+    S R8 1 ok
+    S TP9 1 ok
+S          pads= 4 tracks=265 vias=94  0.3s
+    S_DRV R7 1 ok
+S_DRV      pads= 2 tracks=277 vias=94  0.3s
+    D3P ESD3 1 ok
+    D3P ESD3 6 ok
+    D3P J3 3 ok
+D3P        pads= 4 tracks=287 vias=94  0.2s
+    D3N ESD3 3 ok
+    D3N ESD3 4 ok
+    D3N J3 2 ok
+D3N        pads= 4 tracks=298 vias=94  0.2s
+    D4P R17 2 ok
+    D4P J5 3 ok
+    D4P ESD4 6 ok
+    D4P ESD4 1 ok
+    D4P J4 3 ok
+D4P        pads= 6 tracks=325 vias=97  4.8s
+    D4N ESD4 4 ok
+    D4N ESD4 3 ok
+    D4N J4 2 ok
+    D4N J5 4 ok
+D4N        pads= 5 tracks=347 vias=101  6.1s
+    VSW C11 1 ok
+    VSW C12 1 ok
+    VSW C16 1 ok
+    VSW C15 1 ok
+    VSW TP12 1 ok
+VSW        pads= 8 tracks=368 vias=101  1.0s
+    OUT_VBUS TVS3 1 ok
+    OUT_VBUS ESD3 5 ok
+    OUT_VBUS C17 1 ok
+    OUT_VBUS C18 1 ok
+    OUT_VBUS TP11 1 ok
+    OUT_VBUS R11 1 ok
+    OUT_VBUS R10 1 ok
+OUT_VBUS   pads= 9 tracks=406 vias=110  12.0s
+    VBUS1 C9 1 ok
+    VBUS1 C10 1 ok
+    VBUS1 ESD1 5 ok
+    VBUS1 TVS1 1 ok
+    VBUS1 TP14 1 ok
+VBUS1      pads=10 tracks=427 vias=113  1.2s
+    VBUS2 C13 1 ok
+    VBUS2 C14 1 ok
+    VBUS2 ESD2 5 ok
+    VBUS2 TVS2 1 ok
+    VBUS2 TP15 1 ok
+VBUS2      pads=10 tracks=449 vias=116  1.0s
+    +5V C1 1 ok
+    +5V J5 1 ok
+    +5V SW_RST 1 ok
+    +5V SW_RST 1 ok
+    +5V C4 1 ok
+    +5V C6 1 ok
+    +5V ESD4 5 ok
+    +5V J4 1 ok
+    +5V U5 3 ok
+    +5V R12 1 ok
+    +5V TVS4 1 ok
+    +5V R13 1 ok
+    +5V TP2 1 ok
++5V        pads=14 tracks=524 vias=126  13.4s
+    +3V3 C7 1 ok
+    +3V3 U5 2 ok
+    +3V3 U5 2 ok
+    +3V3 C5 1 ok
+    +3V3 TP3 1 ok
++3V3       pads= 6 tracks=557 vias=133  12.1s
+    ON1 R5 1 ok
+    ON1 Q1 1 ok
+    ON1 U3 B2 ok
+    ON1 TP7 1 ok
+ON1        pads= 5 tracks=584 vias=143  11.0s
+    ON2 R6 1 ok
+    ON2 Q2 1 ok
+    ON2 U4 B2 ok
+    ON2 TP8 1 ok
+ON2        pads= 5 tracks=619 vias=152  10.4s
+    CMD R9 1 ok
+    CMD TP6 1 ok
+    CMD Q3 1 ok
+CMD        pads= 4 tracks=659 vias=166  19.4s
+    J1_CC1 R1 1 ok
+J1_CC1     pads= 2 tracks=666 vias=166  0.3s
+    J1_CC2 R2 1 ok
+J1_CC2     pads= 2 tracks=675 vias=166  0.4s
+    J2_CC1 R3 1 ok
+J2_CC1     pads= 2 tracks=680 vias=166  0.2s
+    J2_CC2 R4 1 ok
+J2_CC2     pads= 2 tracks=689 vias=166  0.3s
+    LED1_A LED1 2 ok
+LED1_A     pads= 2 tracks=692 vias=166  0.2s
+    LED1_K Q1 3 ok
+LED1_K     pads= 2 tracks=697 vias=168  0.3s
+    LED2_A LED2 2 ok
+LED2_A     pads= 2 tracks=702 vias=170  0.2s
+    LED2_K Q2 3 ok
+LED2_K     pads= 2 tracks=710 vias=172  0.4s
+    LEDC_A LED_CMD 2 ok
+LEDC_A     pads= 2 tracks=714 vias=172  0.2s
+    LEDC_K Q3 3 ok
+LEDC_K     pads= 2 tracks=720 vias=172  0.2s
+    LEDP_A LED_PWR 2 ok
+LEDP_A     pads= 2 tracks=726 vias=172  0.2s
+    RST_J5 R16 2 ok
+RST_J5     pads= 2 tracks=737 vias=174  0.8s
+    RSTSW SW_RST 2 ok
+    RSTSW SW_RST 2 ok
+RSTSW      pads= 3 tracks=743 vias=174  0.2s
+    BOOT SW_BOOT 2 ok
+    BOOT R17 1 ok
+    BOOT SW_BOOT 2 ok
+BOOT       pads= 4 tracks=762 vias=178  0.7s
+    V33 C2 1 ok
+    V33 SW_BOOT 1 ok
+    V33 SW_BOOT 1 ok
+    V33 TP4 1 ok
+V33        pads= 5 tracks=795 vias=184  13.3s
+    RST C3 1 ok
+    RST R16 1 ok
+    RST R15 1 ok
+    RST R14 2 ok
+    RST TP5 1 ok
+RST        pads= 6 tracks=833 vias=192  16.8s
+done: 833 tracks, 192 vias, 0 failed connections, 142s

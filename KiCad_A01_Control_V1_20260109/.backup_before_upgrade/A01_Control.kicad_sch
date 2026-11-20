@@ -1,0 +1,338 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a2e91d22-027b-4c12-adb9-c20d18646b34")
+	(paper "A3")
+	(lib_symbols)
+	(text "No footprints or PCB layout; all pin types passive. Read README.md and REVIEW.md."
+		(exclude_from_sim no)
+		(at 20 72 0)
+		(effects
+			(font
+				(size 1.3 1.3)
+			)
+			(justify left bottom)
+		)
+		(uuid "6eee4ccd-ff94-4a04-901e-98411702111f")
+	)
+	(text "Source: control board V1.0 dated 2026-01-09; drawing frame revision V0.2."
+		(exclude_from_sim no)
+		(at 20 42 0)
+		(effects
+			(font
+				(size 1.3 1.3)
+			)
+			(justify left bottom)
+		)
+		(uuid "7bd3310a-c0e4-4712-bdea-1ddc578e5b93")
+	)
+	(text "A01 CONTROL BOARD - PDF RECONSTRUCTION"
+		(exclude_from_sim no)
+		(at 20 20 0)
+		(effects
+			(font
+				(size 2 2)
+			)
+			(justify left bottom)
+		)
+		(uuid "b20f13b5-6b50-4ae3-9a50-c784d379d3d2")
+	)
+	(text "Six editable source sheets; identical GLOBAL labels connect across all sheets."
+		(exclude_from_sim no)
+		(at 20 32 0)
+		(effects
+			(font
+				(size 1.3 1.3)
+			)
+			(justify left bottom)
+		)
+		(uuid "c71b3768-a031-464a-b815-f9543ba0ed3b")
+	)
+	(text "REVIEW: source red marks have NOT been interpreted as DNP."
+		(exclude_from_sim no)
+		(at 20 52 0)
+		(effects
+			(font
+				(size 1.3 1.3)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7dab28b-1cb9-4720-880a-89e48a9bbe46")
+	)
+	(text "REVIEW: VCC_3.3V and VCC_3V3 are distinct; NFC_3V3 source is unresolved."
+		(exclude_from_sim no)
+		(at 20 62 0)
+		(effects
+			(font
+				(size 1.3 1.3)
+			)
+			(justify left bottom)
+		)
+		(uuid "eff05759-bb3d-4543-8a71-5a2c90635cf3")
+	)
+	(sheet
+		(at 25 140)
+		(size 160 25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "14ef0777-4d1d-4dfe-8e86-f04180be5d5a")
+		(property "Sheetname" "02 MCU_RF_Audio_Flash"
+			(at 25 137.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Sheetfile" "02_MCU_RF_Audio_Flash.kicad_sch"
+			(at 25 167.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(instances
+			(project "A01_Control"
+				(path "/a2e91d22-027b-4c12-adb9-c20d18646b34"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25 95)
+		(size 160 25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "89983095-885d-44f3-a9ed-61a0fa1beafc")
+		(property "Sheetname" "01 Power"
+			(at 25 92.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Sheetfile" "01_Power.kicad_sch"
+			(at 25 122.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(instances
+			(project "A01_Control"
+				(path "/a2e91d22-027b-4c12-adb9-c20d18646b34"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25 185)
+		(size 160 25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "952997b1-8045-4683-9e8c-08778ca2cad5")
+		(property "Sheetname" "03 IMU_FuelGauge"
+			(at 25 182.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Sheetfile" "03_IMU_FuelGauge.kicad_sch"
+			(at 25 212.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(instances
+			(project "A01_Control"
+				(path "/a2e91d22-027b-4c12-adb9-c20d18646b34"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220 185)
+		(size 160 25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d0536048-a05b-41b1-bf49-6fc96762ae2d")
+		(property "Sheetname" "06 NFC"
+			(at 220 182.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Sheetfile" "06_NFC.kicad_sch"
+			(at 220 212.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(instances
+			(project "A01_Control"
+				(path "/a2e91d22-027b-4c12-adb9-c20d18646b34"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220 95)
+		(size 160 25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d4d46c90-9809-4445-906c-8c45ad5ddefc")
+		(property "Sheetname" "04 LCD_Connectors"
+			(at 220 92.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Sheetfile" "04_LCD_Connectors.kicad_sch"
+			(at 220 122.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(instances
+			(project "A01_Control"
+				(path "/a2e91d22-027b-4c12-adb9-c20d18646b34"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220 140)
+		(size 160 25)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "de906cc7-ded5-4a16-ac3f-2a9e0d16503f")
+		(property "Sheetname" "05 Pump_Valve_Touch"
+			(at 220 137.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Sheetfile" "05_Pump_Valve_Touch.kicad_sch"
+			(at 220 167.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(instances
+			(project "A01_Control"
+				(path "/a2e91d22-027b-4c12-adb9-c20d18646b34"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

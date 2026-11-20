@@ -1,0 +1,7022 @@
+{
+  "source": "D:\\Users\\jacky\\zs\\datasheet\\SCH_控制板_V1.0_2026-01-09.pdf",
+  "sha256": "93003223c9bf4c89c97ab0d4c5de93ed053ffafcf88eda4243fd8067112b4d3e",
+  "components": [
+    {
+      "page": 1,
+      "ref": "U4",
+      "value": "SY7065AQMC",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "PVOUT",
+          "VCC_5V"
+        ],
+        "2": [
+          "LX",
+          "BOOST5_SW"
+        ],
+        "3": [
+          "PGND",
+          "GND"
+        ],
+        "4": [
+          "SGND",
+          "GND"
+        ],
+        "5": [
+          "IN",
+          "VBUS_BAT"
+        ],
+        "6": [
+          "SVOUT",
+          "VCC_5V"
+        ],
+        "7": [
+          "EN",
+          "BOOST5_EN"
+        ],
+        "8": [
+          "LBI",
+          "BOOST5_LBI"
+        ],
+        "9": [
+          "LBO",
+          "BOOST5_LBO"
+        ],
+        "10": [
+          "FB",
+          "BOOST5_FB"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        45.72
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C45",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        71.12
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C46",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        91.44
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "U5",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        111.75999999999999
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C20",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        132.07999999999998
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C43",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        152.39999999999998
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C44",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        172.71999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C21",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        193.03999999999996
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C24",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        213.35999999999996
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C25",
+      "value": "22pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "BUCK33_SW"
+        ],
+        "2": [
+          "2",
+          "BUCK33_SNUB"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        63.5,
+        233.67999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C26",
+      "value": "120pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "BUCK33_FB"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        63.5,
+        253.99999999999994
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C47",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        274.31999999999994
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C29",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        294.63999999999993
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C27",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        314.9599999999999
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C13",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        335.2799999999999
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C12",
+      "value": "22pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "AUX5_SW"
+        ],
+        "2": [
+          "2",
+          "AUX5_SNUB"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        63.5,
+        355.5999999999999
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C11",
+      "value": "120pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_5V"
+        ],
+        "2": [
+          "2",
+          "AUX5_FB"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        63.5,
+        375.9199999999999
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C10",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        40.64
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C9",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        60.96
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C39",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        81.28
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C14",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        101.6
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C40",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C16",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C7",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "CHARGE_SENSE"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C8",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "BAT+"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C42",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C5",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        223.51999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C3",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        243.83999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "C41",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R19",
+      "value": "1M",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "EN_PWR"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        284.47999999999996
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R20",
+      "value": "300k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "BOOST5_LBI_FEED"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        304.79999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R21",
+      "value": "51k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "BOOST5_LBI_FEED"
+        ],
+        "2": [
+          "2",
+          "BOOST5_LBI"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        325.11999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R22",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "EN_PWR"
+        ],
+        "2": [
+          "2",
+          "BOOST5_EN"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        345.43999999999994
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R23",
+      "value": "100k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "BOOST5_LBO"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        365.75999999999993
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R25",
+      "value": "470k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "BOOST5_FB"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        40.64
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R24",
+      "value": "147k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "BOOST5_FB"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        60.96
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R26",
+      "value": "1k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "BUCK33_PG"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        81.28
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R27",
+      "value": "1k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "BUCK33_EN"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        101.6
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R29",
+      "value": "499k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "BUCK33_FB"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R30",
+      "value": "110k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "BUCK33_FB"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R28",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "BUCK33_SNUB"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R18",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "GND"
+        ],
+        "2": [
+          "2",
+          "POWER_OR_GATE"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R17",
+      "value": "100",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS"
+        ],
+        "2": [
+          "2",
+          "POWER_OR_GATE"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R15",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "AUX5_EN"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        223.51999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R14",
+      "value": "470k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_5V"
+        ],
+        "2": [
+          "2",
+          "AUX5_FB"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        243.83999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R13",
+      "value": "147k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "AUX5_FB"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R16",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "AUX5_SNUB"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        284.47999999999996
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R12",
+      "value": "10m",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "BAT+"
+        ],
+        "2": [
+          "2",
+          "CHARGE_SENSE"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        304.79999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R10",
+      "value": "300k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "NTC1"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        325.11999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R3",
+      "value": "100k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS"
+        ],
+        "2": [
+          "2",
+          "VBUS_IN"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        345.43999999999994
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R4",
+      "value": "147k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_IN"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        365.75999999999993
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R5",
+      "value": "5.1k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "USB_CC1"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        40.64
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R9",
+      "value": "5.1k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "USB_CC2"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        60.96
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R6",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "USB_DM"
+        ],
+        "2": [
+          "2",
+          "TYPEC_DM"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        81.28
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "R8",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "USB_DP"
+        ],
+        "2": [
+          "2",
+          "TYPEC_DP"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        101.6
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "U6",
+      "value": "1.5uH",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "BOOST5_SW"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "U9",
+      "value": "1.5uH",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "BUCK33_SW"
+        ],
+        "2": [
+          "2",
+          "VCC_3V3"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "L2",
+      "value": "4.7uH",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "2",
+          "AUX5_SW"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "L1",
+      "value": "10uH",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "CHARGE_SENSE"
+        ],
+        "2": [
+          "2",
+          "CHARGE_SW"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "U8",
+      "value": "NS4150B",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "EN",
+          "BUCK33_EN"
+        ],
+        "2": [
+          "PG",
+          "BUCK33_PG"
+        ],
+        "3": [
+          "FB",
+          "BUCK33_FB"
+        ],
+        "4": [
+          "GND",
+          "GND"
+        ],
+        "5": [
+          "LX",
+          "BUCK33_SW"
+        ],
+        "6": [
+          "IN",
+          "VCC_5V"
+        ]
+      },
+      "note": "Source value conflicts with buck pinout; confirm actual part.",
+      "position": [
+        406.4,
+        205.73999999999998
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "U2",
+      "value": "SY7011AABC",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "LX",
+          "AUX5_SW"
+        ],
+        "2": [
+          "GND",
+          "GND"
+        ],
+        "3": [
+          "FB",
+          "AUX5_FB"
+        ],
+        "4": [
+          "EN",
+          "AUX5_EN"
+        ],
+        "5": [
+          "OUT",
+          "VDD_5V"
+        ],
+        "6": [
+          "IN",
+          "VBUS_BAT"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        231.14
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "U3",
+      "value": "ME6231A33M3G",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "VSS",
+          "GND"
+        ],
+        "2": [
+          "VOUT",
+          "VDD_3V3"
+        ],
+        "3": [
+          "VIN",
+          "VDD_5V"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        255.26999999999998
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "U1",
+      "value": "XP4302",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "VIN",
+          "VBUS"
+        ],
+        "2": [
+          "LED1",
+          null
+        ],
+        "3": [
+          "LED2",
+          null
+        ],
+        "4": [
+          "VSET",
+          "GND"
+        ],
+        "5": [
+          "NTC",
+          "NTC1"
+        ],
+        "6": [
+          "BAT",
+          "BAT+"
+        ],
+        "7": [
+          "SEN",
+          "CHARGE_SENSE"
+        ],
+        "8": [
+          "SW",
+          "CHARGE_SW"
+        ],
+        "9": [
+          "EP",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        281.93999999999994
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "Q1",
+      "value": "TW60P02CC",
+      "kind": "PMOS",
+      "pins": {
+        "1": [
+          "G",
+          "POWER_OR_GATE"
+        ],
+        "2": [
+          "S",
+          "VBUS_BAT"
+        ],
+        "3": [
+          "D",
+          "BAT+"
+        ]
+      },
+      "note": "G1/S2/D3 inferred; verify package pinout.",
+      "position": [
+        406.4,
+        308.60999999999996
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "D4",
+      "value": "DS34W",
+      "kind": "D",
+      "pins": {
+        "1": [
+          "K",
+          "VBUS_BAT"
+        ],
+        "2": [
+          "A",
+          "VBUS"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        330.2
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "D1",
+      "value": "PESD5V0S1BBN",
+      "kind": "TVS",
+      "pins": {
+        "1": [
+          "1",
+          "TYPEC_DM"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        350.52
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "D2",
+      "value": "SMFJ6.5CA",
+      "kind": "TVS",
+      "pins": {
+        "1": [
+          "1",
+          "VBUS"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        370.84
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "D3",
+      "value": "PESD5V0S1BBN",
+      "kind": "TVS",
+      "pins": {
+        "1": [
+          "1",
+          "TYPEC_DP"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        40.64
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "J1",
+      "value": "BX-ZH1.5-4PWT",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "BAT+"
+        ],
+        "2": [
+          "2",
+          "NTC2"
+        ],
+        "3": [
+          "3",
+          "NTC1"
+        ],
+        "4": [
+          "4",
+          "BAT-"
+        ],
+        "5": [
+          "MOUNT",
+          "GND"
+        ],
+        "6": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        63.5
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "USB1",
+      "value": "TYPE-C 16PIN 2MD(073)",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "GND",
+          "GND"
+        ],
+        "2": [
+          "VBUS",
+          "VBUS"
+        ],
+        "3": [
+          "SBU2",
+          null
+        ],
+        "4": [
+          "CC1",
+          "USB_CC1"
+        ],
+        "5": [
+          "DN2",
+          "TYPEC_DM"
+        ],
+        "6": [
+          "DP1",
+          "TYPEC_DP"
+        ],
+        "7": [
+          "DN1",
+          "TYPEC_DM"
+        ],
+        "8": [
+          "DP2",
+          "TYPEC_DP"
+        ],
+        "9": [
+          "SBU1",
+          null
+        ],
+        "10": [
+          "CC2",
+          "USB_CC2"
+        ],
+        "11": [
+          "VBUS",
+          "VBUS"
+        ],
+        "12": [
+          "GND",
+          "GND"
+        ],
+        "13": [
+          "SHELL",
+          "GND"
+        ],
+        "14": [
+          "SHELL",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        93.98
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP4",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "USB_DM"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        121.92000000000002
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP5",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "USB_DP"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        142.24
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP6",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VBUS"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        162.56
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP7",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        182.88
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP8",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "BAT-"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        203.2
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP9",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "NTC1"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        223.51999999999998
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP10",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "NTC2"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        243.83999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP11",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "BAT+"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP12",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VDD_5V"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        284.47999999999996
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP13",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        304.79999999999995
+      ]
+    },
+    {
+      "page": 1,
+      "ref": "TP14",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VDD_3V3"
+        ]
+      },
+      "note": "",
+      "position": [
+        520.7,
+        325.11999999999995
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "U10",
+      "value": "JL7012F6",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "PB9",
+          "INT_N"
+        ],
+        "2": [
+          "PGND",
+          "GND"
+        ],
+        "3": [
+          "SW",
+          "MCU_SW"
+        ],
+        "4": [
+          "VBAT",
+          "VDD_3V3"
+        ],
+        "5": [
+          "VPWR",
+          "MCU_VPWR"
+        ],
+        "6": [
+          "IOVDD",
+          "MCU_IOVDD"
+        ],
+        "7": [
+          "DCVDD",
+          "DC_VDD"
+        ],
+        "8": [
+          "PB7/PB8",
+          null
+        ],
+        "9": [
+          "PB6",
+          "IMU_RST"
+        ],
+        "10": [
+          "PB5",
+          "NFC_RST"
+        ],
+        "11": [
+          "PB4",
+          "EN_PWR"
+        ],
+        "12": [
+          "PB3",
+          "NFC_IRQ"
+        ],
+        "13": [
+          "PB1",
+          "SW1"
+        ],
+        "14": [
+          "BTRF",
+          "MCU_RF"
+        ],
+        "15": [
+          "XOSCI",
+          "XOSCI"
+        ],
+        "16": [
+          "XOSCO",
+          "XOSCO"
+        ],
+        "17": [
+          "PC6",
+          "EN_PA"
+        ],
+        "18": [
+          "PC5",
+          "SFC_D2"
+        ],
+        "19": [
+          "PC4",
+          "SFC_D1"
+        ],
+        "20": [
+          "PC3",
+          "SFC_CS"
+        ],
+        "21": [
+          "PC2",
+          "SFC_D0"
+        ],
+        "22": [
+          "PC1",
+          "SFC_CLK"
+        ],
+        "23": [
+          "PC0",
+          "SFC_D3"
+        ],
+        "24": [
+          "PC8",
+          null
+        ],
+        "25": [
+          "USBDM",
+          "USB_DM"
+        ],
+        "26": [
+          "USBDP",
+          "USB_DP"
+        ],
+        "27": [
+          "PA11",
+          "LCD_CS"
+        ],
+        "28": [
+          "PA10",
+          "LCD_RES"
+        ],
+        "29": [
+          "PA9",
+          "LCD_RS"
+        ],
+        "30": [
+          "PA8",
+          "LCD_SDA"
+        ],
+        "31": [
+          "PA7",
+          "LCD_CLK"
+        ],
+        "32": [
+          "PA6",
+          "IMU_IIC_SDA"
+        ],
+        "33": [
+          "PA5",
+          "IMU_IIC_CLK"
+        ],
+        "34": [
+          "PA4",
+          "TOF_INT"
+        ],
+        "35": [
+          "PA3",
+          "EN_VIBRATE"
+        ],
+        "36": [
+          "PA2",
+          "UART_RX1"
+        ],
+        "37": [
+          "PA1",
+          "UART_TX1"
+        ],
+        "38": [
+          "PA0",
+          "TEST"
+        ],
+        "39": [
+          "AVSS",
+          "AGND"
+        ],
+        "40": [
+          "VCM",
+          "MCU_VCM"
+        ],
+        "41": [
+          "DACLN/DACRP",
+          "DACR"
+        ],
+        "42": [
+          "DACLP",
+          "DACL"
+        ],
+        "43": [
+          "PE5/PE6",
+          "TOF_EN"
+        ],
+        "44": [
+          "PG8",
+          "MCU_IIC1_SCL"
+        ],
+        "45": [
+          "PG7",
+          "TP_SCL"
+        ],
+        "46": [
+          "PG6",
+          "TP_SDA"
+        ],
+        "47": [
+          "PG5",
+          "MCU_IIC1_SDA"
+        ],
+        "48": [
+          "PG4",
+          "PWM_AIR2"
+        ],
+        "49": [
+          "PG3",
+          "PWM_AIR1"
+        ],
+        "50": [
+          "PG2",
+          "EN_LCD"
+        ],
+        "51": [
+          "PG1",
+          "EN_VALVE"
+        ],
+        "52": [
+          "PG0",
+          "VBUS_IN"
+        ],
+        "53": [
+          "VSS",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        73.66000000000001
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C30",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "DC_VDD"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        127.0
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C31",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "DC_VDD"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        147.32
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C32",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        167.64
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C33",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "MCU_VPWR"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        187.95999999999998
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C34",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "MCU_IOVDD"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        208.27999999999997
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C35",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "DC_VDD"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        228.59999999999997
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C49",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "MCU_VCM"
+        ],
+        "2": [
+          "2",
+          "AGND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        248.91999999999996
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C57",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        269.23999999999995
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C54",
+      "value": "12pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "XOSCO"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        289.55999999999995
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C56",
+      "value": "12pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "XOSCI"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        309.87999999999994
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C36",
+      "value": "1.2pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "RF_MATCH"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        330.19999999999993
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C38",
+      "value": "1.2pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "RF_FEED"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        350.5199999999999
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C51",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "PA_L_IN"
+        ],
+        "2": [
+          "2",
+          "PA_INP"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        370.8399999999999
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C52",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "PA_R_IN"
+        ],
+        "2": [
+          "2",
+          "PA_INN"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        40.64
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C53",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "PA_BYPASS"
+        ],
+        "2": [
+          "2",
+          "PA_GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        60.96
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C50",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "PA_VCC"
+        ],
+        "2": [
+          "2",
+          "PA_GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        81.28
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C58",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "FLASH_VCC"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        101.6
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "C59",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "SW1"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "L4",
+      "value": "10uH",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "MCU_SW"
+        ],
+        "2": [
+          "2",
+          "DC_VDD"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "L6",
+      "value": "BLM15AX100SN1D",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "AGND"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "U11",
+      "value": "3.3nH",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "MCU_RF"
+        ],
+        "2": [
+          "2",
+          "RF_MATCH"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "L9",
+      "value": "BLM15AX100SN1D",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "PA_VCC"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "L10",
+      "value": "BLM15AX100SN1D",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "PA_GND"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        223.51999999999995
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "L7",
+      "value": "BLM15AX100SN1D",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "SPK-"
+        ],
+        "2": [
+          "2",
+          "SPK-_CONN"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        177.8,
+        243.83999999999995
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "L8",
+      "value": "BLM15AX100SN1D",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "SPK+"
+        ],
+        "2": [
+          "2",
+          "SPK+_CONN"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        177.8,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R31",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "TP_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        284.47999999999996
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R32",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "TP_SCL"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        304.79999999999995
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R33",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "MCU_IIC1_SCL"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        325.11999999999995
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R34",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "MCU_IIC1_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        345.43999999999994
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R36",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "IIC1_SCL"
+        ],
+        "2": [
+          "2",
+          "MCU_IIC1_SCL"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        177.8,
+        365.75999999999993
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R35",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "IIC1_SDA"
+        ],
+        "2": [
+          "2",
+          "MCU_IIC1_SDA"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        40.64
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R37",
+      "value": "33k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "DACL"
+        ],
+        "2": [
+          "2",
+          "PA_L_IN"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        60.96
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R38",
+      "value": "33k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "DACR"
+        ],
+        "2": [
+          "2",
+          "PA_R_IN"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        81.28
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R40",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "UART_RX1"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        101.6
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R42",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "UART_TX1"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R43",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "TEST"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R39",
+      "value": "0",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "FLASH_VCC"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R44",
+      "value": "100k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "FLASH_VCC"
+        ],
+        "2": [
+          "2",
+          "SFC_CS"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "R45",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "SW1"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "X1",
+      "value": "24MHz",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "X1",
+          "XOSCI"
+        ],
+        "2": [
+          "GND",
+          "GND"
+        ],
+        "3": [
+          "X2",
+          "XOSCO"
+        ],
+        "4": [
+          "GND",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        224.78999999999996
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "D5",
+      "value": "NRESDTLC5V0D8B",
+      "kind": "TVS",
+      "pins": {
+        "1": [
+          "1",
+          "RF_MATCH"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        246.37999999999994
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "L5",
+      "value": "KH-3216-A27",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "RF",
+          "RF_FEED"
+        ],
+        "2": [
+          "RF",
+          "RF_MATCH"
+        ],
+        "3": [
+          "GND",
+          "GND"
+        ]
+      },
+      "note": "Source antenna terminals unnumbered; local logical numbers only.",
+      "position": [
+        292.1,
+        267.9699999999999
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "U12",
+      "value": "NS4150B",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "CTRL",
+          "EN_PA"
+        ],
+        "2": [
+          "Bypass",
+          "PA_BYPASS"
+        ],
+        "3": [
+          "INP",
+          "PA_INP"
+        ],
+        "4": [
+          "INN",
+          "PA_INN"
+        ],
+        "5": [
+          "VON",
+          "SPK-"
+        ],
+        "6": [
+          "VCC",
+          "PA_VCC"
+        ],
+        "7": [
+          "GND",
+          "PA_GND"
+        ],
+        "8": [
+          "VOP",
+          "SPK+"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        293.36999999999995
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "CN1",
+      "value": "HC-0.8-2PWT",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "SPK+_CONN"
+        ],
+        "2": [
+          "2",
+          "SPK-_CONN"
+        ],
+        "3": [
+          "MOUNT",
+          "GND"
+        ],
+        "4": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        318.7699999999999
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "H1",
+      "value": "PZ254V-11-05P",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "UART_RX1"
+        ],
+        "3": [
+          "3",
+          "UART_TX1"
+        ],
+        "4": [
+          "4",
+          "TEST"
+        ],
+        "5": [
+          "5",
+          "GND"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        342.8999999999999
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "U14",
+      "value": "PY25Q128HA-WXH-IR",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "CS#",
+          "SFC_CS"
+        ],
+        "2": [
+          "SO",
+          "SFC_D1"
+        ],
+        "3": [
+          "WP#",
+          "SFC_D2"
+        ],
+        "4": [
+          "GND",
+          "GND"
+        ],
+        "5": [
+          "SI",
+          "SFC_D0"
+        ],
+        "6": [
+          "SCLK",
+          "SFC_CLK"
+        ],
+        "7": [
+          "HOLD#/RESET#",
+          "SFC_D3"
+        ],
+        "8": [
+          "VCC",
+          "FLASH_VCC"
+        ],
+        "9": [
+          "EP",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        370.8399999999999
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "D6",
+      "value": "PESD5V0S1BBN",
+      "kind": "TVS",
+      "pins": {
+        "1": [
+          "1",
+          "SW1"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        406.4,
+        40.64
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "SW1",
+      "value": "TS-1187A-B-A-B",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "CONTACT",
+          "SW1"
+        ],
+        "2": [
+          "CONTACT",
+          "SW1"
+        ],
+        "3": [
+          "CONTACT",
+          "GND"
+        ],
+        "4": [
+          "CONTACT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        62.230000000000004
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "TP1",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "SW1"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        406.4,
+        83.82000000000001
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "TP2",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "SPK-"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        104.14000000000001
+      ]
+    },
+    {
+      "page": 2,
+      "ref": "TP3",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "SPK+"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        124.46000000000001
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R46",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "IMU_RST"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        40.64
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R47",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "IMU_IIC_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        60.96
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R48",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "IMU_CS"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        81.28
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R49",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "IMU_IIC_SDA"
+        ],
+        "2": [
+          "2",
+          "IMU_SDA_PIN"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        63.5,
+        101.6
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R50",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "IMU_VS"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R51",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "IMU_IIC_CLK"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R52",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "IMU_CS"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R53",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "IMU_SCL_PIN"
+        ],
+        "2": [
+          "2",
+          "IMU_IIC_CLK"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        63.5,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R54",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "INT_N"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R55",
+      "value": "4.7",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VDD_3V3"
+        ],
+        "2": [
+          "2",
+          "GAUGE_VDD"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        223.51999999999995
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R56",
+      "value": "470",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "BAT+"
+        ],
+        "2": [
+          "2",
+          "GAUGE_VCELL"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        243.83999999999995
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R57",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "GAUGE_SCL"
+        ],
+        "2": [
+          "2",
+          "IIC1_SCL"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        63.5,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "R58",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "GAUGE_SDA"
+        ],
+        "2": [
+          "2",
+          "IIC1_SDA"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        63.5,
+        284.47999999999996
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "U17",
+      "value": "10m",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "BAT-"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        304.79999999999995
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "C60",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "IMU_RST"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        325.11999999999995
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "C61",
+      "value": "2.2uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        345.43999999999994
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "C62",
+      "value": "2.2uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "IMU_VS"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        365.75999999999993
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "C63",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "INT_N"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        40.64
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "C64",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "GAUGE_VDD"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        60.96
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "C65",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "GAUGE_VCELL"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        81.28
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "U15",
+      "value": "LIS2DH12TR",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "SA0/SDO",
+          "IMU_IIC_SDA"
+        ],
+        "2": [
+          "SDA/SDI/SDIO",
+          "IMU_SDA_PIN"
+        ],
+        "3": [
+          "VDDIO",
+          "VCC_3.3V"
+        ],
+        "4": [
+          "RESERVED",
+          "IMU_RST"
+        ],
+        "5": [
+          "INT1",
+          null
+        ],
+        "6": [
+          "INT2",
+          null
+        ],
+        "7": [
+          "VS",
+          "IMU_VS"
+        ],
+        "8": [
+          "GNDIO",
+          "GND"
+        ],
+        "9": [
+          "GND",
+          "GND"
+        ],
+        "10": [
+          "CS#",
+          "IMU_CS"
+        ],
+        "11": [
+          "NC",
+          null
+        ],
+        "12": [
+          "SCL/SCK",
+          "IMU_SCL_PIN"
+        ]
+      },
+      "note": "Source value and 12-pin symbol may conflict; vendor review required.",
+      "position": [
+        177.8,
+        107.94999999999999
+      ]
+    },
+    {
+      "page": 3,
+      "ref": "U27",
+      "value": "CW2217BAAD",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "INT_N",
+          "INT_N"
+        ],
+        "2": [
+          "NC",
+          null
+        ],
+        "3": [
+          "VDD",
+          "GAUGE_VDD"
+        ],
+        "4": [
+          "VCELL",
+          "GAUGE_VCELL"
+        ],
+        "5": [
+          "NC",
+          null
+        ],
+        "6": [
+          "VSS",
+          "GND"
+        ],
+        "7": [
+          "CSP",
+          "BAT-"
+        ],
+        "8": [
+          "CSN",
+          "GND"
+        ],
+        "9": [
+          "TS",
+          "NTC2"
+        ],
+        "10": [
+          "SDA",
+          "GAUGE_SDA"
+        ],
+        "11": [
+          "SCL",
+          "GAUGE_SCL"
+        ],
+        "12": [
+          "NC",
+          null
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        140.97
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R59",
+      "value": "4.7",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "LCD_VDD"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        40.64
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R60",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_VDD"
+        ],
+        "2": [
+          "2",
+          "LCD_RES"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        60.96
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R61",
+      "value": "100k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "LCD_GATE"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        81.28
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R62",
+      "value": "1k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_GATE"
+        ],
+        "2": [
+          "2",
+          "EN_LCD"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        101.6
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R63",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_RS"
+        ],
+        "2": [
+          "2",
+          "LCD_RS_CONN"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R64",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_SDA"
+        ],
+        "2": [
+          "2",
+          "LCD_SDA_CONN"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R65",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_CLK"
+        ],
+        "2": [
+          "2",
+          "LCD_CLK_CONN"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R67",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_CS"
+        ],
+        "2": [
+          "2",
+          "LCD_CS_CONN"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R72",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "NFC_IRQ"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R71",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "TP_SCL"
+        ],
+        "2": [
+          "2",
+          "TP_SCL_DAUGHTER"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        223.51999999999995
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R73",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "EN_VIBRATE"
+        ],
+        "2": [
+          "2",
+          "EN_VIBRATE_DAUGHTER"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        243.83999999999995
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R69",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "PWM_AIR2"
+        ],
+        "2": [
+          "2",
+          "PWM_AIR2_DAUGHTER"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R70",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_IRQ"
+        ],
+        "2": [
+          "2",
+          "NFC_IRQ_DAUGHTER"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        284.47999999999996
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R76",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "TP_SDA"
+        ],
+        "2": [
+          "2",
+          "TP_SDA_DAUGHTER"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        304.79999999999995
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R77",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "PWM_AIR1"
+        ],
+        "2": [
+          "2",
+          "PWM_AIR1_DAUGHTER"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        325.11999999999995
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R74",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "EN_VALVE"
+        ],
+        "2": [
+          "2",
+          "EN_VALVE_DAUGHTER"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        345.43999999999994
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R75",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_RST"
+        ],
+        "2": [
+          "2",
+          "NFC_RST_DAUGHTER"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        365.75999999999993
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R81",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "TOF_INT"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        40.64
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R82",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "TOF_EN"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        60.96
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R80",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "TOF_INT"
+        ],
+        "2": [
+          "2",
+          "TOF_INT_CONN"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        81.28
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R79",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "IIC1_SDA"
+        ],
+        "2": [
+          "2",
+          "IIC1_SDA_CONN"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        101.6
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R84",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "TOF_EN"
+        ],
+        "2": [
+          "2",
+          "TOF_EN_CONN"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "R83",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "IIC1_SCL"
+        ],
+        "2": [
+          "2",
+          "IIC1_SCL_CONN"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "C66",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_RES"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "C67",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_VDD"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "C68",
+      "value": "1uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "LEDA"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "Q2",
+      "value": "CJ3401",
+      "kind": "PMOS",
+      "pins": {
+        "1": [
+          "G",
+          "LCD_GATE"
+        ],
+        "2": [
+          "S",
+          "VCC_3.3V"
+        ],
+        "3": [
+          "D",
+          "LEDA"
+        ]
+      },
+      "note": "MOS G1/S2/D3 inferred; verify package.",
+      "position": [
+        177.8,
+        224.78999999999996
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "J5",
+      "value": "0.5-8P XJH2.0 043",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "LEDA",
+          "LEDA"
+        ],
+        "2": [
+          "GND",
+          "GND"
+        ],
+        "3": [
+          "RESET",
+          "LCD_RES"
+        ],
+        "4": [
+          "RS",
+          "LCD_RS_CONN"
+        ],
+        "5": [
+          "SDA",
+          "LCD_SDA_CONN"
+        ],
+        "6": [
+          "SCL",
+          "LCD_CLK_CONN"
+        ],
+        "7": [
+          "VDD",
+          "LCD_VDD"
+        ],
+        "8": [
+          "CS",
+          "LCD_CS_CONN"
+        ],
+        "9": [
+          "MOUNT",
+          "GND"
+        ],
+        "10": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        251.45999999999995
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "D7",
+      "value": "PESD5V0S1BBN",
+      "kind": "TVS",
+      "pins": {
+        "1": [
+          "1",
+          "LCD_CS_CONN"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        177.8,
+        276.85999999999996
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "U19",
+      "value": "H5VU25UC",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "IO1",
+          "LCD_RES"
+        ],
+        "2": [
+          "IO2",
+          "LCD_RS_CONN"
+        ],
+        "3": [
+          "GND",
+          "GND"
+        ],
+        "4": [
+          "IO3",
+          "LCD_SDA_CONN"
+        ],
+        "5": [
+          "IO4",
+          "LCD_CLK_CONN"
+        ],
+        "6": [
+          "IO5",
+          "LCD_CLK_CONN"
+        ],
+        "7": [
+          "IO4",
+          "LCD_SDA_CONN"
+        ],
+        "8": [
+          "IO3",
+          "GND"
+        ],
+        "9": [
+          "IO2",
+          "LCD_RS_CONN"
+        ],
+        "10": [
+          "IO1",
+          "LCD_RES"
+        ]
+      },
+      "note": "Source feedthrough wiring: 1/10 IO1,2/9 IO2,3/8 GND,4/7 IO3,5/6 IO4; vendor pinout review before PCB. SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        177.8,
+        302.25999999999993
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "U23",
+      "value": "FPC 0.5-16P LTH2.0",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "VCC_5V"
+        ],
+        "3": [
+          "3",
+          "VCC_3.3V"
+        ],
+        "4": [
+          "4",
+          "VCC_3.3V"
+        ],
+        "5": [
+          "5",
+          "TP_SCL_DAUGHTER"
+        ],
+        "6": [
+          "6",
+          "TP_SDA_DAUGHTER"
+        ],
+        "7": [
+          "7",
+          "EN_VIBRATE_DAUGHTER"
+        ],
+        "8": [
+          "8",
+          "PWM_AIR1_DAUGHTER"
+        ],
+        "9": [
+          "9",
+          "PWM_AIR2_DAUGHTER"
+        ],
+        "10": [
+          "10",
+          "EN_VALVE_DAUGHTER"
+        ],
+        "11": [
+          "11",
+          "NFC_IRQ_DAUGHTER"
+        ],
+        "12": [
+          "12",
+          "NFC_RST_DAUGHTER"
+        ],
+        "13": [
+          "13",
+          "GND"
+        ],
+        "14": [
+          "14",
+          "GND"
+        ],
+        "15": [
+          "15",
+          "GND"
+        ],
+        "16": [
+          "16",
+          "GND"
+        ],
+        "17": [
+          "MOUNT",
+          "GND"
+        ],
+        "18": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        177.8,
+        337.81999999999994
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "U20",
+      "value": "H5VU25UC",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "IO1",
+          "TP_SCL"
+        ],
+        "2": [
+          "IO2",
+          "EN_VIBRATE"
+        ],
+        "3": [
+          "GND",
+          "GND"
+        ],
+        "4": [
+          "IO3",
+          "PWM_AIR2"
+        ],
+        "5": [
+          "IO4",
+          "NFC_IRQ"
+        ],
+        "6": [
+          "IO5",
+          "NFC_IRQ"
+        ],
+        "7": [
+          "IO4",
+          "PWM_AIR2"
+        ],
+        "8": [
+          "IO3",
+          "GND"
+        ],
+        "9": [
+          "IO2",
+          "EN_VIBRATE"
+        ],
+        "10": [
+          "IO1",
+          "TP_SCL"
+        ]
+      },
+      "note": "Source feedthrough wiring: 1/10 IO1,2/9 IO2,3/8 GND,4/7 IO3,5/6 IO4; vendor pinout review before PCB. SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        45.72
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "U21",
+      "value": "H5VU25UC",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "IO1",
+          "TP_SDA"
+        ],
+        "2": [
+          "IO2",
+          "PWM_AIR1"
+        ],
+        "3": [
+          "GND",
+          "GND"
+        ],
+        "4": [
+          "IO3",
+          "EN_VALVE"
+        ],
+        "5": [
+          "IO4",
+          "NFC_RST"
+        ],
+        "6": [
+          "IO5",
+          "NFC_RST"
+        ],
+        "7": [
+          "IO4",
+          "EN_VALVE"
+        ],
+        "8": [
+          "IO3",
+          "GND"
+        ],
+        "9": [
+          "IO2",
+          "PWM_AIR1"
+        ],
+        "10": [
+          "IO1",
+          "TP_SDA"
+        ]
+      },
+      "note": "Source feedthrough wiring: 1/10 IO1,2/9 IO2,3/8 GND,4/7 IO3,5/6 IO4; vendor pinout review before PCB. SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        76.2
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "U26",
+      "value": "FPC 0.5-6P LTH2.0",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3.3V"
+        ],
+        "2": [
+          "2",
+          "VCC_3.3V"
+        ],
+        "3": [
+          "3",
+          "TOF_INT_CONN"
+        ],
+        "4": [
+          "4",
+          "TOF_EN_CONN"
+        ],
+        "5": [
+          "5",
+          "IIC1_SDA_CONN"
+        ],
+        "6": [
+          "6",
+          "IIC1_SCL_CONN"
+        ],
+        "7": [
+          "MOUNT",
+          "GND"
+        ],
+        "8": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        105.41
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "U25",
+      "value": "H5VU25UC",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "IO1",
+          "TOF_INT"
+        ],
+        "2": [
+          "IO2",
+          "IIC1_SDA"
+        ],
+        "3": [
+          "GND",
+          "GND"
+        ],
+        "4": [
+          "IO3",
+          "TOF_EN"
+        ],
+        "5": [
+          "IO4",
+          "IIC1_SCL"
+        ],
+        "6": [
+          "IO5",
+          "IIC1_SCL"
+        ],
+        "7": [
+          "IO4",
+          "TOF_EN"
+        ],
+        "8": [
+          "IO3",
+          "GND"
+        ],
+        "9": [
+          "IO2",
+          "IIC1_SDA"
+        ],
+        "10": [
+          "IO1",
+          "TOF_INT"
+        ]
+      },
+      "note": "Source feedthrough wiring: 1/10 IO1,2/9 IO2,3/8 GND,4/7 IO3,5/6 IO4; vendor pinout review before PCB. SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        134.62
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP15",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "LEDA"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        160.02
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP16",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "LCD_RES"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        180.34
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP17",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "LCD_RS"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        200.66
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP18",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "LCD_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        220.98
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP19",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "LCD_CLK"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        241.29999999999998
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP20",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "LCD_VDD"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        261.61999999999995
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP21",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "LCD_CS"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        281.94
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP22",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VCC_5V"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        302.26
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP23",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VCC_3.3V"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        322.58
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP28",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TP_SCL"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        342.9
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP29",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "EN_VIBRATE"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        363.21999999999997
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP30",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "PWM_AIR2"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        40.64
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP31",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "NFC_IRQ"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        60.96
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP32",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TP_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        81.28
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP33",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "PWM_AIR1"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        101.6
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP34",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "EN_VALVE"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP35",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "NFC_RST"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP36",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TOF_INT"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 4,
+      "ref": "TP37",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "IIC1_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        406.4,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R91",
+      "value": "200",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "PWM_AIR1"
+        ],
+        "2": [
+          "2",
+          "Q6_G"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        40.64
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R92",
+      "value": "100k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "Q6_G"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        60.96
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "Q6",
+      "value": "AO3416",
+      "kind": "NMOS",
+      "pins": {
+        "1": [
+          "G",
+          "Q6_G"
+        ],
+        "2": [
+          "S",
+          "GND"
+        ],
+        "3": [
+          "D",
+          "M1-"
+        ]
+      },
+      "note": "G1/S2/D3 inferred; verify AO3416 package pinout.",
+      "position": [
+        63.5,
+        82.55
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "U31",
+      "value": "B5819WS/SL",
+      "kind": "D",
+      "pins": {
+        "1": [
+          "K",
+          "VCC_5V"
+        ],
+        "2": [
+          "A",
+          "M1-"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        104.14
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "C17",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        124.46000000000001
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R93",
+      "value": "200",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "PWM_AIR2"
+        ],
+        "2": [
+          "2",
+          "Q7_G"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        144.78
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R94",
+      "value": "100k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "Q7_G"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        165.1
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "Q7",
+      "value": "AO3416",
+      "kind": "NMOS",
+      "pins": {
+        "1": [
+          "G",
+          "Q7_G"
+        ],
+        "2": [
+          "S",
+          "GND"
+        ],
+        "3": [
+          "D",
+          "M2-"
+        ]
+      },
+      "note": "G1/S2/D3 inferred; verify AO3416 package pinout.",
+      "position": [
+        63.5,
+        186.69
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "U32",
+      "value": "B5819WS/SL",
+      "kind": "D",
+      "pins": {
+        "1": [
+          "K",
+          "VCC_5V"
+        ],
+        "2": [
+          "A",
+          "M2-"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        208.27999999999997
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "C18",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        228.59999999999997
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R95",
+      "value": "200",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "EN_VIBRATE"
+        ],
+        "2": [
+          "2",
+          "Q4_G"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        248.91999999999996
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R96",
+      "value": "100k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "Q4_G"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        269.23999999999995
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "Q4",
+      "value": "AO3416",
+      "kind": "NMOS",
+      "pins": {
+        "1": [
+          "G",
+          "Q4_G"
+        ],
+        "2": [
+          "S",
+          "GND"
+        ],
+        "3": [
+          "D",
+          "M4-"
+        ]
+      },
+      "note": "G1/S2/D3 inferred; verify AO3416 package pinout.",
+      "position": [
+        63.5,
+        290.8299999999999
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "U7",
+      "value": "B5819WS/SL",
+      "kind": "D",
+      "pins": {
+        "1": [
+          "K",
+          "VCC_3V3"
+        ],
+        "2": [
+          "A",
+          "M4-"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        312.41999999999996
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "C80",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        332.73999999999995
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R97",
+      "value": "200",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "EN_VALVE"
+        ],
+        "2": [
+          "2",
+          "Q5_G"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        353.05999999999995
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R98",
+      "value": "100k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "Q5_G"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        373.37999999999994
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "Q5",
+      "value": "AO3416",
+      "kind": "NMOS",
+      "pins": {
+        "1": [
+          "G",
+          "Q5_G"
+        ],
+        "2": [
+          "S",
+          "GND"
+        ],
+        "3": [
+          "D",
+          "M3-"
+        ]
+      },
+      "note": "G1/S2/D3 inferred; verify AO3416 package pinout.",
+      "position": [
+        177.8,
+        41.910000000000004
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "U33",
+      "value": "B5819WS/SL",
+      "kind": "D",
+      "pins": {
+        "1": [
+          "K",
+          "VCC_3V3"
+        ],
+        "2": [
+          "A",
+          "M3-"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        63.5
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "C81",
+      "value": "22uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        83.82000000000001
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "U30",
+      "value": "HX 1.0-4P LT",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "M1-"
+        ],
+        "3": [
+          "3",
+          "VCC_5V"
+        ],
+        "4": [
+          "4",
+          "M2-"
+        ],
+        "5": [
+          "MOUNT",
+          "GND"
+        ],
+        "6": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        106.68
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "CN2",
+      "value": "ZH1.5-2P-LT",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "M3-"
+        ],
+        "3": [
+          "MOUNT",
+          "GND"
+        ],
+        "4": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        130.81000000000003
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "CN3",
+      "value": "ZH1.5-2P-LT",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "M4-"
+        ],
+        "3": [
+          "MOUNT",
+          "GND"
+        ],
+        "4": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        153.67000000000004
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "U34",
+      "value": "BS83B04C",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "PA5/KEY1",
+          "TK1"
+        ],
+        "2": [
+          "PA1/KEY2",
+          "TK2"
+        ],
+        "3": [
+          "PA3/KEY3",
+          "TK3"
+        ],
+        "4": [
+          "PA4/KEY4",
+          null
+        ],
+        "5": [
+          "PA0/CTCK/INT/SCL/ICPDA",
+          "TOUCH_SCL"
+        ],
+        "6": [
+          "PA2/CTPB/SDA/ICPCK",
+          "TOUCH_SDA"
+        ],
+        "7": [
+          "VSS",
+          "TOUCH_GND"
+        ],
+        "8": [
+          "VDD",
+          "TOUCH_VDD"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        179.07000000000005
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "L13",
+      "value": "BLM15AX100SN1D",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "TOUCH_VDD"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        203.20000000000005
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "L14",
+      "value": "BLM15AX100SN1D",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "TOUCH_GND"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        223.52000000000004
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "C22",
+      "value": "2.2uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "TOUCH_VDD"
+        ],
+        "2": [
+          "2",
+          "TOUCH_GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        243.84000000000003
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "C23",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "TOUCH_VDD"
+        ],
+        "2": [
+          "2",
+          "TOUCH_GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        264.16
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R99",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "TOUCH_SDA"
+        ],
+        "2": [
+          "2",
+          "TP_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        284.48
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "R100",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "TOUCH_SCL"
+        ],
+        "2": [
+          "2",
+          "TP_SCL"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        304.8
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "FPC3",
+      "value": "HX FPC 0.5-4P LTH2.0",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "TK3"
+        ],
+        "2": [
+          "2",
+          "TK1"
+        ],
+        "3": [
+          "3",
+          "TK2"
+        ],
+        "4": [
+          "4",
+          "TK3"
+        ],
+        "5": [
+          "MOUNT",
+          "GND"
+        ],
+        "6": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "Source has visible junction joining pins1/4 to TK3; only mounting pins5/6 are GND.",
+      "position": [
+        177.8,
+        327.65999999999997
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP25",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "M4-"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        177.8,
+        350.52
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP26",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VCC_5V"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        370.84
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP27",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "M1-"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        40.64
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP50",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "M2-"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        60.96
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP51",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "M3-"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        81.28
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP52",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VCC_3V3"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        101.6
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP53",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TK3"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP54",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TK2"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP55",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TK1"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP56",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TOUCH_SCL"
+        ]
+      },
+      "note": " SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        292.1,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 5,
+      "ref": "TP57",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TOUCH_GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "U29",
+      "value": "FM17611",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "PVDD",
+          "NFC_3V3"
+        ],
+        "2": [
+          "NPD",
+          "NFC_RST"
+        ],
+        "3": [
+          "TX1",
+          "TX1"
+        ],
+        "4": [
+          "TVDD",
+          "NFC_3V3"
+        ],
+        "5": [
+          "TX2",
+          "TX2"
+        ],
+        "6": [
+          "AVDD",
+          "NFC_3V3"
+        ],
+        "7": [
+          "VMID",
+          "VMID"
+        ],
+        "8": [
+          "RX",
+          "RX"
+        ],
+        "9": [
+          "AUX",
+          "AUX"
+        ],
+        "10": [
+          "OSCIN",
+          "OSCIN"
+        ],
+        "11": [
+          "OSCOUT",
+          "OSCOUT"
+        ],
+        "12": [
+          "IRQ",
+          "NFC_IRQ"
+        ],
+        "13": [
+          "SDA",
+          "NFC_SDA"
+        ],
+        "14": [
+          "ADR1",
+          "ADR1"
+        ],
+        "15": [
+          "ADR0",
+          "ADR0"
+        ],
+        "16": [
+          "SCL",
+          "NFC_SCL"
+        ],
+        "17": [
+          "VSS",
+          "NFC_GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        50.8
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "L3",
+      "value": "BLM15AX100SN1D",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_GND"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        81.28
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "L11",
+      "value": "560nH",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "TX1"
+        ],
+        "2": [
+          "2",
+          "NFC_LP_P"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        101.6
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "L12",
+      "value": "560nH",
+      "kind": "L",
+      "pins": {
+        "1": [
+          "1",
+          "TX2"
+        ],
+        "2": [
+          "2",
+          "NFC_LP_N"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C15",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C78",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C79",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C77",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_RST"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C74",
+      "value": "100nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VMID"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        223.51999999999995
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C75",
+      "value": "15pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "OSCIN"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        243.83999999999995
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C76",
+      "value": "15pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "OSCOUT"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C1",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_5V"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        284.47999999999996
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C2",
+      "value": "10uF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "VCC_3V3"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        304.79999999999995
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C72",
+      "value": "150pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_LP_P"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        325.11999999999995
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C71",
+      "value": "150pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_LP_N"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        345.43999999999994
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C70",
+      "value": "33pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_LP_P"
+        ],
+        "2": [
+          "2",
+          "NFC_MATCH_P"
+        ]
+      },
+      "note": "",
+      "position": [
+        63.5,
+        365.75999999999993
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C6",
+      "value": "33pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_LP_N"
+        ],
+        "2": [
+          "2",
+          "NFC_MATCH_N"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        40.64
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C69",
+      "value": "68pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_MATCH_P"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        60.96
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C4",
+      "value": "68pF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_MATCH_N"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        81.28
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "C73",
+      "value": "1nF",
+      "kind": "C",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_MATCH_N"
+        ],
+        "2": [
+          "2",
+          "NFC_RX_NODE"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        101.6
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R87",
+      "value": "10k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_3V3"
+        ],
+        "2": [
+          "2",
+          "NFC_RST"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R88",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "ADR1"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R7",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "ADR0"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R89",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_SCL"
+        ],
+        "2": [
+          "2",
+          "TP_SCL"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R90",
+      "value": "22",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_SDA"
+        ],
+        "2": [
+          "2",
+          "TP_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R85",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "RX"
+        ],
+        "2": [
+          "2",
+          "NFC_RX_NODE"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        223.51999999999995
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R86",
+      "value": "4.7k",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "VMID"
+        ],
+        "2": [
+          "2",
+          "NFC_RX_NODE"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        243.83999999999995
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R2",
+      "value": "0",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_MATCH_P"
+        ],
+        "2": [
+          "2",
+          "NFC_ANT_P"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "R1",
+      "value": "0",
+      "kind": "R",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_MATCH_N"
+        ],
+        "2": [
+          "2",
+          "NFC_ANT_N"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        284.47999999999996
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "U28",
+      "value": "27.12MHz",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "XTAL",
+          "OSCIN"
+        ],
+        "2": [
+          "GND",
+          "GND"
+        ],
+        "3": [
+          "XTAL",
+          "OSCOUT"
+        ],
+        "4": [
+          "GND",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        306.06999999999994
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "FPC2",
+      "value": "HC-FPC-0.5-06-09-4RL-AG",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "NFC_ANT_P"
+        ],
+        "2": [
+          "2",
+          "NFC_ANT_P"
+        ],
+        "3": [
+          "3",
+          "NFC_ANT_N"
+        ],
+        "4": [
+          "4",
+          "NFC_ANT_N"
+        ],
+        "5": [
+          "MOUNT",
+          "GND"
+        ],
+        "6": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        177.8,
+        330.19999999999993
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "FPC1",
+      "value": "AFC05-S16FIA-00",
+      "kind": "IC",
+      "pins": {
+        "1": [
+          "1",
+          "GND"
+        ],
+        "2": [
+          "2",
+          "GND"
+        ],
+        "3": [
+          "3",
+          "GND"
+        ],
+        "4": [
+          "4",
+          "GND"
+        ],
+        "5": [
+          "5",
+          "NFC_RST"
+        ],
+        "6": [
+          "6",
+          "NFC_IRQ"
+        ],
+        "7": [
+          "7",
+          "EN_VALVE"
+        ],
+        "8": [
+          "8",
+          "PWM_AIR2"
+        ],
+        "9": [
+          "9",
+          "PWM_AIR1"
+        ],
+        "10": [
+          "10",
+          "EN_VIBRATE"
+        ],
+        "11": [
+          "11",
+          "TP_SDA"
+        ],
+        "12": [
+          "12",
+          "TP_SCL"
+        ],
+        "13": [
+          "13",
+          "VCC_3V3"
+        ],
+        "14": [
+          "14",
+          "VCC_3V3"
+        ],
+        "15": [
+          "15",
+          "VCC_5V"
+        ],
+        "16": [
+          "16",
+          "VCC_5V"
+        ],
+        "17": [
+          "MOUNT",
+          "GND"
+        ],
+        "18": [
+          "MOUNT",
+          "GND"
+        ]
+      },
+      "note": "Source connector red mark and power pins require harness review. No assumption of straight-through U23 connection. SOURCE RED MARK: population/change intent unconfirmed.",
+      "position": [
+        177.8,
+        363.2199999999999
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP24",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "NFC_ANT_N"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        40.64
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP38",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VCC_5V"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        60.96
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP39",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "VCC_3V3"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        81.28
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP40",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "GND"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        101.6
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP41",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TP_SCL"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        121.91999999999999
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP42",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "TP_SDA"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        142.23999999999998
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP43",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "EN_VIBRATE"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        162.55999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP44",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "PWM_AIR1"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        182.87999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP45",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "PWM_AIR2"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        203.19999999999996
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP46",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "EN_VALVE"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        223.51999999999995
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP47",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "NFC_IRQ"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        243.83999999999995
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP48",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "NFC_RST"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        264.15999999999997
+      ]
+    },
+    {
+      "page": 6,
+      "ref": "TP49",
+      "value": "TestPoint",
+      "kind": "TP",
+      "pins": {
+        "1": [
+          "TP",
+          "NFC_ANT_P"
+        ]
+      },
+      "note": "",
+      "position": [
+        292.1,
+        284.47999999999996
+      ]
+    }
+  ]
+}

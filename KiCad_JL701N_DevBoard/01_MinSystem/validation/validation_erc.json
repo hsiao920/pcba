@@ -1,0 +1,203 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-11-06T09:12:07",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning",
+        "exclusion"
+    ],
+    "kicad_version": "10.0.7",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/e8c79d09-d4ba-432a-95e5-66bcf25ce841",
+            "violations": [
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'KEY4/UartTX'",
+                            "pos": {
+                                "x": 38.1,
+                                "y": 55.88
+                            },
+                            "uuid": "1a51ff9d-22e6-4035-a00d-c6f3c0bfabce"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'Sensor_int1'",
+                            "pos": {
+                                "x": 38.1,
+                                "y": 76.2
+                            },
+                            "uuid": "7eb71be3-a7bd-4994-a05b-7ea93dfae883"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'Sensor_int0'",
+                            "pos": {
+                                "x": 38.1,
+                                "y": 91.44
+                            },
+                            "uuid": "594e952a-ae53-448c-9da5-31ceef4071d0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'D0'",
+                            "pos": {
+                                "x": 38.1,
+                                "y": 134.62
+                            },
+                            "uuid": "96636309-a05f-40f9-a97e-d6e2a2d085a7"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'D1'",
+                            "pos": {
+                                "x": 38.1,
+                                "y": 137.16
+                            },
+                            "uuid": "dfa5f18f-c51e-46cf-839a-19cfa7bdc88e"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'D2'",
+                            "pos": {
+                                "x": 38.1,
+                                "y": 139.7
+                            },
+                            "uuid": "82b45350-9983-4013-9518-74527c29c8a0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'D3'",
+                            "pos": {
+                                "x": 195.58,
+                                "y": 55.88
+                            },
+                            "uuid": "920fd1f4-fbdc-47fa-b9cb-0be9064e5e7b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'WR/SYNC1'",
+                            "pos": {
+                                "x": 195.58,
+                                "y": 76.2
+                            },
+                            "uuid": "5bb1d0f1-fd1d-46b5-bdda-6eaafb9505af"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'RD/SYNC0'",
+                            "pos": {
+                                "x": 195.58,
+                                "y": 78.74
+                            },
+                            "uuid": "d123c273-2b33-402a-890b-619d7bf187a0"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'DACRN'",
+                            "pos": {
+                                "x": 195.58,
+                                "y": 101.6
+                            },
+                            "uuid": "43b980d6-1085-43ce-8de0-3faebf0728a1"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                },
+                {
+                    "description": "Label connected to only one pin",
+                    "items": [
+                        {
+                            "description": "全域標籤 'DACRP'",
+                            "pos": {
+                                "x": 195.58,
+                                "y": 104.14
+                            },
+                            "uuid": "e635dcdd-7756-4d50-b68f-bc4d28273757"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "isolated_pin_label"
+                }
+            ]
+        }
+    ],
+    "source": "JL701N_MinSystem.kicad_sch"
+}

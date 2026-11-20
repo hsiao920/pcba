@@ -1,0 +1,1 @@
+Approved: reconstruct six-page A01 PDF as editable KiCad hierarchy, retaining JL7012F6, refs, values and net names. Inspect source, transcribe manifest, generate local symbols and sheets, verify KiCad parse/netlist, inspect rendered sheets. No PCB or speculative JL7014F substitution.

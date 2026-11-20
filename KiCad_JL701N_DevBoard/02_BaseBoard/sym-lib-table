@@ -1,0 +1,1 @@
+(sym_lib_table (version 7) (lib (name "DevBoard_Source") (type "KiCad") (uri "${KIPRJMOD}/DevBoard_Source.kicad_sym") (options "") (descr "PDF reconstruction - review required")))
