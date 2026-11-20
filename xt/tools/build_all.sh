@@ -20,6 +20,9 @@ print('$out ERC', dict(c))"
   "$KC" sch export netlist --format kicadsexpr -o "$out/$out.net" "$out/$out.kicad_sch" >/dev/null 2>&1
   "$KC" sch export bom -o "$out/${out}_bom.csv" "$out/$out.kicad_sch" >/dev/null 2>&1
 }
+export XT_CJKFIX=1
 build KUNLUNV1.5.pdf KunLun_V1.5 "" ""
 build SCH_KunLunV1.3.pdf KunLun_V1.3 v13_adapter ""
+python -X utf8 tools/copy_cjk_notes.py KunLun_V1.5 KunLun_V1.3 11 15 16 18 && "$KC" sch export pdf -o KunLun_V1.3/KunLun_V1.3_rebuilt.pdf KunLun_V1.3/KunLun_V1.3.kicad_sch >/dev/null 2>&1
+unset XT_CJKFIX
 build "SCH_0.5青春版主板v1.0_2024-10-24.pdf" QingChun_0.5 jlc_adapter 1

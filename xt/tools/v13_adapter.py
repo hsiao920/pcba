@@ -113,9 +113,11 @@ class Fake:
             t = decode_span(s["font"], s["raw"], self.cmap)
             if not t.strip(): continue
             at = attrs.get("%d:%d" % (self.pno, s["idx"]))
+            if at and (len(at) > 3 and at[3] == "tt" or re.search(r"[㐀-鿿-]", at[2])):
+                t = at[2]
             if at:
                 s["dir"] = tuple(at[0])
-            if at and len(at) > 2 and at[2] == t:
+            if at and len(at) > 2 and (at[2] == t):
                 s["color"] = at[1]
             else:
                 if REF.match(t) and s["color"] == 0: s["color"] = 0x80
@@ -140,7 +142,19 @@ import re
 REF = re.compile(r"^(?![RCL](?:0201|0402|0603|0805|1206|1210)$)(?:(?:R|C|L|D|U|Q|Y|X|J|P|FB|TP|ED)\d{3,6}[A-Z]?|ESD\d{3,6}|(?:SW|LED|FPC|TYPE_C)\d{1,3})$")
 
 
+HEADING_FIX = {"êeeU": "eMMC"}
+
+
 def decode_span(font, raw, cmap):
+    return HEADING_FIX.get(_decode(font, raw, cmap), _decode(font, raw, cmap))
+
+
+def _decode(font, raw, cmap):
+    if not font.startswith("Type3"): return raw       # real TrueType text (e.g. the Chinese notes) is already Unicode
+    return _decode_span(font, raw, cmap)
+
+
+def _decode_span(font, raw, cmap):
     m = cmap.get(font, {}); g = cmap.get("*", {})
     if not raw.strip(chr(0)): return ""
     extra = {"#": "#"}
@@ -204,6 +218,16 @@ def learn():
                         if len(t["t"]) != len(s["raw"]): continue
                         d = math.dist(o, t["origin"])
                         if d < 1.6 and (best is None or d < best[0]): best = (d, t)
+            if best is None and not s["font"].startswith("Type3"):
+                # TrueType span (Chinese note): take the V1.5 text sitting at the same place, whatever its length
+                for gx in range(int(o[0] // 6) - 2, int(o[0] // 6) + 3):
+                    for gy in range(int(o[1] // 6) - 2, int(o[1] // 6) + 3):
+                        for j in grid.get((gx, gy), []):
+                            t = B[j]; d = math.dist(o, t["origin"])
+                            if d < 6 and (best is None or d < best[0]): best = (d, t)
+                if best:
+                    attrs["%d:%d" % (i, s["idx"])] = [best[1]["dir"], best[1]["color"], best[1]["t"], "tt"]
+                continue
             if best:
                 for ca, cb in zip(s["raw"], best[1]["t"]):
                     votes[(s["font"], ca)][cb] += 1

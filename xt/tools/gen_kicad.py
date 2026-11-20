@@ -11,7 +11,35 @@ U = lambda: str(uuid.uuid4())
 ROOT = U()
 
 
+_PUA = {}
+for _hi in range(0x81, 0xff):
+    for _lo in range(0x40, 0xff):
+        try:
+            _c = bytes([_hi, _lo]).decode("cp950")
+            if len(_c) == 1 and ord(_c) >= 0xe000: _PUA[_c] = bytes([_hi, _lo])
+        except Exception: pass
+_CJK = re.compile(r"[㐀-鿿-]")
+_CJK_FIX = {"此处电源需?配对应": "此处电源需匹配对应", "等待最终?幕规格书": "等待最终屏幕规格书", "添加背光?动": "添加背光驱动"}
+
+
+def cjkfix(t):
+    """KunLun PDFs: GBK text shown through a Big5 font -> recover the intended Chinese ('?' = char not recoverable)"""
+    if not os.environ.get("XT_CJKFIX") or not _CJK.search(t): return t
+    out = ""; buf = b""
+    def flush():
+        nonlocal buf, out
+        if buf: out += buf.decode("gbk", errors="replace").replace("�", "?"); buf = b""
+    for c in t:
+        if c in _PUA: buf += _PUA[c]
+        else:
+            try: buf += c.encode("cp950")
+            except Exception: flush(); out += "?"
+    flush()
+    return _CJK_FIX.get(out, out)
+
+
 def esc(s):
+    s = cjkfix(s)
     return s.replace("\\", "\\\\").replace('"', '\\"')
 
 
@@ -24,7 +52,12 @@ def f(v):
 FP = {"0201": "0603Metric", "0402": "1005Metric", "0603": "1608Metric", "0805": "2012Metric", "1206": "3216Metric", "1210": "3225Metric"}
 
 
+STD_FP = {"SOT_23_5": "Package_TO_SOT_SMD:SOT-23-5", "SOT_23": "Package_TO_SOT_SMD:SOT-23",
+          "SOD_323": "Diode_SMD:D_SOD-323", "IND_252010": "Inductor_SMD:L_1008_2520Metric"}
+
+
 def map_fp(pkg):
+    if pkg in STD_FP: return STD_FP[pkg]
     m = re.match(r"^([RCL])(0201|0402|0603|0805|1206|1210)$", pkg or "")
     if not m: return ""
     lib = {"R": "Resistor_SMD", "C": "Capacitor_SMD", "L": "Inductor_SMD"}[m.group(1)]
@@ -251,7 +284,7 @@ for pi, (r, pg) in enumerate(pages):
         pins_s = " ".join('(pin "%s" (uuid "%s"))' % (esc(r["pins"][k]["num"]), U()) for k in part["pins"])
         body.append('(symbol (lib_id "KL:%s") (at %s %s 0) (unit %d) (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp %s) (uuid "%s") %s %s '
                     '(instances (project "%s" (path "/%s/%s" (reference "%s") (unit %d)))))'
-                    % (name, f(X0), f(Y0), unit, "yes" if dnp else "no", U(), " ".join(props), pins_s, PROJ, ROOT, sheet_uuid, esc(base), unit))
+                    % (name, f(X0), f(Y0), unit, "yes" if (dnp and not base.startswith("TP")) else "no", U(), " ".join(props), pins_s, PROJ, ROOT, sheet_uuid, esc(base), unit))
         for k in part["pins"]:
             if k not in connected:
                 O = pg.P(r["pins"][k]["outer"])
@@ -298,11 +331,11 @@ for pi, (r, pg) in enumerate(pages):
             vat = (pg.x(s["tbox"][0]), pg.y(s["tbox"][3])) if s.get("tbox") else (C[0], C[1])
             body.append('(symbol (lib_id "KL:%s") (at %s %s %d) (unit 1) (exclude_from_sim no) (in_bom yes) (on_board yes) (dnp no) (uuid "%s") '
                         '(property "Reference" "#PWR%04d" (at %s %s 0) (effects (font (size 1 1)) (hide yes))) '
-                        '(property "Value" "%s" (at %s %s 0) (effects (font (size 1 1)) (justify left bottom) %s)) '
+                        '(property "Value" "%s" (at %s %s %d) (effects (font (size 1 1)) (justify left bottom) %s)) '
                         '(property "Footprint" "" (at %s %s 0) (effects (font (size 1 1)) (hide yes))) '
                         '(property "Datasheet" "" (at %s %s 0) (effects (font (size 1 1)) (hide yes))) '
                         '(pin "1" (uuid "%s")) (instances (project "%s" (path "/%s/%s" (reference "#PWR%04d") (unit 1)))))'
-                        % (lib, f(C[0]), f(C[1]), rot, U(), pwr_n[0], f(C[0]), f(C[1]), esc(val), f(vat[0]), f(vat[1]), "(hide yes)" if gnd else "",
+                        % (lib, f(C[0]), f(C[1]), rot, U(), pwr_n[0], f(C[0]), f(C[1]), esc(val), f(vat[0]), f(vat[1]), (360 - rot) % 360, "(hide yes)" if gnd else "",
                            f(C[0]), f(C[1]), f(C[0]), f(C[1]), U(), PROJ, ROOT, sheet_uuid, pwr_n[0]))
     # net aliases -> local labels
     SW = [(pg.P(wa_), pg.P(wb_)) for wa_, wb_ in r["wires"]]
@@ -340,10 +373,11 @@ for pi, (r, pg) in enumerate(pages):
     # free texts (notes)
     for t in r["unused"]:
         if t["t"] in TB_SKIP or t["color"] == 0x123458: continue
+        if t["bbox"][0] > 0.37 * W and t["bbox"][1] > 0.74 * H: continue       # title-block remnants (V1.0, A3 ...)
         bb = t["bbox"]
         if (bb[1] < 10 or bb[3] > H - 10 or bb[0] < 10 or bb[2] > W - 10) and len(t["t"]) <= 2: continue
         if bb[0] > W * 0.72 and bb[1] > H * 0.86: continue
-        sz = max(0.6, t["size"] * pg.k * 0.85)
+        sz = max(0.6, t["size"] * pg.k * 0.68)
         if t["dir"] == [1, 0]:
             at = (pg.x(bb[0]), pg.y(bb[3])); ang = 0
         else:

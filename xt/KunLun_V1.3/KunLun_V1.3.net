@@ -2,7 +2,7 @@
 	(version "E")
 	(design
 		(source "D:\\Users\\jacky\\pcba\\xt\\KunLun_V1.3\\KunLun_V1.3.kicad_sch")
-		(date "2026-11-20T12:38:53")
+		(date "2026-11-21T00:27:11")
 		(tool "Eeschema 10.0.8")
 		(sheet
 			(number "1")
@@ -55,7 +55,7 @@
 		(sheet
 			(number "2")
 			(name "/P01 10.RV1126/1109_Power/GND/")
-			(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+			(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			(title_block
 				(title "10.RV1126/1109_Power/GND")
 				(company "KunLun_V1.3")
@@ -103,7 +103,7 @@
 		(sheet
 			(number "3")
 			(name "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-			(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+			(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			(title_block
 				(title "11.RV1126/1109_OSC/PLL/PMUIO")
 				(company "KunLun_V1.3")
@@ -151,7 +151,7 @@
 		(sheet
 			(number "4")
 			(name "/P03 12.RV1126/1109_DRAM Controller/")
-			(tstamps "/9f797b64-75dd-4151-ad68-3c5928d87259/")
+			(tstamps "/8bc52ce6-613a-4675-9860-85a6d1e544e9/")
 			(title_block
 				(title "12.RV1126/1109_DRAM Controller")
 				(company "KunLun_V1.3")
@@ -199,7 +199,7 @@
 		(sheet
 			(number "5")
 			(name "/P04 13.RV1126/1109_Flash/SD/")
-			(tstamps "/8a11ea88-1f97-4da5-bddf-8b753c69db84/")
+			(tstamps "/54cd247d-a2f8-43a1-8138-9fca9e730084/")
 			(title_block
 				(title "13.RV1126/1109_Flash/SD")
 				(company "KunLun_V1.3")
@@ -247,7 +247,7 @@
 		(sheet
 			(number "6")
 			(name "/P05 14.RV1126/1109_USB Controller/")
-			(tstamps "/b7664e4a-9e1f-486c-bc9b-b3007420acb6/")
+			(tstamps "/6d9ded35-a952-48fb-8111-677852122bf1/")
 			(title_block
 				(title "14.RV1126/1109_USB Controller")
 				(company "KunLun_V1.3")
@@ -295,7 +295,7 @@
 		(sheet
 			(number "7")
 			(name "/P06 15.RV1126/1109_SARADC/")
-			(tstamps "/d5e7e9cf-8ebb-436c-bafd-7978ef80758a/")
+			(tstamps "/a07927a0-3152-42dc-8260-c16b35c1307a/")
 			(title_block
 				(title "15.RV1126/1109_SARADC")
 				(company "KunLun_V1.3")
@@ -343,7 +343,7 @@
 		(sheet
 			(number "8")
 			(name "/P07 16.RV1126/1109_VideoInput/")
-			(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+			(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			(title_block
 				(title "16.RV1126/1109_VideoInput")
 				(company "KunLun_V1.3")
@@ -391,7 +391,7 @@
 		(sheet
 			(number "9")
 			(name "/P08 17.RV1126/1109_VideoOutput Interface/")
-			(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+			(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			(title_block
 				(title "17.RV1126/1109_VideoOutput Interface")
 				(company "KunLun_V1.3")
@@ -439,7 +439,7 @@
 		(sheet
 			(number "10")
 			(name "/P09 18.RV1126/1109_Audio/")
-			(tstamps "/277de794-ce03-45e4-9c33-cb7eba8df56f/")
+			(tstamps "/bb93cf93-2268-4510-ad48-e085683c1c3a/")
 			(title_block
 				(title "18.RV1126/1109_Audio")
 				(company "KunLun_V1.3")
@@ -487,7 +487,7 @@
 		(sheet
 			(number "11")
 			(name "/P10 23.Discrete Power for System/")
-			(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+			(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			(title_block
 				(title "23.Discrete Power for System")
 				(company "KunLun_V1.3")
@@ -535,7 +535,7 @@
 		(sheet
 			(number "12")
 			(name "/P11 25.BAT Scheme Wakeup Power/")
-			(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+			(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			(title_block
 				(title "25.BAT Scheme Wakeup Power")
 				(company "KunLun_V1.3")
@@ -583,7 +583,7 @@
 		(sheet
 			(number "13")
 			(name "/P12 26.USB OTG/")
-			(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+			(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			(title_block
 				(title "26.USB OTG")
 				(company "KunLun_V1.3")
@@ -631,7 +631,7 @@
 		(sheet
 			(number "14")
 			(name "/P13 31. DRAM_LPDDR3_32 bit/")
-			(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+			(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			(title_block
 				(title "31. DRAM_LPDDR3_32 bit")
 				(company "KunLun_V1.3")
@@ -679,7 +679,7 @@
 		(sheet
 			(number "15")
 			(name "/P14 40.Flash-eMMC Flash/")
-			(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+			(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			(title_block
 				(title "40.Flash-eMMC Flash")
 				(company "KunLun_V1.3")
@@ -727,7 +727,7 @@
 		(sheet
 			(number "16")
 			(name "/P15 Page 15/")
-			(tstamps "/e087ff1d-8020-4bf5-9539-de5f4000a123/")
+			(tstamps "/5b30d0ed-9211-426b-aed4-812dad0d5eeb/")
 			(title_block
 				(title "Page 15")
 				(company "KunLun_V1.3")
@@ -775,7 +775,7 @@
 		(sheet
 			(number "17")
 			(name "/P16 Page 16/")
-			(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+			(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			(title_block
 				(title "Page 16")
 				(company "KunLun_V1.3")
@@ -823,7 +823,7 @@
 		(sheet
 			(number "18")
 			(name "/P17 Page 17/")
-			(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+			(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			(title_block
 				(title "Page 17")
 				(company "KunLun_V1.3")
@@ -871,7 +871,7 @@
 		(sheet
 			(number "19")
 			(name "/P18 Page 18/")
-			(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+			(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			(title_block
 				(title "Page 18")
 				(company "KunLun_V1.3")
@@ -959,9 +959,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "99c89d37-7beb-4ea3-87b7-fab8309fcabe")
+			(tstamps "2469bef0-4000-4cd0-bd7f-bd9dbab963b3")
 			(units
 				(unit
 					(name "A")
@@ -1017,9 +1017,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "a6660589-4ad6-48f6-b074-b73f7e3f447c")
+			(tstamps "87d6a361-6937-4a1e-abb2-e046dcdef97a")
 			(units
 				(unit
 					(name "A")
@@ -1075,9 +1075,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "7508bc64-76f5-4af4-9b24-61be762d36c1")
+			(tstamps "24eb0312-a316-4460-8ff8-f8070e1dc102")
 			(units
 				(unit
 					(name "A")
@@ -1133,9 +1133,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "bc53c032-4cea-4502-8126-88dd0713ad8a")
+			(tstamps "071d515e-1228-4d86-a1e3-50c589ee75c6")
 			(units
 				(unit
 					(name "A")
@@ -1191,9 +1191,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "ba01bea8-c858-4bb9-baa2-2ee425cd6460")
+			(tstamps "568ba5ec-d2cb-43e4-ade6-be3d0812236f")
 			(units
 				(unit
 					(name "A")
@@ -1249,9 +1249,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "018d367f-61c0-4b97-aff5-7aaff6488233")
+			(tstamps "73bfa8de-d90e-4f1c-a13a-0fa3472707a6")
 			(units
 				(unit
 					(name "A")
@@ -1307,9 +1307,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "b0b3f2ea-4a1d-4892-9ff5-85276a6f07f7")
+			(tstamps "962ae554-7c14-4482-8e20-bf334e562b98")
 			(units
 				(unit
 					(name "A")
@@ -1365,9 +1365,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "d901547a-15a1-40a4-aeb6-5664d832c06d")
+			(tstamps "7a7e01b9-e645-42d4-8e31-cb1ed01f3f1f")
 			(units
 				(unit
 					(name "A")
@@ -1423,9 +1423,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "6472186e-c5ed-4a50-a38e-db756d7fa6ee")
+			(tstamps "cfef7cb4-b843-42f5-9088-d62a06bcd430")
 			(units
 				(unit
 					(name "A")
@@ -1481,9 +1481,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "fecf8e2d-d530-4615-90c8-a987006d65f9")
+			(tstamps "4f95ed96-8f68-409a-9456-121cb705d9ec")
 			(units
 				(unit
 					(name "A")
@@ -1539,9 +1539,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "26beba94-26f3-4843-856f-6bc311fee1e9")
+			(tstamps "c749fffb-3de5-42f5-bb60-efcfd6cffc98")
 			(units
 				(unit
 					(name "A")
@@ -1597,9 +1597,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "25509aaf-5131-477b-aa0b-5802c27f4185")
+			(tstamps "8b13b03a-7ca7-43a3-939d-67d1008bfc9f")
 			(units
 				(unit
 					(name "A")
@@ -1655,9 +1655,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "8c11bea8-4cc3-43cf-b6af-2481016d8bd5")
+			(tstamps "59d95b67-1c2b-491c-9f1a-5807b427c76b")
 			(units
 				(unit
 					(name "A")
@@ -1713,9 +1713,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "376290a4-2a1e-4be8-83cf-1a469cbad5d9")
+			(tstamps "7c8de8f5-97ff-4453-b666-9cce25892746")
 			(units
 				(unit
 					(name "A")
@@ -1771,9 +1771,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "34df437a-5c1b-4eed-a29a-77daadd96668")
+			(tstamps "5cbbfdd0-2d78-436f-985f-1a94f376c416")
 			(units
 				(unit
 					(name "A")
@@ -1829,9 +1829,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "c670a3bb-1f09-4a48-a0d8-7542aead8f43")
+			(tstamps "cfc0fc38-8918-414a-a398-7e7610356af5")
 			(units
 				(unit
 					(name "A")
@@ -1887,9 +1887,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "1ee94bf0-3a71-4be5-a7b6-9c14d37f5c87")
+			(tstamps "f0bb24db-1f42-4cd3-9ad5-8cf49acdf0d9")
 			(units
 				(unit
 					(name "A")
@@ -1945,9 +1945,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "0876df08-87ed-4c41-b86a-b0bc9d93c09a")
+			(tstamps "9cdaa045-09ea-4a15-a553-f2b64027d68a")
 			(units
 				(unit
 					(name "A")
@@ -2003,9 +2003,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "7bb3b23b-e46d-4386-8fc6-923babd16eb7")
+			(tstamps "2c5de3b5-43fa-49bc-9286-71eaf2c67ef7")
 			(units
 				(unit
 					(name "A")
@@ -2061,9 +2061,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "5362798e-f766-4641-a68d-7ffcf9098aea")
+			(tstamps "91b7aeb1-9fba-4024-9bd5-9fa66fc02084")
 			(units
 				(unit
 					(name "A")
@@ -2119,9 +2119,9 @@
 			)
 			(sheetpath
 				(names "/P01 10.RV1126/1109_Power/GND/")
-				(tstamps "/9c0a3ce6-f3cb-48ee-9e40-ad1ec34f0976/")
+				(tstamps "/73c78d25-38d4-4ce0-a2fb-cfd5ea70fce0/")
 			)
-			(tstamps "972360f4-b0c7-44e1-9399-4c12ee5b4adc" "558abd9b-6ccd-46ce-b707-6770358aa200")
+			(tstamps "f94e2299-e76a-4e25-ba06-3762ab234756" "138811db-9a13-41a8-b171-4b65be346483")
 			(units
 				(unit
 					(name "A")
@@ -3468,9 +3468,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "bdd52914-9df0-4268-8b9e-689223c13873")
+			(tstamps "ac6a1055-ae01-4a32-8a6f-160e673734fb")
 			(units
 				(unit
 					(name "A")
@@ -3526,9 +3526,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "45399803-400b-4fcf-8b13-82e0a1bc4e45")
+			(tstamps "f9dcd9be-f752-417b-92e4-0ae2e2ab824c")
 			(units
 				(unit
 					(name "A")
@@ -3584,9 +3584,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "92d5dec9-710d-4123-9e5b-0c476559f21e")
+			(tstamps "1387bfcb-cc2c-455f-974c-0b21bf27a046")
 			(units
 				(unit
 					(name "A")
@@ -3642,9 +3642,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "4ba4178a-0a9c-4698-a55e-4fc6f64e6627")
+			(tstamps "944f06cb-c884-49bd-916c-4408b4d425d4")
 			(units
 				(unit
 					(name "A")
@@ -3700,9 +3700,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "fa0806e0-58ba-4c72-a6ca-5e33c049c74e")
+			(tstamps "417a5ad1-d71b-4d9d-b8cc-3db927abf92b")
 			(units
 				(unit
 					(name "A")
@@ -3758,9 +3758,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "aeef1ef0-de10-49bd-9d94-4f53bc984ddd")
+			(tstamps "48f9fae7-2e4f-4a64-9903-8559251e9b58")
 			(units
 				(unit
 					(name "A")
@@ -3816,9 +3816,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "ff802654-0913-42a9-8bf0-c5142d99e2e0")
+			(tstamps "330da621-7bd8-46d8-bd04-1fa9764ca4c1")
 			(units
 				(unit
 					(name "A")
@@ -3874,9 +3874,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "20cf0d2d-3a81-4164-8f7b-77f5b1990e5a")
+			(tstamps "a28e08e1-71c0-4eab-a4d7-54848e35c738")
 			(units
 				(unit
 					(name "A")
@@ -3932,9 +3932,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "f799777b-598d-4d9a-a4f1-37fd9fb363c2")
+			(tstamps "2586f461-0eae-4d13-999b-8b360b467380")
 			(units
 				(unit
 					(name "A")
@@ -3990,9 +3990,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "5d068f63-f9cb-4447-98d6-e675bfa56a6a")
+			(tstamps "b33f00ac-d353-46ff-bb0c-f063c723f63a")
 			(units
 				(unit
 					(name "A")
@@ -4049,9 +4049,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "d93b5c51-aa5c-4076-ad51-13995e327227")
+			(tstamps "c3c31e91-64f7-4388-9efa-900070f09efc")
 			(units
 				(unit
 					(name "A")
@@ -4108,9 +4108,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "5eca0806-e5b2-46cf-847f-80361e51ae66")
+			(tstamps "3fe808ed-a891-40b2-8c8c-bae2ec6209b1")
 			(units
 				(unit
 					(name "A")
@@ -4167,9 +4167,9 @@
 			)
 			(sheetpath
 				(names "/P02 11.RV1126/1109_OSC/PLL/PMUIO/")
-				(tstamps "/c2980641-aa47-48ef-8e8e-bf48a98b4b43/")
+				(tstamps "/1bea6531-c558-47bb-8f65-24f82891e1fb/")
 			)
-			(tstamps "cdb479b1-5360-4df6-a310-00949a3c82f6")
+			(tstamps "a502c5fb-396b-4a7b-9f3b-82b88741a1b9")
 			(units
 				(unit
 					(name "A")
@@ -4231,9 +4231,9 @@
 			)
 			(sheetpath
 				(names "/P03 12.RV1126/1109_DRAM Controller/")
-				(tstamps "/9f797b64-75dd-4151-ad68-3c5928d87259/")
+				(tstamps "/8bc52ce6-613a-4675-9860-85a6d1e544e9/")
 			)
-			(tstamps "e5593286-9878-43d5-84a3-3a72edad4b07")
+			(tstamps "745da775-668d-4334-8539-b183ac52cf76")
 			(units
 				(unit
 					(name "A")
@@ -4289,9 +4289,9 @@
 			)
 			(sheetpath
 				(names "/P03 12.RV1126/1109_DRAM Controller/")
-				(tstamps "/9f797b64-75dd-4151-ad68-3c5928d87259/")
+				(tstamps "/8bc52ce6-613a-4675-9860-85a6d1e544e9/")
 			)
-			(tstamps "fc758f38-ac89-42f9-a774-5c31a5a4767a")
+			(tstamps "f25494ee-27c9-4ca9-b7f6-aa9c452ffc26")
 			(units
 				(unit
 					(name "A")
@@ -4347,9 +4347,9 @@
 			)
 			(sheetpath
 				(names "/P03 12.RV1126/1109_DRAM Controller/")
-				(tstamps "/9f797b64-75dd-4151-ad68-3c5928d87259/")
+				(tstamps "/8bc52ce6-613a-4675-9860-85a6d1e544e9/")
 			)
-			(tstamps "619a8eab-5799-45c0-8561-8d1bf0b178a6")
+			(tstamps "606cf9b7-7f7c-493e-badf-c826fc140ace")
 			(units
 				(unit
 					(name "A")
@@ -4405,9 +4405,9 @@
 			)
 			(sheetpath
 				(names "/P03 12.RV1126/1109_DRAM Controller/")
-				(tstamps "/9f797b64-75dd-4151-ad68-3c5928d87259/")
+				(tstamps "/8bc52ce6-613a-4675-9860-85a6d1e544e9/")
 			)
-			(tstamps "9e402f92-ce32-4b56-9b5b-e459529e8e92")
+			(tstamps "0b614319-d467-49c8-ac8d-74320d38692a")
 			(units
 				(unit
 					(name "A")
@@ -4463,9 +4463,9 @@
 			)
 			(sheetpath
 				(names "/P03 12.RV1126/1109_DRAM Controller/")
-				(tstamps "/9f797b64-75dd-4151-ad68-3c5928d87259/")
+				(tstamps "/8bc52ce6-613a-4675-9860-85a6d1e544e9/")
 			)
-			(tstamps "26b60d26-1623-4c7c-8abc-9fc9e564c11a")
+			(tstamps "a8844238-cdd2-4871-9b8e-bf9485ae1e95")
 			(units
 				(unit
 					(name "A")
@@ -4521,9 +4521,9 @@
 			)
 			(sheetpath
 				(names "/P04 13.RV1126/1109_Flash/SD/")
-				(tstamps "/8a11ea88-1f97-4da5-bddf-8b753c69db84/")
+				(tstamps "/54cd247d-a2f8-43a1-8138-9fca9e730084/")
 			)
-			(tstamps "002ced8d-e690-400b-8966-55ddd0717eb6")
+			(tstamps "2920fdcf-492a-4ec2-82d4-c089afa51316")
 			(units
 				(unit
 					(name "A")
@@ -4579,9 +4579,9 @@
 			)
 			(sheetpath
 				(names "/P04 13.RV1126/1109_Flash/SD/")
-				(tstamps "/8a11ea88-1f97-4da5-bddf-8b753c69db84/")
+				(tstamps "/54cd247d-a2f8-43a1-8138-9fca9e730084/")
 			)
-			(tstamps "a852f2f3-12c9-4de2-acf8-a6601e8820ad")
+			(tstamps "dbd2aed7-0faf-4688-8207-3bbd2da82a28")
 			(units
 				(unit
 					(name "A")
@@ -4637,9 +4637,9 @@
 			)
 			(sheetpath
 				(names "/P04 13.RV1126/1109_Flash/SD/")
-				(tstamps "/8a11ea88-1f97-4da5-bddf-8b753c69db84/")
+				(tstamps "/54cd247d-a2f8-43a1-8138-9fca9e730084/")
 			)
-			(tstamps "43937fb1-11c4-45d6-a52c-df922d8d12e3")
+			(tstamps "100a32fa-b6a6-4d18-ab35-ede29d38bff3")
 			(units
 				(unit
 					(name "A")
@@ -4695,9 +4695,9 @@
 			)
 			(sheetpath
 				(names "/P04 13.RV1126/1109_Flash/SD/")
-				(tstamps "/8a11ea88-1f97-4da5-bddf-8b753c69db84/")
+				(tstamps "/54cd247d-a2f8-43a1-8138-9fca9e730084/")
 			)
-			(tstamps "8c43be80-d6e1-4a4a-9635-7dbd2dab0be3")
+			(tstamps "a42967f2-7b37-471a-ba8f-2b439c6885dd")
 			(units
 				(unit
 					(name "A")
@@ -4756,9 +4756,9 @@
 			)
 			(sheetpath
 				(names "/P04 13.RV1126/1109_Flash/SD/")
-				(tstamps "/8a11ea88-1f97-4da5-bddf-8b753c69db84/")
+				(tstamps "/54cd247d-a2f8-43a1-8138-9fca9e730084/")
 			)
-			(tstamps "4b1f4508-9480-4e28-9f2c-3a0560cb1302")
+			(tstamps "b3c559d3-c4be-40f7-99a5-67de6430bb0e")
 			(units
 				(unit
 					(name "A")
@@ -4814,9 +4814,9 @@
 			)
 			(sheetpath
 				(names "/P05 14.RV1126/1109_USB Controller/")
-				(tstamps "/b7664e4a-9e1f-486c-bc9b-b3007420acb6/")
+				(tstamps "/6d9ded35-a952-48fb-8111-677852122bf1/")
 			)
-			(tstamps "89e46072-346d-4ee3-99d1-d849835f2341")
+			(tstamps "9fa06f81-8369-44b9-b8ca-2b6b82b412f7")
 			(units
 				(unit
 					(name "A")
@@ -4872,9 +4872,9 @@
 			)
 			(sheetpath
 				(names "/P05 14.RV1126/1109_USB Controller/")
-				(tstamps "/b7664e4a-9e1f-486c-bc9b-b3007420acb6/")
+				(tstamps "/6d9ded35-a952-48fb-8111-677852122bf1/")
 			)
-			(tstamps "84d93061-10fa-4ed5-9772-6e611fb328b3")
+			(tstamps "751211f0-1df8-4265-9f6c-3bf1a93a78d6")
 			(units
 				(unit
 					(name "A")
@@ -4930,9 +4930,9 @@
 			)
 			(sheetpath
 				(names "/P05 14.RV1126/1109_USB Controller/")
-				(tstamps "/b7664e4a-9e1f-486c-bc9b-b3007420acb6/")
+				(tstamps "/6d9ded35-a952-48fb-8111-677852122bf1/")
 			)
-			(tstamps "16d7e1f8-b12d-45ea-b03c-5b84a1737e1a")
+			(tstamps "e39133c3-e143-43d1-a233-608895191c4c")
 			(units
 				(unit
 					(name "A")
@@ -4988,9 +4988,9 @@
 			)
 			(sheetpath
 				(names "/P05 14.RV1126/1109_USB Controller/")
-				(tstamps "/b7664e4a-9e1f-486c-bc9b-b3007420acb6/")
+				(tstamps "/6d9ded35-a952-48fb-8111-677852122bf1/")
 			)
-			(tstamps "f918b483-5f92-481b-9607-2f2899a8ee5a")
+			(tstamps "9a45f704-5377-4dd0-ae0e-9cf017e3a688")
 			(units
 				(unit
 					(name "A")
@@ -5046,9 +5046,9 @@
 			)
 			(sheetpath
 				(names "/P06 15.RV1126/1109_SARADC/")
-				(tstamps "/d5e7e9cf-8ebb-436c-bafd-7978ef80758a/")
+				(tstamps "/a07927a0-3152-42dc-8260-c16b35c1307a/")
 			)
-			(tstamps "bc1e4f70-6b3f-4ca2-bc81-661bb3f193d0")
+			(tstamps "b6d793ab-29bf-4945-b068-6c9c92d4b422")
 			(units
 				(unit
 					(name "A")
@@ -5104,9 +5104,9 @@
 			)
 			(sheetpath
 				(names "/P07 16.RV1126/1109_VideoInput/")
-				(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+				(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			)
-			(tstamps "0ece8eb0-0968-4d4f-8cc6-c35cbe66c8a1")
+			(tstamps "35f2500b-81df-40b4-8558-498e7b58d0d0")
 			(units
 				(unit
 					(name "A")
@@ -5162,9 +5162,9 @@
 			)
 			(sheetpath
 				(names "/P07 16.RV1126/1109_VideoInput/")
-				(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+				(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			)
-			(tstamps "42eb8d35-7792-4286-b7fc-b630c82e4368")
+			(tstamps "13e372ef-71c2-4a6d-b35a-9849bfac2431")
 			(units
 				(unit
 					(name "A")
@@ -5220,9 +5220,9 @@
 			)
 			(sheetpath
 				(names "/P07 16.RV1126/1109_VideoInput/")
-				(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+				(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			)
-			(tstamps "0ca4d3c4-a9fd-460a-b3ec-d7b85f4ea65e")
+			(tstamps "7dd6c1fb-d180-4066-b3bd-5a583e0a68b0")
 			(units
 				(unit
 					(name "A")
@@ -5278,9 +5278,9 @@
 			)
 			(sheetpath
 				(names "/P07 16.RV1126/1109_VideoInput/")
-				(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+				(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			)
-			(tstamps "8947145d-1237-492d-b731-47756ce82340")
+			(tstamps "9edd9ea8-b1d7-443c-900d-157aa9762a9d")
 			(units
 				(unit
 					(name "A")
@@ -5337,9 +5337,9 @@
 			)
 			(sheetpath
 				(names "/P07 16.RV1126/1109_VideoInput/")
-				(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+				(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			)
-			(tstamps "5f4e316e-b4a8-4064-9c20-334bba30898d")
+			(tstamps "a59698bb-df91-4598-9b54-2715b54be1ed")
 			(units
 				(unit
 					(name "A")
@@ -5396,9 +5396,9 @@
 			)
 			(sheetpath
 				(names "/P07 16.RV1126/1109_VideoInput/")
-				(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+				(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			)
-			(tstamps "ef8f4f5d-c7ea-469a-8b75-252daa4227bb")
+			(tstamps "784a1946-df2c-4bfa-a9fc-3df0212fb368")
 			(units
 				(unit
 					(name "A")
@@ -5455,9 +5455,9 @@
 			)
 			(sheetpath
 				(names "/P07 16.RV1126/1109_VideoInput/")
-				(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+				(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			)
-			(tstamps "fc1e7f41-3286-43ce-98f6-45669aaf3c3b")
+			(tstamps "2653b06c-9165-46df-b3f3-9724f3cf688b")
 			(units
 				(unit
 					(name "A")
@@ -5514,9 +5514,9 @@
 			)
 			(sheetpath
 				(names "/P07 16.RV1126/1109_VideoInput/")
-				(tstamps "/f598729b-10b2-4893-a93c-dd8e98ad83b2/")
+				(tstamps "/a4d8389d-59aa-46be-8b62-d10e4d41ce90/")
 			)
-			(tstamps "d2380bb2-1324-4d22-9942-ee336dc8ac38")
+			(tstamps "2ab2f61e-20ed-42ee-83af-f3f29032412a")
 			(units
 				(unit
 					(name "A")
@@ -5572,9 +5572,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "ebe46905-b3f6-4b5f-9b69-36293140f17d")
+			(tstamps "2fb58df1-0c5d-4ca0-8761-6a86c9ba86b7")
 			(units
 				(unit
 					(name "A")
@@ -5630,9 +5630,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "42667e9e-0959-4965-ba9d-571f51d8e9d2")
+			(tstamps "a05aac81-4879-4695-b0b4-9c65564195fc")
 			(units
 				(unit
 					(name "A")
@@ -5688,9 +5688,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "ca9a0fe1-c779-4561-b5dc-4dc235b26ccf")
+			(tstamps "28cad167-892d-469e-ab05-87980f1c07c3")
 			(units
 				(unit
 					(name "A")
@@ -5747,9 +5747,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "ca3f7898-1f7c-4fcb-8bc5-70abc425fbe6")
+			(tstamps "c719f6d9-9ed9-4d06-9884-0915c00ea3b7")
 			(units
 				(unit
 					(name "A")
@@ -5805,9 +5805,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "2165740d-3e64-45aa-a7d9-6f1e3ad11c99")
+			(tstamps "4bc194bd-905b-423f-9991-419a56845425")
 			(units
 				(unit
 					(name "A")
@@ -5863,9 +5863,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "939e1d61-12d1-45ec-b56d-a0d6f67f2af9")
+			(tstamps "65ac9998-b013-4f4b-8f39-307e86942ee1")
 			(units
 				(unit
 					(name "A")
@@ -5922,9 +5922,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "3fa77e64-b485-4e60-875d-88e1d9ef5da5")
+			(tstamps "f2df30ce-07c1-4ae2-a885-8fc8762a36a7")
 			(units
 				(unit
 					(name "A")
@@ -5980,9 +5980,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "1fdc9344-8ec3-42ce-9c8a-67d7bb9d398d")
+			(tstamps "99ac5fd9-edb3-4227-a2ed-9f52f64fec6f")
 			(units
 				(unit
 					(name "A")
@@ -6038,9 +6038,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "0afc3a51-6e07-49af-bbb2-b1e0f1feac77")
+			(tstamps "eb0a8618-aa23-490b-8b15-c16b2e7d1453")
 			(units
 				(unit
 					(name "A")
@@ -6098,9 +6098,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "5ec7cd58-3000-4f95-b437-1f512ed3aa1a")
+			(tstamps "8576c33b-7e4f-432b-aa67-37dd4caedffc")
 			(units
 				(unit
 					(name "A")
@@ -6155,9 +6155,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "58223bf4-8d61-4e97-87cf-7dfa3ab4af70")
+			(tstamps "b4a541be-b91e-432b-9472-c8645fe5b532")
 			(units
 				(unit
 					(name "A")
@@ -6212,9 +6212,9 @@
 			)
 			(sheetpath
 				(names "/P08 17.RV1126/1109_VideoOutput Interface/")
-				(tstamps "/01cbed86-fe10-4f85-bf68-18dfd1c817a4/")
+				(tstamps "/b445f866-8b7a-4dcf-8c25-69984bba907d/")
 			)
-			(tstamps "65ca0515-5886-406b-a794-a83ca26a5fb5")
+			(tstamps "e146b6c8-b35b-4411-bad8-85efed47c588")
 			(units
 				(unit
 					(name "A")
@@ -6267,9 +6267,9 @@
 			)
 			(sheetpath
 				(names "/P09 18.RV1126/1109_Audio/")
-				(tstamps "/277de794-ce03-45e4-9c33-cb7eba8df56f/")
+				(tstamps "/bb93cf93-2268-4510-ad48-e085683c1c3a/")
 			)
-			(tstamps "e9fdaa34-7206-4bc9-b725-ec96ce5b734b")
+			(tstamps "ffce91e0-a4e2-4c62-ae35-5a2c1b249ef1")
 			(units
 				(unit
 					(name "A")
@@ -6325,9 +6325,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "0ddfe55c-006e-441d-8b17-b8ba06a2dd0a")
+			(tstamps "b041fd9d-1739-4751-8bf9-8909b23112af")
 			(units
 				(unit
 					(name "A")
@@ -6383,9 +6383,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "e7384cac-d604-4725-ab2d-f7d8f312225d")
+			(tstamps "3d95bc54-ef22-41c0-951b-590d053b5e9b")
 			(units
 				(unit
 					(name "A")
@@ -6441,9 +6441,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "adeae5d8-4e60-4ab8-a33c-5a73910896b2")
+			(tstamps "40c65446-bd31-4214-a314-bb835ea0d840")
 			(units
 				(unit
 					(name "A")
@@ -6499,9 +6499,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "0ce65046-fe89-44ca-b012-0242d838abf4")
+			(tstamps "ca163644-5e63-41b2-b25e-8f26840f6aca")
 			(units
 				(unit
 					(name "A")
@@ -6557,9 +6557,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "e5a84a61-60d0-4286-85e7-17fb9541345b")
+			(tstamps "d6b9eb25-384d-4a55-8542-a0204add229e")
 			(units
 				(unit
 					(name "A")
@@ -6615,9 +6615,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "710e37cc-80bf-4bec-b47f-e4a3a788abee")
+			(tstamps "ee798994-bc02-4a8b-9590-d4aea4bd86f7")
 			(units
 				(unit
 					(name "A")
@@ -6673,9 +6673,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "61300c0f-5f63-42c3-a196-19518787e479")
+			(tstamps "6e0c80c8-8e5c-4f96-99df-178f24fe4b45")
 			(units
 				(unit
 					(name "A")
@@ -6731,9 +6731,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "b3b3b506-f455-4e43-aa1b-a46f156cc274")
+			(tstamps "7a959045-1604-4e66-bb14-ec3c7b4bf872")
 			(units
 				(unit
 					(name "A")
@@ -6789,9 +6789,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "6b37cdbb-d621-4a41-ba6d-2825b59cac48")
+			(tstamps "255bcebc-a725-4755-a4a1-6937ff5ac344")
 			(units
 				(unit
 					(name "A")
@@ -6847,9 +6847,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "c2968726-1e6e-40bf-a0b0-8d3e6cbc18c3")
+			(tstamps "0c696bee-3536-4044-bf0a-c7f0a5d80eee")
 			(units
 				(unit
 					(name "A")
@@ -6905,9 +6905,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "42ff0db0-a752-4dc3-b7ed-8f6763120ec4")
+			(tstamps "f2b2cc3c-6b14-481b-bc54-7e4dc2a09bb0")
 			(units
 				(unit
 					(name "A")
@@ -6966,9 +6966,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "23dbb612-7482-4be1-aa06-5c71ca664b7f")
+			(tstamps "4a4df8cd-c48e-45a5-8384-3838b02571f6")
 			(units
 				(unit
 					(name "A")
@@ -7024,9 +7024,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "dbcf0ac0-c22d-4a22-a923-df656633b163")
+			(tstamps "5516c7af-e848-4d0d-bf4c-60c385a9fb32")
 			(units
 				(unit
 					(name "A")
@@ -7082,9 +7082,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "03c822f5-5a47-4b7e-bf66-a62b6b6b3a53")
+			(tstamps "00937953-4c43-4b67-85dd-935bc039ca1e")
 			(units
 				(unit
 					(name "A")
@@ -7140,9 +7140,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "3c12e797-54ce-4135-ade8-633892a9a486")
+			(tstamps "07d03cda-624c-42dd-a214-42225310d12f")
 			(units
 				(unit
 					(name "A")
@@ -7198,9 +7198,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "84b0507f-0fd6-407d-a07f-f6986ea3f7d2")
+			(tstamps "06a490a4-0618-42af-b72b-265144233fa2")
 			(units
 				(unit
 					(name "A")
@@ -7256,9 +7256,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "7f2d8f02-bc24-46db-86a8-3454750348df")
+			(tstamps "35d87d7b-866d-4627-9c01-f707df7436e3")
 			(units
 				(unit
 					(name "A")
@@ -7314,9 +7314,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "bc154a98-78ce-404f-b627-6aa228862b57")
+			(tstamps "a1faa3e9-02ff-4b62-899c-d5590c98235b")
 			(units
 				(unit
 					(name "A")
@@ -7372,9 +7372,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "37c1bb53-5380-479e-a805-5b3c103057b3")
+			(tstamps "5652f4b6-936d-41d2-9131-bda90df17b81")
 			(units
 				(unit
 					(name "A")
@@ -7430,9 +7430,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "4ae6125a-cfcf-44f5-8114-6bfb03629221")
+			(tstamps "04c05fdc-b26f-47cf-bcb6-29ab10028186")
 			(units
 				(unit
 					(name "A")
@@ -7488,9 +7488,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "fc70d39e-15a1-4167-86b3-1d6fef4710ca")
+			(tstamps "fedebaff-5241-418b-86a7-2358d9feb5c5")
 			(units
 				(unit
 					(name "A")
@@ -7546,9 +7546,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "eec95c81-553f-4931-8ae0-d66f3bcdeb50")
+			(tstamps "a864e4fb-7770-4a71-8374-047a6ed59f17")
 			(units
 				(unit
 					(name "A")
@@ -7604,9 +7604,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "252d6df2-f861-4215-84dd-cd577e3eebfd")
+			(tstamps "181455b0-7948-4551-9fdb-68979007bfa6")
 			(units
 				(unit
 					(name "A")
@@ -7662,9 +7662,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "8c0788b4-987a-42be-82f8-2e194a1a4c83")
+			(tstamps "abad9810-39e9-4840-b87c-47996ce20fbc")
 			(units
 				(unit
 					(name "A")
@@ -7720,9 +7720,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "7d43bfc9-70c0-40af-a4bf-790515988ef5")
+			(tstamps "aa8f4d9f-a90a-4a20-bf54-13eb6ad69a0a")
 			(units
 				(unit
 					(name "A")
@@ -7778,9 +7778,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "d56bfd8a-31fd-4709-8269-defefb2c0fe9")
+			(tstamps "6af37ef6-314f-4ebe-a4e4-acde17cccd22")
 			(units
 				(unit
 					(name "A")
@@ -7836,9 +7836,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "0abb262d-41e8-4371-b56e-f48493da2aff")
+			(tstamps "bd786f6b-ed72-4b04-a826-a0b23ae75681")
 			(units
 				(unit
 					(name "A")
@@ -7894,9 +7894,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "8b27487e-9eba-4d76-b98c-243e72c596e9")
+			(tstamps "95bba9cf-8b28-4914-bbcf-dd5c2a1fbcbd")
 			(units
 				(unit
 					(name "A")
@@ -7952,9 +7952,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "60e92d64-aa29-4c8e-b362-a3eaa47b94a5")
+			(tstamps "90a871aa-bb3a-4972-b56b-6f30f5e8dcbb")
 			(units
 				(unit
 					(name "A")
@@ -8010,9 +8010,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "54433236-a4a9-4d8c-80f6-2c4fd18e6686")
+			(tstamps "5eb170c7-ec79-477b-8d3e-7a0718c8a0ee")
 			(units
 				(unit
 					(name "A")
@@ -8071,9 +8071,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "a7db8667-5b1e-4c1a-b5d9-b3d09e222c51")
+			(tstamps "fe3b262e-77aa-46f3-850f-70353b1b0efe")
 			(units
 				(unit
 					(name "A")
@@ -8132,9 +8132,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "d4502bb7-8970-4bb6-9674-b622998bb8b8")
+			(tstamps "57157b21-aa7e-4612-82f4-d2c31442249d")
 			(units
 				(unit
 					(name "A")
@@ -8190,9 +8190,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "5eb7c013-7cd4-4d1e-9fa6-b37a5be53b53")
+			(tstamps "9fa66c9c-71e3-4267-8aea-9160c87b8332")
 			(units
 				(unit
 					(name "A")
@@ -8251,9 +8251,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "7bdbf7d7-22c3-42d7-9741-ae43c4dd643f")
+			(tstamps "85d5c7bf-9513-4639-851d-c336134e816b")
 			(units
 				(unit
 					(name "A")
@@ -8309,9 +8309,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "1f35841a-03c8-4907-b320-fc1395b21eba")
+			(tstamps "5de1d89d-1fbd-48a1-a73a-b2fa260c2edc")
 			(units
 				(unit
 					(name "A")
@@ -8367,9 +8367,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "6b4fb9b3-6638-4ed8-bd9a-35dbd3b9fb04")
+			(tstamps "5765b748-be71-46b1-a585-2ba70b951b52")
 			(units
 				(unit
 					(name "A")
@@ -8425,9 +8425,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "b832cfcc-3962-4a73-8c93-f8910996c15b")
+			(tstamps "3b78b372-92a9-46e2-8233-36b4fdd70dc8")
 			(units
 				(unit
 					(name "A")
@@ -8486,9 +8486,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "a0a1edda-a57a-492b-9eff-fdc3c6d2caf4")
+			(tstamps "cc1227cf-b4fd-45ee-9fb1-e48fd0af5cf1")
 			(units
 				(unit
 					(name "A")
@@ -8544,9 +8544,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "de47c81e-78c6-440d-9b2f-541ea7057b06")
+			(tstamps "b5f39ef5-fd88-4100-9cb2-c0e81fc75558")
 			(units
 				(unit
 					(name "A")
@@ -8602,9 +8602,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "ab545c7c-7ccb-47c6-b8d7-90fa6c650fb8")
+			(tstamps "84da1b15-aaa3-4560-94c1-18688bd2f781")
 			(units
 				(unit
 					(name "A")
@@ -8660,9 +8660,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "11845b45-660d-4e55-b2ab-d31dac8822d9")
+			(tstamps "f0cd32b6-5fb0-4409-8db9-12dd1a76d2ad")
 			(units
 				(unit
 					(name "A")
@@ -8718,9 +8718,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "1dde7b7f-4470-4940-901c-14ea0daa7d19")
+			(tstamps "2e86d53b-f9ee-4f75-8ecb-11b2bf903ffd")
 			(units
 				(unit
 					(name "A")
@@ -8777,9 +8777,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "3df083d9-14a1-43ad-816c-52de38c01489")
+			(tstamps "76fa59fa-b077-4aca-aeab-fa141ec348d4")
 			(units
 				(unit
 					(name "A")
@@ -8797,14 +8797,14 @@
 		(comp
 			(ref "L2300")
 			(value "2.2uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "2.8A 0.07ohm")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -8835,9 +8835,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "20b46bad-c686-4bd3-ba26-c701f4e894b0")
+			(tstamps "6b7dddc3-d6e8-432e-8175-b03f682d0da1")
 			(units
 				(unit
 					(name "A")
@@ -8855,14 +8855,14 @@
 		(comp
 			(ref "L2301")
 			(value "1.0uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "4.7A 0.032ohm")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -8893,9 +8893,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "a830beac-bad2-42e0-b508-7578eaf193f1")
+			(tstamps "688bd87a-5d92-4090-bcc5-d051edd1470a")
 			(units
 				(unit
 					(name "A")
@@ -8913,14 +8913,14 @@
 		(comp
 			(ref "L2302")
 			(value "2.2uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "2.8A 0.07ohm")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -8951,9 +8951,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "ce95ff4b-22e2-4c9b-9705-c7f2c7b8006a")
+			(tstamps "10051ef5-cd89-4ba4-a759-06a56b65a920")
 			(units
 				(unit
 					(name "A")
@@ -8971,14 +8971,14 @@
 		(comp
 			(ref "L2303")
 			(value "2.2uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "2.8A 0.07ohm")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -9009,9 +9009,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "829705b7-f5ce-4a4d-8544-7b74a1cf352d")
+			(tstamps "85fa5981-57f9-4d46-b586-7b47950a1082")
 			(units
 				(unit
 					(name "A")
@@ -9029,14 +9029,14 @@
 		(comp
 			(ref "L2304")
 			(value "2.2uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "2.8A 0.07ohm")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -9067,9 +9067,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "d1c89b07-a5bb-4796-aa0e-0055bdbda1c2")
+			(tstamps "dbd5ddc9-3368-4dba-8fbc-df4e19952163")
 			(units
 				(unit
 					(name "A")
@@ -9087,14 +9087,14 @@
 		(comp
 			(ref "L2305")
 			(value "2.2uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "2.8A 0.07ohm")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -9125,9 +9125,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "119bf087-1352-4984-b00c-fdeaeed51984")
+			(tstamps "e05d781d-ed26-440c-8a97-ca64a0fde18a")
 			(units
 				(unit
 					(name "A")
@@ -9183,9 +9183,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "73485afc-47c2-49fd-be44-94f8fcbd3b84")
+			(tstamps "391cd775-2b86-4eb8-bc42-f2c0dde2ad10")
 			(units
 				(unit
 					(name "A")
@@ -9241,9 +9241,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "5155c0d0-19c2-457e-9394-dcbf6178330a")
+			(tstamps "fd86cb96-39b9-40a9-a10c-f14b78480363")
 			(units
 				(unit
 					(name "A")
@@ -9300,9 +9300,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "b9e56699-837b-4c2a-a229-87651eb0776b")
+			(tstamps "5772a802-aa94-4cce-8cf0-2055635a7a3f")
 			(units
 				(unit
 					(name "A")
@@ -9358,9 +9358,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "68283e84-8809-46d5-a319-0d36f7595cfd")
+			(tstamps "9390d2f5-cb63-4893-8179-de5473a4f501")
 			(units
 				(unit
 					(name "A")
@@ -9416,9 +9416,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "ab488fbf-b494-40db-9b52-e615128e1f41")
+			(tstamps "19c1f98d-4f54-4abb-94fb-85abb7867982")
 			(units
 				(unit
 					(name "A")
@@ -9474,9 +9474,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "c62ada1a-af9c-477c-aa57-aea8c254802b")
+			(tstamps "fc902856-0a13-4cf5-bbbf-1274b940a8d6")
 			(units
 				(unit
 					(name "A")
@@ -9532,9 +9532,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "c47a4cf7-cdc3-488b-890e-a371d36b5ae6")
+			(tstamps "ace85503-5450-4904-bcb8-98612ee6e703")
 			(units
 				(unit
 					(name "A")
@@ -9590,9 +9590,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "8a5be8ab-645d-48c0-8f39-93a9eedbd61e")
+			(tstamps "0e384e5f-79e0-4794-9462-18c282da39af")
 			(units
 				(unit
 					(name "A")
@@ -9648,9 +9648,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "076a1c78-fa31-4448-86ff-3af25c38d5fc")
+			(tstamps "570558d5-b9f2-42c3-9ab4-9e23e9d8bccb")
 			(units
 				(unit
 					(name "A")
@@ -9706,9 +9706,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "d257e98c-e74c-400e-9f02-1e7ff8a5461d")
+			(tstamps "989e7aa5-072a-420d-8ac0-9f2f851a62ca")
 			(units
 				(unit
 					(name "A")
@@ -9764,9 +9764,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "0520e39e-a7c1-40c8-b34e-76cef68154ba")
+			(tstamps "fa46acf2-aa68-41e5-b1e3-4b0307249069")
 			(units
 				(unit
 					(name "A")
@@ -9822,9 +9822,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "6e506b15-9d79-4d1f-88fb-1cafa24e8f6f")
+			(tstamps "6c7ad762-9f3a-416b-955d-cebf41cfbd1d")
 			(units
 				(unit
 					(name "A")
@@ -9880,9 +9880,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "8dfa2b14-c96f-4970-b1ee-305a396b5026")
+			(tstamps "a7da6ca4-dd71-47d0-a00c-a32ea9548141")
 			(units
 				(unit
 					(name "A")
@@ -9938,9 +9938,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "d4878dab-8ab7-46ae-8854-2d3aa0c1ae19")
+			(tstamps "49c607d9-0942-47b6-afb2-b1f07739d84a")
 			(units
 				(unit
 					(name "A")
@@ -9996,9 +9996,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "5d504e99-3a9d-4fcb-808c-47f5b3238662")
+			(tstamps "ea0a5f90-7b2e-44bf-8888-a922c72af47e")
 			(units
 				(unit
 					(name "A")
@@ -10054,9 +10054,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "81aad6e2-8106-42be-98a0-0692101f76c9")
+			(tstamps "5945c750-5977-40b8-8a29-75e73207a422")
 			(units
 				(unit
 					(name "A")
@@ -10112,9 +10112,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "a264766f-81c7-4c06-9776-50d5a425b85c")
+			(tstamps "65a87199-8163-45f1-9f3d-691e03317330")
 			(units
 				(unit
 					(name "A")
@@ -10170,9 +10170,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "1e463232-be8e-4817-9cd6-35994c96b909")
+			(tstamps "c2ff654b-9b3b-4077-a6a4-adcc07de9575")
 			(units
 				(unit
 					(name "A")
@@ -10228,9 +10228,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "775a226b-257b-4ba5-8ece-c954da227402")
+			(tstamps "40583298-7231-4958-a9d7-b300b8118ff2")
 			(units
 				(unit
 					(name "A")
@@ -10289,9 +10289,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "57db54e0-06fd-488d-be06-fb301f100cd9")
+			(tstamps "f6963c96-b711-47a6-90f9-1f9828fa5ebf")
 			(units
 				(unit
 					(name "A")
@@ -10347,9 +10347,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "02896ed4-e21c-4e50-9798-d0c21168a109")
+			(tstamps "c66a3db5-8867-4925-8075-b2633cd14d9b")
 			(units
 				(unit
 					(name "A")
@@ -10405,9 +10405,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "5c2f74fb-9bf4-403c-ad28-e4cca1f5a1b1")
+			(tstamps "ca07c8ed-d3d3-4480-af77-ba9eafec3e7f")
 			(units
 				(unit
 					(name "A")
@@ -10463,9 +10463,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "251bfa07-91ba-4e0e-a3d9-7327bf5166e8")
+			(tstamps "0af6dda8-79f5-4113-b015-443cabb4f33d")
 			(units
 				(unit
 					(name "A")
@@ -10521,9 +10521,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "bbf257e6-a9d3-458b-a685-4a999e905004")
+			(tstamps "479656a5-a3ac-49f0-8c18-a4110adc6532")
 			(units
 				(unit
 					(name "A")
@@ -10579,9 +10579,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "95a5327e-2ea9-4355-b92b-3b77b7404a2a")
+			(tstamps "6d760625-f386-433f-be0b-3ca3cdb8ac8f")
 			(units
 				(unit
 					(name "A")
@@ -10637,9 +10637,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "7f0cd46b-3d0e-4a7d-8182-6d135f4a092f")
+			(tstamps "143a0f5f-88fb-428b-a42a-373688a8fc0b")
 			(units
 				(unit
 					(name "A")
@@ -10695,9 +10695,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "aa561cfe-14d5-49a6-8c92-84bd2638133d")
+			(tstamps "1a9f1f49-cbb1-4e33-b914-bd008fceb907")
 			(units
 				(unit
 					(name "A")
@@ -10753,9 +10753,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "0c0a7a44-f173-4a87-87f0-6dce068c618c")
+			(tstamps "736da9e5-ef48-4511-9a62-6ca55feb3019")
 			(units
 				(unit
 					(name "A")
@@ -10811,9 +10811,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "7247bd12-8b88-4d20-a67c-538ba328b7aa")
+			(tstamps "bfda81b9-4f38-4150-9307-ba4d06495fdb")
 			(units
 				(unit
 					(name "A")
@@ -10869,9 +10869,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "1324c325-1b67-4113-a49b-bd6194bcdcb6")
+			(tstamps "a417b3b1-f891-43e0-9de9-c26300c85b30")
 			(units
 				(unit
 					(name "A")
@@ -10927,9 +10927,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "b6dfc939-2a0b-4b32-8ddb-15417851584b")
+			(tstamps "278f45e7-6fba-4ae1-b88c-374b4aaa5948")
 			(units
 				(unit
 					(name "A")
@@ -10985,9 +10985,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "9901e150-e0c4-4260-a4fc-0e11d26d4ad3")
+			(tstamps "36c0ef04-b2ad-4875-a4b1-592a41328249")
 			(units
 				(unit
 					(name "A")
@@ -11043,9 +11043,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "ee1fd531-36d6-4474-af63-d6c5b61517a4")
+			(tstamps "b16b8564-6cb7-4e17-b8d0-5fdf808a3d56")
 			(units
 				(unit
 					(name "A")
@@ -11101,9 +11101,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "555a812a-a1af-4230-a1cc-9170d3ac73ff")
+			(tstamps "960ddd7e-fc71-4018-b843-3461f3dd1f83")
 			(units
 				(unit
 					(name "A")
@@ -11159,9 +11159,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "f9b71575-b345-4328-8186-b9ef63dd0f86")
+			(tstamps "e40650bf-0c8f-46ca-91d4-205d97528efa")
 			(units
 				(unit
 					(name "A")
@@ -11217,9 +11217,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "1995e85d-0730-4e5b-9cfe-824f57dfa819")
+			(tstamps "03b6e1ae-220b-4a08-a761-f84bc823cef7")
 			(units
 				(unit
 					(name "A")
@@ -11275,9 +11275,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "7cb2f242-05cb-45f1-975e-82313aafccb6")
+			(tstamps "33c12123-9ac9-4858-88ed-cb8a5a012f5c")
 			(units
 				(unit
 					(name "A")
@@ -11333,9 +11333,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "12817d19-04b8-47eb-93d3-becc8156c595")
+			(tstamps "2e975aab-d991-42d6-91d3-d03dd5868aa2")
 			(units
 				(unit
 					(name "A")
@@ -11391,9 +11391,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "c4e5b2b6-c0f1-4499-be05-8907eab7aa5c")
+			(tstamps "c3f7ba61-b506-4774-8d7c-631b9c538f17")
 			(units
 				(unit
 					(name "A")
@@ -11449,9 +11449,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "045968c6-c9ad-47f8-9044-67dfb419a522")
+			(tstamps "b8f5fb56-1177-4bf6-8331-661f47c87c76")
 			(units
 				(unit
 					(name "A")
@@ -11509,9 +11509,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "e8abd87d-eb35-4775-a161-26c2353222ce")
+			(tstamps "9c8e8ae5-81c6-4a92-b7c2-5e93de181210")
 			(units
 				(unit
 					(name "A")
@@ -11566,9 +11566,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "201bd513-9548-454c-be1b-544a37b4bd91")
+			(tstamps "af7ff499-f239-4ac8-9416-a8320ff09873")
 			(units
 				(unit
 					(name "A")
@@ -11583,6 +11583,7 @@
 		(comp
 			(ref "U2300")
 			(value "LP3983SAB5F-08")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -11590,8 +11591,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -11622,9 +11622,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "bd146c0c-d965-47f3-b7f3-b0040abfd850")
+			(tstamps "72cd2b18-3706-4abb-9e5d-47ea35f42bb4")
 			(units
 				(unit
 					(name "A")
@@ -11651,6 +11651,7 @@
 		(comp
 			(ref "U2301")
 			(value "SY8089A1AAC")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -11658,8 +11659,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -11690,9 +11690,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "91b9fbf4-c730-461c-9661-019d5193a077")
+			(tstamps "3bea3eea-a08c-4b13-af8c-4f826e45ff62")
 			(units
 				(unit
 					(name "A")
@@ -11719,6 +11719,7 @@
 		(comp
 			(ref "U2302")
 			(value "WL2808E18-5/TR")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -11726,8 +11727,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -11758,9 +11758,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "798c686e-fd53-4e1c-b2f6-e6df976f30df")
+			(tstamps "73428ba8-31ea-4ce4-b2c1-c2f06ce7e4f7")
 			(units
 				(unit
 					(name "A")
@@ -11787,14 +11787,14 @@
 		(comp
 			(ref "U2303")
 			(value "default R=0R,, delay time=0ms")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
 				(field
 					(name "Spec") "ETA3448")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -11825,9 +11825,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "0f44034e-14ca-48e6-8d4e-da39fd1a3a2a")
+			(tstamps "e471235c-7810-4011-9c60-f9006531648e")
 			(units
 				(unit
 					(name "A")
@@ -11854,6 +11854,7 @@
 		(comp
 			(ref "U2304")
 			(value "SY8089A1AAC")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -11861,8 +11862,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -11893,9 +11893,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "b4030636-0837-449c-9c73-58e73d34c4f6")
+			(tstamps "57485f8b-fca1-44dc-870b-a0d9fe779676")
 			(units
 				(unit
 					(name "A")
@@ -11922,6 +11922,7 @@
 		(comp
 			(ref "U2305")
 			(value "SY8089A1AAC")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -11929,8 +11930,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -11961,9 +11961,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "c96f9acc-d360-4039-a5a8-1ef4ebd481f3")
+			(tstamps "994039fb-b6bc-419c-ba37-f198fc749006")
 			(units
 				(unit
 					(name "A")
@@ -11990,6 +11990,7 @@
 		(comp
 			(ref "U2306")
 			(value "SGM804-2.93YN5G/TR")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -11997,8 +11998,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -12029,9 +12029,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "09aeee0f-5a40-45f0-9186-cbae3fb26173")
+			(tstamps "a6df5f83-1e16-41bb-a8e5-42c1cf5899ea")
 			(units
 				(unit
 					(name "A")
@@ -12058,6 +12058,7 @@
 		(comp
 			(ref "U2308")
 			(value "SY8089A1AAC")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -12065,8 +12066,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -12097,9 +12097,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "94a4014d-5192-44a3-9608-9554b4a0f125")
+			(tstamps "da1eed15-9c92-42aa-836f-c6a5d663d1d0")
 			(units
 				(unit
 					(name "A")
@@ -12126,14 +12126,14 @@
 		(comp
 			(ref "U2310")
 			(value "default R=0R,, delay time=0ms")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
 				(field
 					(name "Spec") "SY8089A1AAC")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -12164,9 +12164,9 @@
 			)
 			(sheetpath
 				(names "/P10 23.Discrete Power for System/")
-				(tstamps "/e4d8fcda-1acd-45e3-af97-aff2f73ef0dd/")
+				(tstamps "/d61a1bf3-736f-4e25-b3ff-27282179c9d5/")
 			)
-			(tstamps "d4234747-91ee-447c-ad30-2a4e86aaa7ff")
+			(tstamps "2992b02f-fa64-4336-a3d2-4574b99477df")
 			(units
 				(unit
 					(name "A")
@@ -12231,9 +12231,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "25833e4f-639c-41f8-9684-2352d8eb93ad")
+			(tstamps "38802e2b-c48d-4871-a9b2-258c15e81159")
 			(units
 				(unit
 					(name "A")
@@ -12289,9 +12289,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "2a971f31-b141-446a-aea1-69692a034853")
+			(tstamps "2bf95e99-54e3-4e9a-9993-6a8438c14bc1")
 			(units
 				(unit
 					(name "A")
@@ -12347,9 +12347,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "28eb70d1-3a75-4e08-ac67-5a7fb4cc95a1")
+			(tstamps "edb2b557-5cb8-498d-8849-d9349a8faaeb")
 			(units
 				(unit
 					(name "A")
@@ -12405,9 +12405,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "65f30ee7-adce-43a3-a213-fa1f5482e304")
+			(tstamps "a77d4d85-4e97-4f04-95c5-bd839bf712be")
 			(units
 				(unit
 					(name "A")
@@ -12463,9 +12463,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "82dbefbf-eaa1-469d-ad7b-933f9c06674e")
+			(tstamps "16ca56a2-de08-4e3c-b0e8-c4d7db3de616")
 			(units
 				(unit
 					(name "A")
@@ -12521,9 +12521,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "1e8b7c11-4608-486a-ac12-dd9f6a3c61d1")
+			(tstamps "043cbbee-6b44-4388-8e75-9d249c1160eb")
 			(units
 				(unit
 					(name "A")
@@ -12579,9 +12579,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "9f9ab2ef-4fdd-4319-b86f-474b5197b878")
+			(tstamps "a47932fd-9bc4-40f8-aa28-8baa562249f2")
 			(units
 				(unit
 					(name "A")
@@ -12637,9 +12637,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "141722e4-aa07-43db-8518-28139dfed3c4")
+			(tstamps "09ac313a-8e84-4e08-90fa-413155ac7f31")
 			(units
 				(unit
 					(name "A")
@@ -12695,9 +12695,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "82fc3aa6-d204-434f-8c40-42e876d62df3")
+			(tstamps "f82061c1-2671-46b8-9258-5210f7941098")
 			(units
 				(unit
 					(name "A")
@@ -12715,6 +12715,7 @@
 		(comp
 			(ref "D2502")
 			(value "1N4148WS")
+			(footprint "Diode_SMD:D_SOD-323")
 			(fields
 				(field
 					(name "Package") "SOD_323")
@@ -12722,8 +12723,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
 					(name "Datasheet")
 				)
@@ -12754,9 +12754,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "46da5419-c77d-44a3-a667-c1dd77caf627")
+			(tstamps "35398b39-4a58-4dc0-85a0-2609eea53b55")
 			(units
 				(unit
 					(name "A")
@@ -12774,6 +12774,7 @@
 		(comp
 			(ref "D2509")
 			(value "1N4148WS")
+			(footprint "Diode_SMD:D_SOD-323")
 			(fields
 				(field
 					(name "Package") "SOD_323")
@@ -12781,8 +12782,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
 					(name "Datasheet")
 				)
@@ -12813,9 +12813,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "204adf19-36d3-4cd8-9ca4-d39c65c90705")
+			(tstamps "5b3c0d11-736c-4c21-8b21-92aba30794dc")
 			(units
 				(unit
 					(name "A")
@@ -12833,6 +12833,7 @@
 		(comp
 			(ref "D2511")
 			(value "1N4148WS")
+			(footprint "Diode_SMD:D_SOD-323")
 			(fields
 				(field
 					(name "Package") "SOD_323")
@@ -12840,8 +12841,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
 					(name "Datasheet")
 				)
@@ -12872,9 +12872,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "5c28b713-7ab0-4f5e-aaf6-61f3b4b9d595")
+			(tstamps "6e58055a-1c27-4109-9a7f-7743f53b5084")
 			(units
 				(unit
 					(name "A")
@@ -12898,6 +12898,7 @@
 		(comp
 			(ref "D2516")
 			(value "1N4148WS")
+			(footprint "Diode_SMD:D_SOD-323")
 			(fields
 				(field
 					(name "Package") "SOD_323")
@@ -12905,8 +12906,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Diode_SMD:D_SOD-323")
 				(field
 					(name "Datasheet")
 				)
@@ -12937,9 +12937,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "6b9e9512-6cec-445e-899f-d313f1b1a315")
+			(tstamps "6c788955-8f7c-4aaa-aaad-e1ea71834eaf")
 			(units
 				(unit
 					(name "A")
@@ -12995,9 +12995,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "d91637b3-fbbf-4f26-9145-811278d2fcfe")
+			(tstamps "5e0eb330-f1bf-414b-a490-9f5697912ed8")
 			(units
 				(unit
 					(name "A")
@@ -13053,9 +13053,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "822cba23-b899-428c-a82d-8beed0010f71")
+			(tstamps "10ddc635-e706-46c7-b0ea-f6283154d499")
 			(units
 				(unit
 					(name "A")
@@ -13079,6 +13079,7 @@
 		(comp
 			(ref "Q2500")
 			(value "WPM3401-3/TR")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
 			(fields
 				(field
 					(name "Package") "SOT_23")
@@ -13086,8 +13087,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
 				(field
 					(name "Datasheet")
 				)
@@ -13118,9 +13118,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "34a7e584-2996-483c-ae0a-f883dad3c599")
+			(tstamps "be90fdd2-66cf-4320-bd18-0320347af1b0")
 			(units
 				(unit
 					(name "A")
@@ -13141,6 +13141,7 @@
 		(comp
 			(ref "Q2501")
 			(value "MMBT3904")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
 			(fields
 				(field
 					(name "Package") "SOT_23")
@@ -13148,8 +13149,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
 				(field
 					(name "Datasheet")
 				)
@@ -13180,9 +13180,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "fea067d6-6890-41a2-8281-fe4f9b96670c")
+			(tstamps "6c626d50-1e84-46c5-a626-d990817690f0")
 			(units
 				(unit
 					(name "A")
@@ -13241,9 +13241,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "a2a792ee-1e79-40fd-8039-537b2ec26af4")
+			(tstamps "83ffcc6c-786a-4f2e-8cc8-efd15caf9b63")
 			(units
 				(unit
 					(name "A")
@@ -13299,9 +13299,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "aa11577f-7b95-4b34-8b41-c605bac512a3")
+			(tstamps "24111f38-10a8-49f6-84a4-408ad4fa9ce2")
 			(units
 				(unit
 					(name "A")
@@ -13357,9 +13357,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "29719424-87ed-4dec-9fd3-8677528e4db6")
+			(tstamps "51d14d55-3524-4dd2-b3bd-76c553471dbd")
 			(units
 				(unit
 					(name "A")
@@ -13415,9 +13415,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "ddd40dd1-82df-4496-95af-e629bcde2944")
+			(tstamps "97fa5744-5cd1-49f9-af44-8adeaa298726")
 			(units
 				(unit
 					(name "A")
@@ -13473,9 +13473,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "d4241b17-6b31-47fd-9887-b5f0fb9632b3")
+			(tstamps "98581ba3-59f8-421d-a136-9436da3b19cc")
 			(units
 				(unit
 					(name "A")
@@ -13531,9 +13531,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "98b69ffd-b099-4386-ba84-75646fd0606e")
+			(tstamps "f41e5578-6ee4-4af1-aeb6-ffc2eb5034aa")
 			(units
 				(unit
 					(name "A")
@@ -13589,9 +13589,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "5f111d11-3788-45e3-a377-3413fccc99fe")
+			(tstamps "a68874c0-9f50-4a2c-a49d-dbf78b13bb37")
 			(units
 				(unit
 					(name "A")
@@ -13647,9 +13647,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "74e7bcf9-1111-4bf9-98df-f4e94023ace0")
+			(tstamps "4c481d3b-f3ee-447f-b690-e171c90a10b1")
 			(units
 				(unit
 					(name "A")
@@ -13705,9 +13705,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "aacfb98c-ec0b-4d64-b34c-e3fd0c0408a4")
+			(tstamps "b26cd4ff-5769-4d9c-8e5e-5b952bb5d886")
 			(units
 				(unit
 					(name "A")
@@ -13763,9 +13763,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "877c73c7-0ba3-4ef0-a233-91ffc6f88eca")
+			(tstamps "65e45a76-e5c5-45d9-9d29-19bbf8a106cf")
 			(units
 				(unit
 					(name "A")
@@ -13821,9 +13821,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "a29f9f24-18d0-4f10-9689-024c09ca17bd")
+			(tstamps "91091fd3-0540-4ee3-99ce-c24b381f9a1b")
 			(units
 				(unit
 					(name "A")
@@ -13880,9 +13880,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "14a89666-af0e-45fc-90d1-39ebe8bb3ab1")
+			(tstamps "38dc0882-e439-472d-bbad-db63506b97f7")
 			(units
 				(unit
 					(name "A")
@@ -13939,9 +13939,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "01635cd0-a04a-4811-940c-8757b05ce4bf")
+			(tstamps "b7035662-82b3-4f29-84f7-1c773ecc1233")
 			(units
 				(unit
 					(name "A")
@@ -13997,9 +13997,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "4829282f-1855-4f95-b30b-ce8891d9f513")
+			(tstamps "1eaacfde-a871-4aa4-9724-c4935465829d")
 			(units
 				(unit
 					(name "A")
@@ -14055,9 +14055,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "3a745d5e-b430-4a40-8a89-349697ccebe1")
+			(tstamps "54b21790-b4d2-4925-b8a9-fa8bcacf40e3")
 			(units
 				(unit
 					(name "A")
@@ -14113,9 +14113,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "6d403436-cfd5-414d-93b4-290d5b069961")
+			(tstamps "ed0bd48b-93db-4018-a82c-27846e2e4875")
 			(units
 				(unit
 					(name "A")
@@ -14171,9 +14171,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "3405a688-0911-40cc-9eaa-83229ef8ac66")
+			(tstamps "988ac536-c74a-4fee-8ef7-10810b1acccf")
 			(units
 				(unit
 					(name "A")
@@ -14229,9 +14229,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "8a731236-cda6-4157-b745-2459b030d540")
+			(tstamps "149f7e3c-6500-4ec3-ac76-a53d7f7102c0")
 			(units
 				(unit
 					(name "A")
@@ -14287,9 +14287,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "cd3fd7dd-27c4-47ae-887c-f49406ba59b5")
+			(tstamps "ae4d6ba8-f97b-4258-b4c2-94d416d21448")
 			(units
 				(unit
 					(name "A")
@@ -14346,9 +14346,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "9aa12e7c-d93e-4c3f-8e8f-f8260c40b8d9")
+			(tstamps "974afdbd-2c81-45f3-9106-5e9b8c1f4b3a")
 			(units
 				(unit
 					(name "A")
@@ -14406,9 +14406,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "9136ba74-ec3b-4f8b-932a-2a9ccc92da76")
+			(tstamps "51f291e8-9171-4efd-a4bc-41c19ea2acc7")
 			(units
 				(unit
 					(name "A")
@@ -14463,9 +14463,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "27665972-907a-4c4e-a90e-fc8e2cf850b5")
+			(tstamps "6c5e6b72-cc13-44ab-b797-ad2c4bba24f8")
 			(units
 				(unit
 					(name "A")
@@ -14520,9 +14520,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "b1c729e2-fb6c-4a4b-ba43-86dee464a6d1")
+			(tstamps "c0b2bee4-56b4-4b2b-a129-2641cf985717")
 			(units
 				(unit
 					(name "A")
@@ -14577,9 +14577,9 @@
 			)
 			(sheetpath
 				(names "/P11 25.BAT Scheme Wakeup Power/")
-				(tstamps "/bd849a7a-78bb-41d3-9ec8-881afd8d5839/")
+				(tstamps "/ed8d866c-7d87-49b6-892a-602ca5de035d/")
 			)
-			(tstamps "90afd465-ce6c-40dd-bf48-1b6fadfa64da")
+			(tstamps "4834a8ac-3a9d-4cc4-a134-3897236d00b4")
 			(units
 				(unit
 					(name "A")
@@ -14689,9 +14689,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "7fc14a32-5df8-4259-8d11-2b533d6d1d52")
+			(tstamps "f4c50811-5cdf-4e05-8d5a-fd978e7e3643")
 			(units
 				(unit
 					(name "A")
@@ -14747,9 +14747,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "ae5f984b-e338-4308-afbe-d2c1492b2eb4")
+			(tstamps "a96a2617-535a-4c45-9654-fa6f88bdd19d")
 			(units
 				(unit
 					(name "A")
@@ -14805,9 +14805,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "0e288b00-cf5a-4303-bbe7-dbd06ba3b700")
+			(tstamps "fb2e908f-82a9-4dd1-b7a9-508ab5ee4c74")
 			(units
 				(unit
 					(name "A")
@@ -14864,9 +14864,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "fb87a795-b5a8-4422-b724-524c9faa9871")
+			(tstamps "9ecd0dbc-e2de-4a62-b2da-86c27bcecfd5")
 			(units
 				(unit
 					(name "A")
@@ -14884,6 +14884,7 @@
 		(comp
 			(ref "ESD2600")
 			(value "ESD5302F")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
 			(fields
 				(field
 					(name "Package") "SOT_23")
@@ -14891,8 +14892,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
 				(field
 					(name "Datasheet")
 				)
@@ -14923,9 +14923,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "a0741c00-c30b-4b0d-8b2a-d5670af797cc")
+			(tstamps "5f6c582a-06b9-48bf-9c18-70ab11fa38fb")
 			(units
 				(unit
 					(name "A")
@@ -14984,9 +14984,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "691c8ef1-6baa-4384-9cb1-35878785ffc8")
+			(tstamps "75bff02a-53bc-402c-8904-f15879209bf6")
 			(units
 				(unit
 					(name "A")
@@ -15042,9 +15042,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "30e43fb2-682c-45e4-b291-74cf76acd723")
+			(tstamps "a22d5322-6a6b-40eb-91d3-33b6e2670639")
 			(units
 				(unit
 					(name "A")
@@ -15100,9 +15100,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "7bae63de-ad2e-4e6a-a888-46f244cef477")
+			(tstamps "6c8e478e-c371-484a-a82b-5aa965c087ea")
 			(units
 				(unit
 					(name "A")
@@ -15158,9 +15158,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "40b4bae2-1fcf-49e0-abbe-8cec8f8a21bb")
+			(tstamps "a0cefedc-2978-4367-aaec-72f5cbbf4afb")
 			(units
 				(unit
 					(name "A")
@@ -15216,9 +15216,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "d55e6905-5c09-4114-bf8a-972653dec715")
+			(tstamps "967160f8-366a-4a0f-b2d1-91d08f6cd284")
 			(units
 				(unit
 					(name "A")
@@ -15274,9 +15274,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "c188ea79-004b-43d2-b2e5-2918f3c611af")
+			(tstamps "12f06224-4fbb-405e-8784-41877db5da3a")
 			(units
 				(unit
 					(name "A")
@@ -15333,9 +15333,9 @@
 			)
 			(sheetpath
 				(names "/P12 26.USB OTG/")
-				(tstamps "/e21252d1-c60c-4eb4-a190-a67f07e9018c/")
+				(tstamps "/eb4e533d-d479-4a66-9848-6844444355e2/")
 			)
-			(tstamps "44f8446f-a832-46d6-a851-0154473b824e")
+			(tstamps "8839afcc-f8eb-4f1e-ac4b-86c00fcd708f")
 			(units
 				(unit
 					(name "A")
@@ -15475,9 +15475,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "2c378528-b823-4ec6-83d7-ae19c221df9c")
+			(tstamps "a3c3224c-a3b5-411c-848c-08ae46676de9")
 			(units
 				(unit
 					(name "A")
@@ -15533,9 +15533,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "575938ce-f964-408f-9beb-9070ace96a68")
+			(tstamps "ba850a20-6dc0-4b87-af5c-b08571631a89")
 			(units
 				(unit
 					(name "A")
@@ -15591,9 +15591,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "4bfeee2f-4939-4d82-a384-7fe84fbe9cdc")
+			(tstamps "1b4878d6-e93e-4fd4-9b08-178dd6de453c")
 			(units
 				(unit
 					(name "A")
@@ -15649,9 +15649,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "7e52e007-3fca-447c-9b1d-8ef3a907bf2c")
+			(tstamps "4aeb11f6-2f43-41d5-9e66-7f3ca5cb5b0c")
 			(units
 				(unit
 					(name "A")
@@ -15707,9 +15707,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "c7698988-d37a-4cea-92b2-8c041df965c9")
+			(tstamps "9cf19148-00e8-4d51-b89d-c505f5070e7a")
 			(units
 				(unit
 					(name "A")
@@ -15765,9 +15765,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "fbc51b8f-1df2-4e89-bb02-983b14014de1")
+			(tstamps "3a12f39d-e542-4584-85eb-580783c344f2")
 			(units
 				(unit
 					(name "A")
@@ -15823,9 +15823,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "3e012c49-b5dc-4b67-adb9-24453804b6d7")
+			(tstamps "350d82c6-8d29-43a5-a974-fd44b3908f43")
 			(units
 				(unit
 					(name "A")
@@ -15881,9 +15881,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "a14dc34f-3ba3-40f4-abd1-fe5d53af1808")
+			(tstamps "ef129023-eeac-4550-9b70-fa9f730a1dfb")
 			(units
 				(unit
 					(name "A")
@@ -15939,9 +15939,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "028aa8ba-eb3a-4802-a4dc-cf302764a0bf")
+			(tstamps "56628b09-7189-4140-b860-a97d1a056eee")
 			(units
 				(unit
 					(name "A")
@@ -15997,9 +15997,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "cbe41345-1cd8-4acc-9c08-50586fa72cba")
+			(tstamps "e0ea34f7-8ba4-45da-a734-7f9b1c76c26c")
 			(units
 				(unit
 					(name "A")
@@ -16055,9 +16055,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "e31fcb8f-0e8d-42d3-9736-789bc5941aed")
+			(tstamps "cc28ecee-b853-4a0e-9cca-4928455d8ac3")
 			(units
 				(unit
 					(name "A")
@@ -16113,9 +16113,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "a5652a12-f03d-498b-8f46-0ede9cdc23c3")
+			(tstamps "044e08f1-a16c-474f-9b3b-30dc894a8be6")
 			(units
 				(unit
 					(name "A")
@@ -16171,9 +16171,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "0f9f1c10-bd80-454e-94be-98aef3bbd5d0")
+			(tstamps "3b5d4d16-c8fa-4be8-94df-b722b55f18d7")
 			(units
 				(unit
 					(name "A")
@@ -16229,9 +16229,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "0d732adb-8a21-45f9-ab48-80251306b739")
+			(tstamps "1ce7cb2e-5f5b-4b62-9e55-d6fbc07c25ea")
 			(units
 				(unit
 					(name "A")
@@ -16287,9 +16287,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "90ab689c-d534-4ffd-ae38-0ff0abf99bda")
+			(tstamps "642231d0-9bb5-421f-80c4-a68d9f42e99a")
 			(units
 				(unit
 					(name "A")
@@ -16345,9 +16345,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "6de43501-c701-4fe8-96c2-4947b8b9a732")
+			(tstamps "f5a90e04-3b6a-4357-a3ea-acf9cb849460")
 			(units
 				(unit
 					(name "A")
@@ -16403,9 +16403,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "e32cd4de-ccd9-406e-9d85-05eac1006f7b")
+			(tstamps "34cf5723-abab-48b3-b9b7-6b92b069e6c8")
 			(units
 				(unit
 					(name "A")
@@ -16461,9 +16461,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "36de078b-ba57-4ce4-afa8-5f5bf6e2f537")
+			(tstamps "3f5dbfa2-5978-409e-9f91-fff1067f0c9f")
 			(units
 				(unit
 					(name "A")
@@ -16519,9 +16519,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "4815057e-a0d2-4c38-b620-bdccd364aa45")
+			(tstamps "79649380-1fd5-416a-a887-b1df231247c5")
 			(units
 				(unit
 					(name "A")
@@ -16577,9 +16577,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "9c0fffef-5521-43f8-8266-f885d23e76d1")
+			(tstamps "1b6f67f4-9949-42d6-a2b5-5bfdf52aac02")
 			(units
 				(unit
 					(name "A")
@@ -16635,9 +16635,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "e9909c89-4c0a-4ccc-bb20-953e2bb4ff4d")
+			(tstamps "c08d0c52-8d3d-4e13-af1b-c9b3af240946")
 			(units
 				(unit
 					(name "A")
@@ -16693,9 +16693,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "6f4a35ba-755a-4b69-919a-3dfaf75e433b")
+			(tstamps "e1e4bbac-7d1c-4bb8-bead-d6ed46aa83f3")
 			(units
 				(unit
 					(name "A")
@@ -16751,9 +16751,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "85f2c233-9ce2-4d77-8999-67dc41a4706f")
+			(tstamps "13cc5339-a475-4664-854c-8b3c6ca639f0")
 			(units
 				(unit
 					(name "A")
@@ -16809,9 +16809,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "d62c9fa5-9c45-4513-b358-056e58958a43")
+			(tstamps "4577876e-a314-43ea-8b15-19a60aab7c95")
 			(units
 				(unit
 					(name "A")
@@ -16867,9 +16867,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "3510a875-3ba7-4f58-be61-84ff5e7298e6")
+			(tstamps "41208b86-70a4-4c14-930e-b8e77bf01585")
 			(units
 				(unit
 					(name "A")
@@ -16925,9 +16925,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "bb3ecb65-9bbb-477d-b691-d3bb1143b89b")
+			(tstamps "776d9ca0-30f6-4f63-8afb-0d6ccc6ab970")
 			(units
 				(unit
 					(name "A")
@@ -16983,9 +16983,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "304fe847-6fb2-4999-aa59-1ba3acaf2350")
+			(tstamps "2fd45fea-861a-43c9-ade0-e7d18e63c356")
 			(units
 				(unit
 					(name "A")
@@ -17041,9 +17041,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "8247a0c3-514b-4a7a-b6da-dc0cfe699605")
+			(tstamps "386b4b27-4bed-40be-b121-02d921fcf338")
 			(units
 				(unit
 					(name "A")
@@ -17099,9 +17099,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "daee6cfb-e752-411c-b507-7b13afd16bb9")
+			(tstamps "32fe0d21-8ee6-4e71-90b9-b2eb278f99bf")
 			(units
 				(unit
 					(name "A")
@@ -17157,9 +17157,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "59c944b9-de37-4d66-8eb8-6f2e1723cdf4")
+			(tstamps "069411cd-8fe5-4f0d-9742-9d180f0a4517")
 			(units
 				(unit
 					(name "A")
@@ -17215,9 +17215,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "5bb56b84-c157-494f-81e6-4371f2127ed9")
+			(tstamps "075b901b-6b8d-4ddb-b1d3-b0d1150f5739")
 			(units
 				(unit
 					(name "A")
@@ -17273,9 +17273,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "3965e950-917e-40d5-a8ec-c7903f920ae4")
+			(tstamps "af6b2938-3fe0-4c37-98fe-4aa04434e1fd")
 			(units
 				(unit
 					(name "A")
@@ -17331,9 +17331,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "d55df085-6542-403a-8bb3-362fefa3c412")
+			(tstamps "59fa0486-83c7-4740-9268-c7b3d104747b")
 			(units
 				(unit
 					(name "A")
@@ -17389,9 +17389,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "69505d88-a01e-460f-880e-4591c11f0dcb")
+			(tstamps "227ddd4f-3b36-40ab-a47b-5b367ad610dc")
 			(units
 				(unit
 					(name "A")
@@ -17447,9 +17447,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "bef7baca-f4d8-4f2e-8409-c246c3d49f66")
+			(tstamps "0f09c3d1-3500-40f6-b00f-e275ff26767a")
 			(units
 				(unit
 					(name "A")
@@ -17505,9 +17505,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "645f48fb-f3b5-4d63-809b-b547d7c7f38b")
+			(tstamps "dbcf41cb-06a4-4c12-873c-88651ffdc872")
 			(units
 				(unit
 					(name "A")
@@ -17563,9 +17563,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "c7625d5c-eebf-4a00-affd-e1557cd6f03c")
+			(tstamps "ecca7c2c-e5a5-4779-9a7a-3bc5deff6dd3")
 			(units
 				(unit
 					(name "A")
@@ -17621,9 +17621,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "ae875486-7732-4950-aa7a-58df3ec881e0")
+			(tstamps "e2f6986e-bd28-424a-bc37-c68ba3035cec")
 			(units
 				(unit
 					(name "A")
@@ -17679,9 +17679,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "1ae748bc-3f0a-4b35-915b-26b0c01c3b3f")
+			(tstamps "34cda785-20c4-4c8e-bedd-e092aa045e49")
 			(units
 				(unit
 					(name "A")
@@ -17737,9 +17737,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "448bfd11-c33b-4c69-8626-0c70d9814e6d")
+			(tstamps "6f8b1e0c-961f-4637-b5b0-52acd6366cad")
 			(units
 				(unit
 					(name "A")
@@ -17795,9 +17795,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "c3703df9-fea4-4e5d-98db-18959c86480c")
+			(tstamps "669a243d-d8f9-4ec3-83fb-42fda1d8c06d")
 			(units
 				(unit
 					(name "A")
@@ -17853,9 +17853,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "a196ded3-0059-47a2-bd64-13e9e2328777")
+			(tstamps "d21d61d7-ca0c-4853-a652-feda57c164f4")
 			(units
 				(unit
 					(name "A")
@@ -17911,9 +17911,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "1c7dee2d-1407-409e-b178-98d6e18db391")
+			(tstamps "5302cf00-4e51-4b17-ac83-14a2dd21bb5f")
 			(units
 				(unit
 					(name "A")
@@ -17969,9 +17969,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "ee72602e-aa50-48e1-beb5-916cec8f3d29")
+			(tstamps "d74ce525-2066-410f-895d-18477673ba06")
 			(units
 				(unit
 					(name "A")
@@ -18027,9 +18027,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "f337c8b9-935a-46ef-ac9a-a9cd8db14cb3")
+			(tstamps "2940db58-650b-45ea-b684-3d267d617799")
 			(units
 				(unit
 					(name "A")
@@ -18088,9 +18088,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "23554c45-7583-428c-a5e5-3fe4a8e599f2")
+			(tstamps "0f250107-38a0-4a96-a08c-37f66bb0b11d")
 			(units
 				(unit
 					(name "A")
@@ -18146,9 +18146,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "8f4f5bcf-5721-4eed-a3ce-23c49ee26dda")
+			(tstamps "1ebbbd9f-0041-4b60-aa05-8fa5f488d4eb")
 			(units
 				(unit
 					(name "A")
@@ -18204,9 +18204,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "352b9e27-bcb4-4ed9-92e9-7075986e8649")
+			(tstamps "ffdeb050-b249-49ee-b01b-723631bef929")
 			(units
 				(unit
 					(name "A")
@@ -18262,9 +18262,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "7a364cff-d840-4e37-a304-3bb0cf2507d1")
+			(tstamps "804219d0-ac4a-4761-8613-96d63dc4afe5")
 			(units
 				(unit
 					(name "A")
@@ -18320,9 +18320,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "a845e698-3152-4e74-9392-bf042b99066f")
+			(tstamps "72b80e6f-0030-4101-8035-75bcaca60a6b")
 			(units
 				(unit
 					(name "A")
@@ -18381,9 +18381,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "0dbd9d08-e896-4410-abb3-081d3724bee6")
+			(tstamps "d1168515-bf86-4a52-975d-fc5d5fa24e25")
 			(units
 				(unit
 					(name "A")
@@ -18439,9 +18439,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "b0377414-a66d-484c-adcb-732b651c77c8")
+			(tstamps "c093be1b-43df-43a5-ba67-40315b27b611")
 			(units
 				(unit
 					(name "A")
@@ -18497,9 +18497,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "590b5491-e84d-441b-b961-d19cc3eedc3f")
+			(tstamps "63daca92-fd51-4ad6-8d70-df12c098ae1b")
 			(units
 				(unit
 					(name "A")
@@ -18555,9 +18555,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "a9df7fd4-b7ba-4766-8ccf-88ec25af2abe")
+			(tstamps "b724349c-32c0-4fc7-8183-aa1e83928611")
 			(units
 				(unit
 					(name "A")
@@ -18613,9 +18613,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "d736b457-ae6a-4ff8-a9f0-0be520858ea3")
+			(tstamps "2c1184e9-629b-462f-b593-1b67ea2ac1cc")
 			(units
 				(unit
 					(name "A")
@@ -18672,9 +18672,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "db529c72-d858-4a12-8b09-9029f529cccb")
+			(tstamps "db961e47-feb7-4599-b326-047ee162bb72")
 			(units
 				(unit
 					(name "A")
@@ -18731,9 +18731,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "364ab8b3-8cb1-456d-9425-0460f618fbd7")
+			(tstamps "08452cb8-aee0-49cc-97dc-eb8ea35ba30a")
 			(units
 				(unit
 					(name "A")
@@ -18790,9 +18790,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "0b451f42-56dc-40d4-9c08-89b0ab480a15")
+			(tstamps "bd29fd4a-397d-42ba-a002-8681278cfbee")
 			(units
 				(unit
 					(name "A")
@@ -18850,9 +18850,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "f4958d72-bf49-45c4-8711-6b7d512c0ede")
+			(tstamps "5bb6674d-46d1-4ade-bb58-1ae393d7ea2f")
 			(units
 				(unit
 					(name "A")
@@ -18908,9 +18908,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "da466db2-f4ca-400f-a662-aad5948eeb51")
+			(tstamps "9bc70fe4-c9ee-4a7d-9ba6-82763eb1b7d8")
 			(units
 				(unit
 					(name "A")
@@ -18966,9 +18966,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "cc0110ce-8ee2-45fe-a3b7-2bb47eac2394")
+			(tstamps "96c15bc1-8a77-4a80-a929-eb3c779bbc94")
 			(units
 				(unit
 					(name "A")
@@ -19024,9 +19024,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "b4acc00b-3d37-40a9-8faf-b012c08a00a6")
+			(tstamps "72aa2768-bdbe-4b6d-a406-29df331331cd")
 			(units
 				(unit
 					(name "A")
@@ -19082,9 +19082,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "972a9e31-4ef5-4ed2-ba13-3afe1dfd7957")
+			(tstamps "8fc2bd03-46c8-48b1-b219-5ef4e2b65108")
 			(units
 				(unit
 					(name "A")
@@ -19141,9 +19141,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "52444d57-a771-4aaf-b3a4-14a0fbd7ce00")
+			(tstamps "18c31849-7e9e-420b-8a03-d02590c99657")
 			(units
 				(unit
 					(name "A")
@@ -19482,9 +19482,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "3414ef97-9c07-430d-aa57-afac3c096ef8")
+			(tstamps "3f63e2cb-369b-4ba0-a97b-f0dd023c569f")
 			(units
 				(unit
 					(name "A")
@@ -19784,6 +19784,7 @@
 		(comp
 			(ref "U3233")
 			(value "PT5108E23E-25")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -19791,8 +19792,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -19823,9 +19823,9 @@
 			)
 			(sheetpath
 				(names "/P13 31. DRAM_LPDDR3_32 bit/")
-				(tstamps "/c165af41-fe7c-436c-be8d-827f035ac62b/")
+				(tstamps "/127c7420-22ce-412c-8fb5-828a71d1fb8b/")
 			)
-			(tstamps "791fa6e7-749c-4b10-97a6-406099889e7d")
+			(tstamps "92406cb2-08b5-4644-9443-0358bb8513e9")
 			(units
 				(unit
 					(name "A")
@@ -19890,9 +19890,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "f8c50ebd-2972-4fb9-a239-5799580510b8")
+			(tstamps "cfdefffa-891d-4939-9632-fff2480ffda1")
 			(units
 				(unit
 					(name "A")
@@ -19948,9 +19948,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "c40c6779-0ff1-4380-ba2e-f1f6664b7dfa")
+			(tstamps "07b2e91c-10d9-4d89-a939-f0ba77e6e836")
 			(units
 				(unit
 					(name "A")
@@ -20006,9 +20006,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "2a9bf864-92cc-481f-8962-b208c4719b51")
+			(tstamps "15241f68-f5a5-4bda-9629-36421c564c52")
 			(units
 				(unit
 					(name "A")
@@ -20064,9 +20064,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "8c4e12b4-d214-474f-8c1b-4975270f5dfa")
+			(tstamps "c719721f-0caf-4e46-bea6-427a4a2c38b0")
 			(units
 				(unit
 					(name "A")
@@ -20122,9 +20122,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "bb26845a-402e-4dc7-89df-adcaef92cda9")
+			(tstamps "fd4ae920-26ae-40b1-b2f6-11139d3212a7")
 			(units
 				(unit
 					(name "A")
@@ -20180,9 +20180,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "7c8a4133-f93d-464b-bddc-26b78c481255")
+			(tstamps "91e135b6-f9da-4eab-a0cb-32db874ab6da")
 			(units
 				(unit
 					(name "A")
@@ -20238,9 +20238,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "075861c4-3f29-453c-9dfe-60800a09a2f5")
+			(tstamps "cb668192-03e3-4862-9154-2555f5be61c1")
 			(units
 				(unit
 					(name "A")
@@ -20296,9 +20296,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "aa82f94f-5b63-4854-b737-108bcd0e32c7")
+			(tstamps "71267629-b729-4c8d-9967-2619974e8438")
 			(units
 				(unit
 					(name "A")
@@ -20357,9 +20357,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "903bf482-929d-4e73-9aea-4d44abc23859")
+			(tstamps "f0e011fc-da44-4770-bdf1-90432a9a4cf9")
 			(units
 				(unit
 					(name "A")
@@ -20415,9 +20415,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "a129e760-c5c1-41c5-a74e-1122e4a7e5b6")
+			(tstamps "dce0245f-ccb9-492b-a1eb-bcbb077f12ca")
 			(units
 				(unit
 					(name "A")
@@ -20473,9 +20473,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "48b40dc5-6a4d-4b90-92aa-c25872d8a715")
+			(tstamps "de634a6d-2ba5-4b55-9b5c-063a7084ea2f")
 			(units
 				(unit
 					(name "A")
@@ -20531,9 +20531,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "a276ed2f-863d-4c53-983f-2eb01154d75e")
+			(tstamps "a3b62e11-bb75-4f20-9d59-7d76f8b19962")
 			(units
 				(unit
 					(name "A")
@@ -20591,9 +20591,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "a1b20eb8-311a-496c-abfe-865bcb05e1cd")
+			(tstamps "89866555-0682-4dd3-b71b-100064b03b80")
 			(units
 				(unit
 					(name "A")
@@ -20648,9 +20648,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "945b18d6-01bd-4488-81c6-e8d24f4425ad")
+			(tstamps "e9927cd3-7caf-407c-834c-d3bd6555e23d")
 			(units
 				(unit
 					(name "A")
@@ -20703,9 +20703,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "8c89fcca-a8d1-4971-b3e7-14572be8f914" "7da8d973-a5e4-4a80-b030-de1f528b7441")
+			(tstamps "fc7d6001-30ab-4b1c-842a-05a9a44cb6fc" "402dfe29-f44d-4b85-a7ba-54fd721dc64b")
 			(units
 				(unit
 					(name "A")
@@ -21181,6 +21181,7 @@
 		(comp
 			(ref "U4001")
 			(value "WL2808E18-5/TR")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -21188,8 +21189,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -21223,9 +21223,9 @@
 			)
 			(sheetpath
 				(names "/P14 40.Flash-eMMC Flash/")
-				(tstamps "/0054b931-fba5-47bc-ab11-84ac1c91f8da/")
+				(tstamps "/29a2c35c-4d02-4620-b276-54e7cda51538/")
 			)
-			(tstamps "69f318d1-0042-47b3-af14-e6d5e21be3d9")
+			(tstamps "cdd5fef6-80d2-47ee-8009-ce80ff6f746a")
 			(units
 				(unit
 					(name "A")
@@ -21291,9 +21291,9 @@
 			)
 			(sheetpath
 				(names "/P15 Page 15/")
-				(tstamps "/e087ff1d-8020-4bf5-9539-de5f4000a123/")
+				(tstamps "/5b30d0ed-9211-426b-aed4-812dad0d5eeb/")
 			)
-			(tstamps "56bc8d12-f476-4804-9829-ecfe38a029f9")
+			(tstamps "7a3a3e6a-1b7e-4f13-b9c8-50ca854866d8")
 			(units
 				(unit
 					(name "A")
@@ -21421,13 +21421,13 @@
 		)
 		(comp
 			(ref "C9893")
-			(value "PMEG4030ER")
+			(value "10uf")
 			(footprint "Capacitor_SMD:C_0603_1608Metric")
 			(fields
 				(field
 					(name "Package") "C0603")
 				(field
-					(name "Spec") "10uf X5R 35V")
+					(name "Spec") "X5R 35V")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
 				(field
@@ -21448,7 +21448,7 @@
 			)
 			(property
 				(name "Spec")
-				(value "10uf X5R 35V")
+				(value "X5R 35V")
 			)
 			(property
 				(name "Sheetname")
@@ -21460,9 +21460,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "25899e1b-3550-4dfd-b6c4-9bf465c7ada6")
+			(tstamps "9eb3d2b0-6185-4c6a-be20-0fc4f0154d28")
 			(units
 				(unit
 					(name "A")
@@ -21518,9 +21518,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "8932ff4c-4338-46a2-bdad-00b841b0f3f7")
+			(tstamps "808549a5-52e1-4c0c-bc24-d9bba1748bff")
 			(units
 				(unit
 					(name "A")
@@ -21576,9 +21576,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "f9137b6c-e343-4c1b-bbda-defc20a215cd")
+			(tstamps "3a9d64d0-953f-4185-92dc-cc239ad8f367")
 			(units
 				(unit
 					(name "A")
@@ -21634,9 +21634,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "94c8ec47-83c5-4a79-8716-3058c2675980")
+			(tstamps "bb562a2d-9db2-494e-b66b-aa5111ba9797")
 			(units
 				(unit
 					(name "A")
@@ -21695,9 +21695,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "d1f9ea56-8f87-4ec0-a2c1-e8ee1a5e377d")
+			(tstamps "77e84cff-c165-45da-8a19-8d142e9a6e83")
 			(units
 				(unit
 					(name "A")
@@ -21714,7 +21714,7 @@
 		)
 		(comp
 			(ref "D2515")
-			(value "~")
+			(value "PMEG4030ER")
 			(fields
 				(field
 					(name "Package")
@@ -21755,9 +21755,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "e9229d1f-4fb1-4f75-a324-5b6822e578fb")
+			(tstamps "3a72a3b8-9407-4955-9799-98e9e45ddbab")
 			(units
 				(unit
 					(name "A")
@@ -21814,9 +21814,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "df94cc40-caab-4eb3-89ff-871f7cda9844")
+			(tstamps "0cbb2e38-654e-4b07-8dda-05a78145a1fb")
 			(units
 				(unit
 					(name "A")
@@ -21891,14 +21891,14 @@
 		(comp
 			(ref "L2506")
 			(value "10uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "1.1A 480mR")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -21929,9 +21929,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "a82e638a-2b09-4340-a2cd-357a510623b5")
+			(tstamps "cda1bccc-7275-474d-a554-17a6f3649bcf")
 			(units
 				(unit
 					(name "A")
@@ -21987,9 +21987,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "a8e96b80-1ce7-4853-85ed-58a44106ac27")
+			(tstamps "e1113666-dd37-4cb9-abe6-77387b5accf9")
 			(units
 				(unit
 					(name "A")
@@ -22047,9 +22047,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "660d24c2-87ed-4fd6-8b3a-a9d27fbe1a22")
+			(tstamps "f19469f1-22e9-4c02-a318-5ccdd794cd30")
 			(units
 				(unit
 					(name "A")
@@ -22076,6 +22076,7 @@
 		(comp
 			(ref "U4015")
 			(value "WL2808E28-5/TR")
+			(footprint "Package_TO_SOT_SMD:SOT-23-5")
 			(fields
 				(field
 					(name "Package") "SOT_23_5")
@@ -22083,8 +22084,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
 				(field
 					(name "Datasheet")
 				)
@@ -22115,9 +22115,9 @@
 			)
 			(sheetpath
 				(names "/P16 Page 16/")
-				(tstamps "/f3534ba1-d2d5-4315-98f6-43199c91790c/")
+				(tstamps "/6fbde90f-4797-4819-9bc9-86cbc3db64fe/")
 			)
-			(tstamps "ee437f9d-df6a-49e3-98fb-f3d14a2a428a")
+			(tstamps "07acdfa1-123f-4412-8f6a-c716bb4bf1d0")
 			(units
 				(unit
 					(name "A")
@@ -22182,9 +22182,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "a65d23a0-ccfe-4f53-8524-2963d08b1aab")
+			(tstamps "224a5cd4-2edb-4912-b810-3fee51d648de")
 			(units
 				(unit
 					(name "A")
@@ -22240,9 +22240,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "7d29cdea-fa0a-4ee7-a492-a5dd113f5cf6")
+			(tstamps "5f8cff8d-0c27-4554-9b33-4788bcfc74c7")
 			(units
 				(unit
 					(name "A")
@@ -22298,9 +22298,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "71956409-14ac-4ff2-9513-e0dce869a98b")
+			(tstamps "18e29fd2-baf9-46da-95b0-1c7f08621c92")
 			(units
 				(unit
 					(name "A")
@@ -22317,13 +22317,13 @@
 		)
 		(comp
 			(ref "C9889")
-			(value "PMEG4030ER")
+			(value "10uf")
 			(footprint "Capacitor_SMD:C_0603_1608Metric")
 			(fields
 				(field
 					(name "Package") "C0603")
 				(field
-					(name "Spec") "10uf X5R 35V")
+					(name "Spec") "X5R 35V")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
 				(field
@@ -22344,7 +22344,7 @@
 			)
 			(property
 				(name "Spec")
-				(value "10uf X5R 35V")
+				(value "X5R 35V")
 			)
 			(property
 				(name "Sheetname")
@@ -22356,9 +22356,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "361b2732-8e53-460f-94a2-3d24a0a6c1c3")
+			(tstamps "f3544ea3-8d40-47ab-bddd-7b04098e9dab")
 			(units
 				(unit
 					(name "A")
@@ -22375,13 +22375,13 @@
 		)
 		(comp
 			(ref "C9890")
-			(value "PMEG4030ER")
+			(value "10uf")
 			(footprint "Capacitor_SMD:C_0603_1608Metric")
 			(fields
 				(field
 					(name "Package") "C0603")
 				(field
-					(name "Spec") "10uf X5R 35V")
+					(name "Spec") "X5R 35V")
 				(field
 					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
 				(field
@@ -22402,7 +22402,7 @@
 			)
 			(property
 				(name "Spec")
-				(value "10uf X5R 35V")
+				(value "X5R 35V")
 			)
 			(property
 				(name "Sheetname")
@@ -22414,9 +22414,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "e758c2ad-fca4-43bc-9c45-a3ad65e883e3")
+			(tstamps "9e4f9435-f420-467f-ba46-944b61bd7a65")
 			(units
 				(unit
 					(name "A")
@@ -22472,9 +22472,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "bcd05d19-dc72-4413-823a-175b1c9ac921")
+			(tstamps "015fea29-87a3-4c0a-88d7-4403297da0e0")
 			(units
 				(unit
 					(name "A")
@@ -22491,7 +22491,7 @@
 		)
 		(comp
 			(ref "D2512")
-			(value "~")
+			(value "PMEG4030ER")
 			(fields
 				(field
 					(name "Package")
@@ -22532,9 +22532,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "feb516bc-84b1-443f-9d7a-d6464afcd3be")
+			(tstamps "1571eb84-12c0-48f6-9d10-2abce1352757")
 			(units
 				(unit
 					(name "A")
@@ -22551,7 +22551,7 @@
 		)
 		(comp
 			(ref "D2513")
-			(value "~")
+			(value "PMEG4030ER")
 			(fields
 				(field
 					(name "Package")
@@ -22592,9 +22592,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "55f02530-4962-4af3-9855-24d494774267")
+			(tstamps "d890476e-a5e7-43b7-988e-1299b959668d")
 			(units
 				(unit
 					(name "A")
@@ -22612,6 +22612,7 @@
 		(comp
 			(ref "L2502")
 			(value "4.7uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
@@ -22619,8 +22620,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -22651,9 +22651,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "3dd320bb-0dfd-4026-bc8e-003ff3a45203")
+			(tstamps "7d7f8620-2e77-436c-b8a6-c17b2aaf3ffd")
 			(units
 				(unit
 					(name "A")
@@ -22671,14 +22671,14 @@
 		(comp
 			(ref "L2504")
 			(value "10uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "1.1A 480mR")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -22709,9 +22709,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "fbeeb694-1402-4af2-bd61-6fcc0e1b019a")
+			(tstamps "20a2672b-629d-46c3-815e-1a12a9d6a146")
 			(units
 				(unit
 					(name "A")
@@ -22729,14 +22729,14 @@
 		(comp
 			(ref "L2505")
 			(value "10uH")
+			(footprint "Inductor_SMD:L_1008_2520Metric")
 			(fields
 				(field
 					(name "Package") "IND_252010")
 				(field
 					(name "Spec") "1.1A 480mR")
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Inductor_SMD:L_1008_2520Metric")
 				(field
 					(name "Datasheet")
 				)
@@ -22767,9 +22767,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "613f2172-1e2d-4123-8e0c-8f6ddb26c11d")
+			(tstamps "82283bdb-a573-48b8-97b3-a21d582c3d9b")
 			(units
 				(unit
 					(name "A")
@@ -22826,9 +22826,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "8ac39c9d-fb95-4aba-976d-89c430bd16ed")
+			(tstamps "3333c15e-0a41-4070-b730-fca18e3a87d8")
 			(units
 				(unit
 					(name "A")
@@ -22884,9 +22884,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "c5cf0943-6916-4ae1-8a7b-1408f90f855d")
+			(tstamps "413ffa87-6695-4c4a-8849-07d063d48268")
 			(units
 				(unit
 					(name "A")
@@ -22942,9 +22942,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "4c6b73ce-86b5-4553-bfb6-9303eb7c83ac")
+			(tstamps "bdaf778d-de13-431e-ad0a-1cf6ce9e926c")
 			(units
 				(unit
 					(name "A")
@@ -23000,9 +23000,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "99cf47d1-16af-4625-a756-443ed431924f")
+			(tstamps "6dc26d02-97de-4570-91ba-364804ab527c")
 			(units
 				(unit
 					(name "A")
@@ -23060,9 +23060,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "bd785067-3f96-4f60-b5b3-2dd79fc9a3cc")
+			(tstamps "19a312ae-a611-4e08-aebe-cc8ab2a53c59")
 			(units
 				(unit
 					(name "A")
@@ -23117,9 +23117,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "18cbe51e-d56a-4023-ad75-d6f2f550f185")
+			(tstamps "c89b7a2d-9065-4911-8f32-3d3c822e6351")
 			(units
 				(unit
 					(name "A")
@@ -23174,9 +23174,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "07c6dfea-d3bd-480b-9ddc-7d3588aa008b")
+			(tstamps "206fb227-4465-4e7a-86d2-e9c0b02f230c")
 			(units
 				(unit
 					(name "A")
@@ -23231,9 +23231,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "ba5e7d48-e212-49d5-b71c-9bc893eb7e25")
+			(tstamps "6f7b12b1-be98-47c5-9d26-f37a53e3164e")
 			(units
 				(unit
 					(name "A")
@@ -23288,9 +23288,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "e81ac0be-b91a-4f1c-ab4f-06ec951a12d8")
+			(tstamps "06831fb6-41a6-41cd-ad14-f8443dd15287")
 			(units
 				(unit
 					(name "A")
@@ -23357,9 +23357,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "ce7c898f-6a0f-4637-ab7e-12ea99d659db")
+			(tstamps "cbbde0fd-d061-4c05-a186-e666ee6c4082")
 			(units
 				(unit
 					(name "A")
@@ -23426,9 +23426,9 @@
 			)
 			(sheetpath
 				(names "/P17 Page 17/")
-				(tstamps "/fd15b052-4e07-41eb-9c9a-306f53fad240/")
+				(tstamps "/20cabd31-aacb-4755-9f63-7ff655e8c51c/")
 			)
-			(tstamps "2f3b7916-33f0-44fa-a759-3bf0652bf9f3")
+			(tstamps "991b9fa2-e318-48ad-8010-cb959a03d7fe")
 			(units
 				(unit
 					(name "A")
@@ -23493,9 +23493,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "83503f7e-dadb-45f6-9f6a-9155fce65b0f")
+			(tstamps "2631cce6-6bba-400f-8b22-07efa405e3e7")
 			(units
 				(unit
 					(name "A")
@@ -23551,9 +23551,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "3abac188-7716-4f47-b63a-122b7e90a934")
+			(tstamps "b2c58855-9c8a-4ea9-b135-62907bf8ed97")
 			(units
 				(unit
 					(name "A")
@@ -23609,9 +23609,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "36540935-d84e-47cd-bbc6-eb9a4e5a8448")
+			(tstamps "6bf69236-d60e-446e-9107-5fa9103fe134")
 			(units
 				(unit
 					(name "A")
@@ -23667,9 +23667,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "f0928a7f-bccf-49bc-8736-3f339abab200")
+			(tstamps "17d2b846-6c11-4dd2-b49f-1f88f3a3bb12")
 			(units
 				(unit
 					(name "A")
@@ -23726,9 +23726,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "97d46813-f050-4179-930a-55ddf85dd6cd")
+			(tstamps "af1e3993-a3fa-4a7c-bfbf-e9d68d52000b")
 			(units
 				(unit
 					(name "A")
@@ -23770,6 +23770,7 @@
 		(comp
 			(ref "Q2602")
 			(value "WPM3400-3/TR")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
 			(fields
 				(field
 					(name "Package") "SOT_23")
@@ -23777,8 +23778,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
 				(field
 					(name "Datasheet")
 				)
@@ -23809,9 +23809,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "550849f9-b5c5-4b09-b8bc-719078ad7bcc")
+			(tstamps "b21cb83d-92fd-42ad-9422-4698db426e8f")
 			(units
 				(unit
 					(name "A")
@@ -23832,6 +23832,7 @@
 		(comp
 			(ref "Q2603")
 			(value "MMBT3904")
+			(footprint "Package_TO_SOT_SMD:SOT-23")
 			(fields
 				(field
 					(name "Package") "SOT_23")
@@ -23839,8 +23840,7 @@
 					(name "Spec")
 				)
 				(field
-					(name "Footprint")
-				)
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23")
 				(field
 					(name "Datasheet")
 				)
@@ -23871,9 +23871,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "ad93cd97-2ad0-45b7-b403-80d3019bd95f")
+			(tstamps "80d846a1-d152-4444-a147-abc995d12337")
 			(units
 				(unit
 					(name "A")
@@ -23932,9 +23932,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "1cad2b17-ac66-4aa9-9b14-903a7fae3f2a")
+			(tstamps "bc1714a0-c4d0-4a4a-9d09-ed3eeabdb3ba")
 			(units
 				(unit
 					(name "A")
@@ -23990,9 +23990,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "91f511b1-602c-44e2-b37f-c96e66bbf847")
+			(tstamps "65ee15b8-e178-462a-86bd-d0d700b2ffba")
 			(units
 				(unit
 					(name "A")
@@ -24048,9 +24048,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "7c456b58-0069-4909-8856-394eb167e1f1")
+			(tstamps "faa221cf-a401-401a-888d-40a0d99a8524")
 			(units
 				(unit
 					(name "A")
@@ -24106,9 +24106,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "3f7245f0-073d-45dc-8e3d-8ae5685e28d3")
+			(tstamps "b6db8e45-d64c-4634-9850-344bcd144df1")
 			(units
 				(unit
 					(name "A")
@@ -24164,9 +24164,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "0d5710c2-f851-4431-af4c-6af59102f74b")
+			(tstamps "f635cd70-dbe4-4e3a-bf1c-04bd26db80c8")
 			(units
 				(unit
 					(name "A")
@@ -24223,9 +24223,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "9f3ce10e-f15b-4176-b69d-f44f59292c15")
+			(tstamps "df1d1d83-f7c2-442d-9338-880d9be5dc3e")
 			(units
 				(unit
 					(name "A")
@@ -24281,9 +24281,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "013cff9a-4c76-437f-960c-3a648019c2cc")
+			(tstamps "e00ff177-468a-4c14-92bf-8c090932c742")
 			(units
 				(unit
 					(name "A")
@@ -24339,9 +24339,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "4e18ec5a-7a2d-4675-8611-3658bd7c8d32")
+			(tstamps "1dcccabd-34ff-42e2-ad1d-2220a91ecaaf")
 			(units
 				(unit
 					(name "A")
@@ -24399,9 +24399,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "206bb45d-7155-4bf7-9d0c-ab4a662bb3c6")
+			(tstamps "e7b9bb67-2e77-4367-9fc8-583a3722699a")
 			(units
 				(unit
 					(name "A")
@@ -24455,9 +24455,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "7b1faf7c-b8bf-4d30-9b26-49024a598607")
+			(tstamps "5454d26c-4889-4f63-9ce8-d1cd641854b1")
 			(units
 				(unit
 					(name "A")
@@ -24512,9 +24512,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "c7f9e521-624a-4d4e-ac83-f5d8e08811b4")
+			(tstamps "a32b2e8b-07a4-4e50-bbda-b019a4f0306a")
 			(units
 				(unit
 					(name "A")
@@ -24569,9 +24569,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "934f36d5-f7a1-464a-8e44-88691a38a97b")
+			(tstamps "9bdd798e-f5e1-45dc-8e48-56153ae532e4")
 			(units
 				(unit
 					(name "A")
@@ -24641,9 +24641,9 @@
 			)
 			(sheetpath
 				(names "/P18 Page 18/")
-				(tstamps "/29b1b6f9-d0bd-460a-8759-e45d68f5c449/")
+				(tstamps "/84382b9a-9e1a-4366-b4a2-85123c0e4d65/")
 			)
-			(tstamps "b95e8e48-6877-4f45-9847-b9d900006ed3")
+			(tstamps "23534507-1bd4-4ecb-965f-4650b75d8444")
 			(units
 				(unit
 					(name "A")
@@ -29830,7 +29830,7 @@
 				(field
 					(name "Reference") "C")
 				(field
-					(name "Value") "PMEG4030ER")
+					(name "Value") "10uf")
 				(field
 					(name "Footprint")
 				)
@@ -29861,7 +29861,7 @@
 				(field
 					(name "Reference") "C")
 				(field
-					(name "Value") "PMEG4030ER")
+					(name "Value") "10uf")
 				(field
 					(name "Footprint")
 				)
@@ -29923,7 +29923,7 @@
 				(field
 					(name "Reference") "C")
 				(field
-					(name "Value") "PMEG4030ER")
+					(name "Value") "10uf")
 				(field
 					(name "Footprint")
 				)
@@ -30305,8 +30305,7 @@
 				(field
 					(name "Reference") "D")
 				(field
-					(name "Value")
-				)
+					(name "Value") "PMEG4030ER")
 				(field
 					(name "Footprint")
 				)
@@ -30337,8 +30336,7 @@
 				(field
 					(name "Reference") "D")
 				(field
-					(name "Value")
-				)
+					(name "Value") "PMEG4030ER")
 				(field
 					(name "Footprint")
 				)
@@ -30400,8 +30398,7 @@
 				(field
 					(name "Reference") "D")
 				(field
-					(name "Value")
-				)
+					(name "Value") "PMEG4030ER")
 				(field
 					(name "Footprint")
 				)

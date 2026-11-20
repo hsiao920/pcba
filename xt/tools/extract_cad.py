@@ -460,6 +460,28 @@ def extract_page(page, pno, decode=None):
     else:
         for u in cands:
             if id(u) in owner: propmap[owner[id(u)]].append(u); u["used"] = ("prop", owner[id(u)])
+    # leftover property-coloured texts (e.g. the value printed beside a horizontal resistor): nearest labelled part
+    if not hinted:
+        for u in texts:
+            if u["used"] or u["color"] != TXT_PROP or REFDES.match(u["t"]) or u["size"] > 7.5: continue
+            if not re.match(r"^[0-9][0-9.]*[a-zA-Zµ%Ω]*$|^[0-9.]+[KMRkm]$|^0R$", u["t"]): continue
+            best = None
+            for g in gref:
+                dd = bbox_dist(u["bbox"], gbox[g])
+                if dd < 14 and (best is None or dd < best[0]): best = (dd, g)
+            if best: propmap[best[1]].append(u); u["used"] = ("prop", best[1])
+    # a part left with no properties takes back the property texts that sit right at its body but were chained to a neighbour
+    for g in list(gpins):
+        if g not in gref or propmap.get(g): continue
+        for h in list(propmap):
+            if h == g: continue
+            moved = [u for u in propmap[h] if u["color"] == TXT_PROP and bbox_dist(u["bbox"], gbox[g]) < 8
+                     and abs((u["bbox"][0] + u["bbox"][2]) / 2 - (gbox[g][0] + gbox[g][2]) / 2) + 4 < abs((u["bbox"][0] + u["bbox"][2]) / 2 - (gbox[h][0] + gbox[h][2]) / 2)
+                     and u["bbox"][0] < gbox[g][2] + 12 and u["bbox"][2] > gbox[g][0] - 12]
+            if moved:
+                propmap[h] = [u for u in propmap[h] if u not in moved]; propmap[g] = moved
+                for u in moved: u["used"] = ("prop", g)
+                break
     parts = []
     for g, ks in gpins.items():
         t = gref.get(g)
