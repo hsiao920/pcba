@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KunLun")(type "KiCad")(uri "${KIPRJMOD}/KunLun.pretty")(options "")(descr "KunLun V1.5.2-H board footprints (imported from PADS layout)"))
+)
