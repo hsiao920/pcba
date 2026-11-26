@@ -1,93 +1,4 @@
 {
-  "meta": {
-    "filename": "KunLun_V1.5.kicad_pro",
-    "version": 1
-  },
-  "schematic": {},
-  "erc": {
-    "rule_severities": {
-      "power_pin_not_driven": "ignore"
-    }
-  },
-  "boards": [],
-  "sheets": [
-    [
-      "27363bf5-99bc-47e8-9ef0-9fdf1114dd75",
-      "Root"
-    ],
-    [
-      "1ec25a95-9cd5-43e1-9ab3-8843bb9e014e",
-      "P01"
-    ],
-    [
-      "3ad8e81e-cf19-4911-a14e-a7e5cc7d8f36",
-      "P02"
-    ],
-    [
-      "7e9be36c-de6b-4ae9-8bb6-092093c9fd0e",
-      "P03"
-    ],
-    [
-      "bed2b4a7-0203-44af-9af2-75fabcf7a843",
-      "P04"
-    ],
-    [
-      "7dc49461-9a49-4a94-a944-fb9e354c5d19",
-      "P05"
-    ],
-    [
-      "529ebc90-035e-4a50-97c3-0c25c3fe960e",
-      "P06"
-    ],
-    [
-      "e9764617-a2cc-489c-9e2a-61f8ab549820",
-      "P07"
-    ],
-    [
-      "fb051a56-8103-494a-a6f7-80f7add3e7ec",
-      "P08"
-    ],
-    [
-      "adbc5717-3d41-44b1-94f5-bb05a12148f5",
-      "P09"
-    ],
-    [
-      "d87c323c-4fbc-42bb-8bbe-231f8399b2d3",
-      "P10"
-    ],
-    [
-      "27fb1d85-943f-4e68-bb43-8c211736cc0a",
-      "P11"
-    ],
-    [
-      "b4d2b21a-966a-412d-b212-5fae57ef5ca9",
-      "P12"
-    ],
-    [
-      "cf419fbd-2e6e-40ff-9179-cd0960cefd75",
-      "P13"
-    ],
-    [
-      "381808c7-998e-4e63-9d9b-ba020673a837",
-      "P14"
-    ],
-    [
-      "ab53f9c2-b46a-4688-aeb4-0245f49d820c",
-      "P15"
-    ],
-    [
-      "eaa2d77f-8fba-4c4b-bc38-b8235b89ac7c",
-      "P16"
-    ],
-    [
-      "fe013736-5805-4a81-8579-b279e3d35fea",
-      "P17"
-    ],
-    [
-      "c26a2c1c-0188-41f6-a3a8-dca80851f9f9",
-      "P18"
-    ]
-  ],
   "board": {
     "3dviewports": [],
     "design_settings": {
@@ -229,22 +140,22 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.1016,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.4,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_hole_clearance": 0.165,
+        "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
-        "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_text_height": 0.5,
+        "min_text_thickness": 0.03,
+        "min_through_hole_diameter": 0.199,
+        "min_track_width": 0.08,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.5,
+        "min_via_diameter": 0.399,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -338,11 +249,32 @@
     "layer_presets": [],
     "viewports": []
   },
+  "boards": [],
+  "component_class_settings": {
+    "assignments": [],
+    "meta": {
+      "version": 0
+    },
+    "sheet_component_classes": {
+      "enabled": false
+    }
+  },
+  "cvpcb": {
+    "equivalence_files": []
+  },
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
+  },
+  "meta": {
+    "filename": "KunLun_V1.5.kicad_pro",
+    "version": 3
+  },
   "net_settings": {
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.1016,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -353,10 +285,10 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.127,
         "tuning_profile": "",
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "via_diameter": 0.4,
+        "via_drill": 0.2,
         "wire_width": 6
       }
     ],
@@ -378,5 +310,24 @@
     },
     "page_layout_descr_file": ""
   },
-  "text_variables": {}
+  "schematic": {
+    "bus_aliases": {},
+    "legacy_lib_dir": "",
+    "legacy_lib_list": [],
+    "top_level_sheets": [
+      {
+        "filename": "KunLun_V1.5.kicad_sch",
+        "name": "KunLun_V1.5",
+        "uuid": "00000000-0000-0000-0000-000000000000"
+      }
+    ]
+  },
+  "sheets": [],
+  "text_variables": {},
+  "tuning_profiles": {
+    "meta": {
+      "version": 0
+    },
+    "tuning_profiles_impedance_geometric": []
+  }
 }

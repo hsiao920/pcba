@@ -2,7 +2,7 @@
 	(version "E")
 	(design
 		(source "D:\\Users\\jacky\\pcba\\xt\\KunLun_V1.5\\KunLun_V1.5.kicad_sch")
-		(date "2026-11-24T17:18:40")
+		(date "2026-11-26T08:40:44")
 		(tool "Eeschema 10.0.8")
 		(sheet
 			(number "1")
@@ -22506,6 +22506,190 @@
 			)
 		)
 		(comp
+			(ref "C10007")
+			(value "待確認")
+			(footprint "KunLun:C0201")
+			(fields
+				(field
+					(name "Footprint") "KunLun:C0201")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "KL")
+				(part "KL_C_V")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "P15 Page 15")
+			)
+			(property
+				(name "Sheetfile")
+				(value "p15.kicad_sch")
+			)
+			(sheetpath
+				(names "/P15 Page 15/")
+				(tstamps "/ab53f9c2-b46a-4688-aeb4-0245f49d820c/")
+			)
+			(tstamps "245ca392-42a0-4e48-baa1-6efdec56f4e0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C10008")
+			(value "待確認")
+			(footprint "KunLun:C0201")
+			(fields
+				(field
+					(name "Footprint") "KunLun:C0201")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "KL")
+				(part "KL_C_V")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "P15 Page 15")
+			)
+			(property
+				(name "Sheetfile")
+				(value "p15.kicad_sch")
+			)
+			(sheetpath
+				(names "/P15 Page 15/")
+				(tstamps "/ab53f9c2-b46a-4688-aeb4-0245f49d820c/")
+			)
+			(tstamps "6390fbef-aa60-432f-9c27-f2ef94627afd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C10009")
+			(value "待確認")
+			(footprint "KunLun:C0201")
+			(fields
+				(field
+					(name "Footprint") "KunLun:C0201")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "KL")
+				(part "KL_C_V")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "P15 Page 15")
+			)
+			(property
+				(name "Sheetfile")
+				(value "p15.kicad_sch")
+			)
+			(sheetpath
+				(names "/P15 Page 15/")
+				(tstamps "/ab53f9c2-b46a-4688-aeb4-0245f49d820c/")
+			)
+			(tstamps "26662b20-40ca-4eef-a6ee-f3dcfd1285dc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C10010")
+			(value "待確認")
+			(footprint "KunLun:C0201")
+			(fields
+				(field
+					(name "Footprint") "KunLun:C0201")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "KL")
+				(part "KL_C_V")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "P15 Page 15")
+			)
+			(property
+				(name "Sheetfile")
+				(value "p15.kicad_sch")
+			)
+			(sheetpath
+				(names "/P15 Page 15/")
+				(tstamps "/ab53f9c2-b46a-4688-aeb4-0245f49d820c/")
+			)
+			(tstamps "e80df21d-1a90-43b2-9902-796da2953284")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
 			(ref "FPC1")
 			(value "~")
 			(footprint "KunLun:0.3MM_FPC_39P")
@@ -22670,6 +22854,98 @@
 						)
 						(pin
 							(num "38")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R10002")
+			(value "待確認")
+			(footprint "KunLun:R0201")
+			(fields
+				(field
+					(name "Footprint") "KunLun:R0201")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "KL")
+				(part "KL_R_V")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "P15 Page 15")
+			)
+			(property
+				(name "Sheetfile")
+				(value "p15.kicad_sch")
+			)
+			(sheetpath
+				(names "/P15 Page 15/")
+				(tstamps "/ab53f9c2-b46a-4688-aeb4-0245f49d820c/")
+			)
+			(tstamps "43326fe4-b67a-41c9-81e1-807273ce38a5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R10003")
+			(value "待確認")
+			(footprint "KunLun:R0201")
+			(fields
+				(field
+					(name "Footprint") "KunLun:R0201")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "KL")
+				(part "KL_R_V")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "P15 Page 15")
+			)
+			(property
+				(name "Sheetfile")
+				(value "p15.kicad_sch")
+			)
+			(sheetpath
+				(names "/P15 Page 15/")
+				(tstamps "/ab53f9c2-b46a-4688-aeb4-0245f49d820c/")
+			)
+			(tstamps "05f6be97-4247-4e1a-8d2c-c2bf49e7f7b6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
 						)
 					)
 				)
@@ -24206,6 +24482,9 @@
 					(pins
 						(pin
 							(num "1")
+						)
+						(pin
+							(num "2")
 						)
 						(pin
 							(num "3")
@@ -31724,6 +32003,37 @@
 		)
 		(libpart
 			(lib "KL")
+			(part "KL_C_V")
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "C")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "KL")
 			(part "KL_D1700")
 			(fields
 				(field
@@ -32919,6 +33229,11 @@
 				(pin
 					(num "1")
 					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
 					(type "passive")
 				)
 				(pin
@@ -36398,6 +36713,37 @@
 					(name "Reference") "R")
 				(field
 					(name "Value") "5.1K")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "KL")
+			(part "KL_R_V")
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R")
 				(field
 					(name "Footprint")
 				)
@@ -44596,8 +44942,28 @@
 				(pintype "passive")
 			)
 			(node
+				(ref "C10007")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C10008")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C10009")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
 				(ref "C1001")
 				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C10010")
+				(pin "1")
 				(pintype "passive")
 			)
 			(node
@@ -45592,6 +45958,12 @@
 				(ref "FPC3")
 				(pin "9")
 				(pinfunction "9_9")
+				(pintype "passive")
+			)
+			(node
+				(ref "LED4")
+				(pin "2")
+				(pinfunction "2_2")
 				(pintype "passive")
 			)
 			(node
@@ -47299,9 +47671,13 @@
 			(name "MIPI_CSI_CLK0")
 			(class "Default")
 			(node
-				(ref "FPC1")
-				(pin "32")
-				(pinfunction "32_32")
+				(ref "C10009")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10003")
+				(pin "2")
 				(pintype "passive")
 			)
 			(node
@@ -47313,12 +47689,32 @@
 		)
 		(net
 			(code "133")
-			(name "MIPI_CSI_CLK1")
+			(name "MIPI_CSI_CLK0_FPC")
 			(class "Default")
 			(node
 				(ref "FPC1")
-				(pin "11")
-				(pinfunction "11_11")
+				(pin "32")
+				(pinfunction "32_32")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10003")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "134")
+			(name "MIPI_CSI_CLK1")
+			(class "Default")
+			(node
+				(ref "C10010")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10002")
+				(pin "1")
 				(pintype "passive")
 			)
 			(node
@@ -47329,7 +47725,23 @@
 			)
 		)
 		(net
-			(code "134")
+			(code "135")
+			(name "MIPI_CSI_CLK1_FPC")
+			(class "Default")
+			(node
+				(ref "FPC1")
+				(pin "11")
+				(pinfunction "11_11")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10002")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "136")
 			(name "MIPI_CSI_RX0_CLKN")
 			(class "Default")
 			(node
@@ -47346,7 +47758,7 @@
 			)
 		)
 		(net
-			(code "135")
+			(code "137")
 			(name "MIPI_CSI_RX0_CLKP")
 			(class "Default")
 			(node
@@ -47363,7 +47775,7 @@
 			)
 		)
 		(net
-			(code "136")
+			(code "138")
 			(name "MIPI_CSI_RX0_D0N")
 			(class "Default")
 			(node
@@ -47380,7 +47792,7 @@
 			)
 		)
 		(net
-			(code "137")
+			(code "139")
 			(name "MIPI_CSI_RX0_D0P")
 			(class "Default")
 			(node
@@ -47397,7 +47809,7 @@
 			)
 		)
 		(net
-			(code "138")
+			(code "140")
 			(name "MIPI_CSI_RX0_D1N")
 			(class "Default")
 			(node
@@ -47414,7 +47826,7 @@
 			)
 		)
 		(net
-			(code "139")
+			(code "141")
 			(name "MIPI_CSI_RX0_D1P")
 			(class "Default")
 			(node
@@ -47431,7 +47843,7 @@
 			)
 		)
 		(net
-			(code "140")
+			(code "142")
 			(name "MIPI_CSI_RX0_D2N")
 			(class "Default")
 			(node
@@ -47442,7 +47854,7 @@
 			)
 		)
 		(net
-			(code "141")
+			(code "143")
 			(name "MIPI_CSI_RX0_D2P")
 			(class "Default")
 			(node
@@ -47453,7 +47865,7 @@
 			)
 		)
 		(net
-			(code "142")
+			(code "144")
 			(name "MIPI_CSI_RX0_D3N")
 			(class "Default")
 			(node
@@ -47464,7 +47876,7 @@
 			)
 		)
 		(net
-			(code "143")
+			(code "145")
 			(name "MIPI_CSI_RX0_D3P")
 			(class "Default")
 			(node
@@ -47475,7 +47887,7 @@
 			)
 		)
 		(net
-			(code "144")
+			(code "146")
 			(name "MIPI_CSI_RX1_CLKN")
 			(class "Default")
 			(node
@@ -47492,7 +47904,7 @@
 			)
 		)
 		(net
-			(code "145")
+			(code "147")
 			(name "MIPI_CSI_RX1_CLKP")
 			(class "Default")
 			(node
@@ -47509,7 +47921,7 @@
 			)
 		)
 		(net
-			(code "146")
+			(code "148")
 			(name "MIPI_CSI_RX1_D0N")
 			(class "Default")
 			(node
@@ -47526,7 +47938,7 @@
 			)
 		)
 		(net
-			(code "147")
+			(code "149")
 			(name "MIPI_CSI_RX1_D0P")
 			(class "Default")
 			(node
@@ -47543,7 +47955,7 @@
 			)
 		)
 		(net
-			(code "148")
+			(code "150")
 			(name "MIPI_CSI_RX1_D1N")
 			(class "Default")
 			(node
@@ -47560,7 +47972,7 @@
 			)
 		)
 		(net
-			(code "149")
+			(code "151")
 			(name "MIPI_CSI_RX1_D1P")
 			(class "Default")
 			(node
@@ -47577,7 +47989,7 @@
 			)
 		)
 		(net
-			(code "150")
+			(code "152")
 			(name "MIPI_CSI_RX1_D2N")
 			(class "Default")
 			(node
@@ -47588,7 +48000,7 @@
 			)
 		)
 		(net
-			(code "151")
+			(code "153")
 			(name "MIPI_CSI_RX1_D2P")
 			(class "Default")
 			(node
@@ -47599,7 +48011,7 @@
 			)
 		)
 		(net
-			(code "152")
+			(code "154")
 			(name "MIPI_CSI_RX1_D3N")
 			(class "Default")
 			(node
@@ -47610,7 +48022,7 @@
 			)
 		)
 		(net
-			(code "153")
+			(code "155")
 			(name "MIPI_CSI_RX1_D3P")
 			(class "Default")
 			(node
@@ -47621,7 +48033,7 @@
 			)
 		)
 		(net
-			(code "154")
+			(code "156")
 			(name "MIPI_DSI_TX0_CLKN")
 			(class "Default")
 			(node
@@ -47638,7 +48050,7 @@
 			)
 		)
 		(net
-			(code "155")
+			(code "157")
 			(name "MIPI_DSI_TX0_CLKP")
 			(class "Default")
 			(node
@@ -47655,7 +48067,7 @@
 			)
 		)
 		(net
-			(code "156")
+			(code "158")
 			(name "MIPI_DSI_TX0_D0N")
 			(class "Default")
 			(node
@@ -47672,7 +48084,7 @@
 			)
 		)
 		(net
-			(code "157")
+			(code "159")
 			(name "MIPI_DSI_TX0_D0P")
 			(class "Default")
 			(node
@@ -47689,7 +48101,7 @@
 			)
 		)
 		(net
-			(code "158")
+			(code "160")
 			(name "NPU_PWM1_M0")
 			(class "Default")
 			(node
@@ -47710,7 +48122,7 @@
 			)
 		)
 		(net
-			(code "159")
+			(code "161")
 			(name "Net-(C2310-Pad1)")
 			(class "Default")
 			(node
@@ -47735,7 +48147,7 @@
 			)
 		)
 		(net
-			(code "160")
+			(code "162")
 			(name "Net-(C2324-Pad1)")
 			(class "Default")
 			(node
@@ -47760,7 +48172,7 @@
 			)
 		)
 		(net
-			(code "161")
+			(code "163")
 			(name "Net-(C2353-Pad1)")
 			(class "Default")
 			(node
@@ -47785,7 +48197,7 @@
 			)
 		)
 		(net
-			(code "162")
+			(code "164")
 			(name "Net-(C2512-Pad2)")
 			(class "Default")
 			(node
@@ -47815,7 +48227,7 @@
 			)
 		)
 		(net
-			(code "163")
+			(code "165")
 			(name "Net-(C9852-Pad1)")
 			(class "Default")
 			(node
@@ -47835,7 +48247,7 @@
 			)
 		)
 		(net
-			(code "164")
+			(code "166")
 			(name "Net-(C10006-Pad1)")
 			(class "Default")
 			(node
@@ -47850,7 +48262,7 @@
 			)
 		)
 		(net
-			(code "165")
+			(code "167")
 			(name "Net-(D2502-Pad2)")
 			(class "Default")
 			(node
@@ -47875,7 +48287,7 @@
 			)
 		)
 		(net
-			(code "166")
+			(code "168")
 			(name "Net-(D2509-Pad1)")
 			(class "Default")
 			(node
@@ -47890,7 +48302,7 @@
 			)
 		)
 		(net
-			(code "167")
+			(code "169")
 			(name "Net-(D2511-Pad2)")
 			(class "Default")
 			(node
@@ -47911,7 +48323,7 @@
 			)
 		)
 		(net
-			(code "168")
+			(code "170")
 			(name "Net-(ED2300-Pad1)")
 			(class "Default")
 			(node
@@ -47931,7 +48343,7 @@
 			)
 		)
 		(net
-			(code "169")
+			(code "171")
 			(name "Net-(FPC3-Pad5)")
 			(class "Default")
 			(node
@@ -47947,7 +48359,7 @@
 			)
 		)
 		(net
-			(code "170")
+			(code "172")
 			(name "Net-(FPC3-Pad6)")
 			(class "Default")
 			(node
@@ -47963,7 +48375,7 @@
 			)
 		)
 		(net
-			(code "171")
+			(code "173")
 			(name "Net-(LED2-Pad1)")
 			(class "Default")
 			(node
@@ -47985,7 +48397,7 @@
 			)
 		)
 		(net
-			(code "172")
+			(code "174")
 			(name "Net-(Q2501-Pad1)")
 			(class "Default")
 			(node
@@ -48005,7 +48417,7 @@
 			)
 		)
 		(net
-			(code "173")
+			(code "175")
 			(name "Net-(Q2501-Pad3)")
 			(class "Default")
 			(node
@@ -48020,7 +48432,7 @@
 			)
 		)
 		(net
-			(code "174")
+			(code "176")
 			(name "Net-(Q2602-Pad1)")
 			(class "Default")
 			(node
@@ -48040,7 +48452,7 @@
 			)
 		)
 		(net
-			(code "175")
+			(code "177")
 			(name "Net-(Q2602-Pad3)")
 			(class "Default")
 			(node
@@ -48055,7 +48467,7 @@
 			)
 		)
 		(net
-			(code "176")
+			(code "178")
 			(name "Net-(Q2603-Pad1)")
 			(class "Default")
 			(node
@@ -48075,7 +48487,7 @@
 			)
 		)
 		(net
-			(code "177")
+			(code "179")
 			(name "Net-(R7260-Pad1)")
 			(class "Default")
 			(node
@@ -48090,7 +48502,7 @@
 			)
 		)
 		(net
-			(code "178")
+			(code "180")
 			(name "Net-(TYPE_C1-CC1)")
 			(class "Default")
 			(node
@@ -48106,7 +48518,7 @@
 			)
 		)
 		(net
-			(code "179")
+			(code "181")
 			(name "Net-(TYPE_C1-CC2)")
 			(class "Default")
 			(node
@@ -48122,7 +48534,7 @@
 			)
 		)
 		(net
-			(code "180")
+			(code "182")
 			(name "Net-(U1000A-DDR_RZQ)")
 			(class "Default")
 			(node
@@ -48138,7 +48550,7 @@
 			)
 		)
 		(net
-			(code "181")
+			(code "183")
 			(name "Net-(U1000K-XIN24M)")
 			(class "Default")
 			(node
@@ -48160,7 +48572,7 @@
 			)
 		)
 		(net
-			(code "182")
+			(code "184")
 			(name "Net-(U1000K-XOUT24M)")
 			(class "Default")
 			(node
@@ -48176,7 +48588,7 @@
 			)
 		)
 		(net
-			(code "183")
+			(code "185")
 			(name "Net-(U1000M-OTG_EXTR)")
 			(class "Default")
 			(node
@@ -48192,7 +48604,7 @@
 			)
 		)
 		(net
-			(code "184")
+			(code "186")
 			(name "Net-(U2300-BP)")
 			(class "Default")
 			(node
@@ -48218,7 +48630,7 @@
 			)
 		)
 		(net
-			(code "185")
+			(code "187")
 			(name "Net-(U2301-EN)")
 			(class "Default")
 			(node
@@ -48239,7 +48651,7 @@
 			)
 		)
 		(net
-			(code "186")
+			(code "188")
 			(name "Net-(U2301-FB{slash}OUT)")
 			(class "Default")
 			(node
@@ -48270,7 +48682,7 @@
 			)
 		)
 		(net
-			(code "187")
+			(code "189")
 			(name "Net-(U2301-LX)")
 			(class "Default")
 			(node
@@ -48286,7 +48698,7 @@
 			)
 		)
 		(net
-			(code "188")
+			(code "190")
 			(name "Net-(U2302-BP)")
 			(class "Default")
 			(node
@@ -48302,7 +48714,7 @@
 			)
 		)
 		(net
-			(code "189")
+			(code "191")
 			(name "Net-(U2302-EN)")
 			(class "Default")
 			(node
@@ -48323,7 +48735,7 @@
 			)
 		)
 		(net
-			(code "190")
+			(code "192")
 			(name "Net-(U2303-EN)")
 			(class "Default")
 			(node
@@ -48344,7 +48756,7 @@
 			)
 		)
 		(net
-			(code "191")
+			(code "193")
 			(name "Net-(U2303-FB{slash}OUT)")
 			(class "Default")
 			(node
@@ -48375,7 +48787,7 @@
 			)
 		)
 		(net
-			(code "192")
+			(code "194")
 			(name "Net-(U2303-LX)")
 			(class "Default")
 			(node
@@ -48391,7 +48803,7 @@
 			)
 		)
 		(net
-			(code "193")
+			(code "195")
 			(name "Net-(U2304-EN)")
 			(class "Default")
 			(node
@@ -48412,7 +48824,7 @@
 			)
 		)
 		(net
-			(code "194")
+			(code "196")
 			(name "Net-(U2304-FB{slash}OUT)")
 			(class "Default")
 			(node
@@ -48438,7 +48850,7 @@
 			)
 		)
 		(net
-			(code "195")
+			(code "197")
 			(name "Net-(U2304-LX)")
 			(class "Default")
 			(node
@@ -48454,7 +48866,7 @@
 			)
 		)
 		(net
-			(code "196")
+			(code "198")
 			(name "Net-(U2305-EN)")
 			(class "Default")
 			(node
@@ -48475,7 +48887,7 @@
 			)
 		)
 		(net
-			(code "197")
+			(code "199")
 			(name "Net-(U2305-FB{slash}OUT)")
 			(class "Default")
 			(node
@@ -48501,7 +48913,7 @@
 			)
 		)
 		(net
-			(code "198")
+			(code "200")
 			(name "Net-(U2305-LX)")
 			(class "Default")
 			(node
@@ -48517,7 +48929,7 @@
 			)
 		)
 		(net
-			(code "199")
+			(code "201")
 			(name "Net-(U2308-EN)")
 			(class "Default")
 			(node
@@ -48538,7 +48950,7 @@
 			)
 		)
 		(net
-			(code "200")
+			(code "202")
 			(name "Net-(U2308-FB{slash}OUT)")
 			(class "Default")
 			(node
@@ -48564,7 +48976,7 @@
 			)
 		)
 		(net
-			(code "201")
+			(code "203")
 			(name "Net-(U2308-LX)")
 			(class "Default")
 			(node
@@ -48580,7 +48992,7 @@
 			)
 		)
 		(net
-			(code "202")
+			(code "204")
 			(name "Net-(U2310-EN)")
 			(class "Default")
 			(node
@@ -48601,7 +49013,7 @@
 			)
 		)
 		(net
-			(code "203")
+			(code "205")
 			(name "Net-(U2310-FB{slash}OUT)")
 			(class "Default")
 			(node
@@ -48632,7 +49044,7 @@
 			)
 		)
 		(net
-			(code "204")
+			(code "206")
 			(name "Net-(U2310-LX)")
 			(class "Default")
 			(node
@@ -48648,7 +49060,7 @@
 			)
 		)
 		(net
-			(code "205")
+			(code "207")
 			(name "Net-(U2500-BATT)")
 			(class "Default")
 			(node
@@ -48669,7 +49081,7 @@
 			)
 		)
 		(net
-			(code "206")
+			(code "208")
 			(name "Net-(U2500-BST)")
 			(class "Default")
 			(node
@@ -48685,7 +49097,7 @@
 			)
 		)
 		(net
-			(code "207")
+			(code "209")
 			(name "Net-(U2500-ILIM)")
 			(class "Default")
 			(node
@@ -48701,7 +49113,7 @@
 			)
 		)
 		(net
-			(code "208")
+			(code "210")
 			(name "Net-(U2500-IN)")
 			(class "Default")
 			(node
@@ -48752,7 +49164,7 @@
 			)
 		)
 		(net
-			(code "209")
+			(code "211")
 			(name "Net-(U2500-ISET)")
 			(class "Default")
 			(node
@@ -48768,7 +49180,7 @@
 			)
 		)
 		(net
-			(code "210")
+			(code "212")
 			(name "Net-(U2500-SW1)")
 			(class "Default")
 			(node
@@ -48795,7 +49207,7 @@
 			)
 		)
 		(net
-			(code "211")
+			(code "213")
 			(name "Net-(U2500-SYSFB)")
 			(class "Default")
 			(node
@@ -48816,7 +49228,7 @@
 			)
 		)
 		(net
-			(code "212")
+			(code "214")
 			(name "Net-(U2500-TMR)")
 			(class "Default")
 			(node
@@ -48832,7 +49244,7 @@
 			)
 		)
 		(net
-			(code "213")
+			(code "215")
 			(name "Net-(U2500-VCC)")
 			(class "Default")
 			(node
@@ -48853,7 +49265,7 @@
 			)
 		)
 		(net
-			(code "214")
+			(code "216")
 			(name "Net-(U2500-VLIM)")
 			(class "Default")
 			(node
@@ -48874,7 +49286,7 @@
 			)
 		)
 		(net
-			(code "215")
+			(code "217")
 			(name "Net-(U3200-PAR)")
 			(class "Default")
 			(node
@@ -48890,7 +49302,7 @@
 			)
 		)
 		(net
-			(code "216")
+			(code "218")
 			(name "Net-(U3200-TEN)")
 			(class "Default")
 			(node
@@ -48906,7 +49318,7 @@
 			)
 		)
 		(net
-			(code "217")
+			(code "219")
 			(name "Net-(U3200-ZQ)")
 			(class "Default")
 			(node
@@ -48922,7 +49334,7 @@
 			)
 		)
 		(net
-			(code "218")
+			(code "220")
 			(name "Net-(U3201-PAR)")
 			(class "Default")
 			(node
@@ -48938,7 +49350,7 @@
 			)
 		)
 		(net
-			(code "219")
+			(code "221")
 			(name "Net-(U3201-TEN)")
 			(class "Default")
 			(node
@@ -48954,7 +49366,7 @@
 			)
 		)
 		(net
-			(code "220")
+			(code "222")
 			(name "Net-(U3201-ZQ)")
 			(class "Default")
 			(node
@@ -48970,7 +49382,7 @@
 			)
 		)
 		(net
-			(code "221")
+			(code "223")
 			(name "Net-(U3233-BP)")
 			(class "Default")
 			(node
@@ -48986,7 +49398,7 @@
 			)
 		)
 		(net
-			(code "222")
+			(code "224")
 			(name "Net-(U3233-EN)")
 			(class "Default")
 			(node
@@ -49002,7 +49414,7 @@
 			)
 		)
 		(net
-			(code "223")
+			(code "225")
 			(name "Net-(U4000A-CLK)")
 			(class "Default")
 			(node
@@ -49018,7 +49430,7 @@
 			)
 		)
 		(net
-			(code "224")
+			(code "226")
 			(name "Net-(U4000A-VDDi)")
 			(class "Default")
 			(node
@@ -49034,7 +49446,7 @@
 			)
 		)
 		(net
-			(code "225")
+			(code "227")
 			(name "Net-(U4001-BP)")
 			(class "Default")
 			(node
@@ -49050,7 +49462,7 @@
 			)
 		)
 		(net
-			(code "226")
+			(code "228")
 			(name "Net-(U4003-SW)")
 			(class "Default")
 			(node
@@ -49066,7 +49478,7 @@
 			)
 		)
 		(net
-			(code "227")
+			(code "229")
 			(name "Net-(U4008-SW)")
 			(class "Default")
 			(node
@@ -49087,7 +49499,7 @@
 			)
 		)
 		(net
-			(code "228")
+			(code "230")
 			(name "Net-(U4009-SW)")
 			(class "Default")
 			(node
@@ -49108,7 +49520,7 @@
 			)
 		)
 		(net
-			(code "229")
+			(code "231")
 			(name "Net-(U4010-OUT)")
 			(class "Default")
 			(node
@@ -49124,7 +49536,7 @@
 			)
 		)
 		(net
-			(code "230")
+			(code "232")
 			(name "Net-(U4010-SO)")
 			(class "Default")
 			(node
@@ -49145,7 +49557,7 @@
 			)
 		)
 		(net
-			(code "231")
+			(code "233")
 			(name "Net-(U4012-SW)")
 			(class "Default")
 			(node
@@ -49166,7 +49578,7 @@
 			)
 		)
 		(net
-			(code "232")
+			(code "234")
 			(name "Net-(U4015-BP)")
 			(class "Default")
 			(node
@@ -49182,7 +49594,7 @@
 			)
 		)
 		(net
-			(code "233")
+			(code "235")
 			(name "Net-(Y1100-X2)")
 			(class "Default")
 			(node
@@ -49203,7 +49615,7 @@
 			)
 		)
 		(net
-			(code "234")
+			(code "236")
 			(name "OTG_DET_1V8")
 			(class "Default")
 			(node
@@ -49229,7 +49641,7 @@
 			)
 		)
 		(net
-			(code "235")
+			(code "237")
 			(name "OTG_DM")
 			(class "Default")
 			(node
@@ -49245,7 +49657,7 @@
 			)
 		)
 		(net
-			(code "236")
+			(code "238")
 			(name "OTG_DP")
 			(class "Default")
 			(node
@@ -49261,7 +49673,7 @@
 			)
 		)
 		(net
-			(code "237")
+			(code "239")
 			(name "POWER_KEY")
 			(class "Default")
 			(node
@@ -49282,7 +49694,7 @@
 			)
 		)
 		(net
-			(code "238")
+			(code "240")
 			(name "POW_HOLD")
 			(class "Default")
 			(node
@@ -49298,7 +49710,7 @@
 			)
 		)
 		(net
-			(code "239")
+			(code "241")
 			(name "PWM_LCD")
 			(class "Default")
 			(node
@@ -49315,7 +49727,7 @@
 			)
 		)
 		(net
-			(code "240")
+			(code "242")
 			(name "RESET")
 			(class "Default")
 			(node
@@ -49347,7 +49759,7 @@
 			)
 		)
 		(net
-			(code "241")
+			(code "243")
 			(name "RGB_PWDN")
 			(class "Default")
 			(node
@@ -49364,9 +49776,14 @@
 			)
 		)
 		(net
-			(code "242")
+			(code "244")
 			(name "RGB_RESET")
 			(class "Default")
+			(node
+				(ref "C10008")
+				(pin "2")
+				(pintype "passive")
+			)
 			(node
 				(ref "FPC1")
 				(pin "16")
@@ -49381,7 +49798,7 @@
 			)
 		)
 		(net
-			(code "243")
+			(code "245")
 			(name "TOUCH_OUT")
 			(class "Default")
 			(node
@@ -49397,7 +49814,7 @@
 			)
 		)
 		(net
-			(code "244")
+			(code "246")
 			(name "USB_CTRL")
 			(class "Default")
 			(node
@@ -49408,7 +49825,7 @@
 			)
 		)
 		(net
-			(code "245")
+			(code "247")
 			(name "UV_LED_PWM")
 			(class "Default")
 			(node
@@ -49425,7 +49842,7 @@
 			)
 		)
 		(net
-			(code "246")
+			(code "248")
 			(name "UV_PWDN")
 			(class "Default")
 			(node
@@ -49442,9 +49859,14 @@
 			)
 		)
 		(net
-			(code "247")
+			(code "249")
 			(name "UV_RESET")
 			(class "Default")
+			(node
+				(ref "C10007")
+				(pin "2")
+				(pintype "passive")
+			)
 			(node
 				(ref "FPC1")
 				(pin "37")
@@ -49459,7 +49881,7 @@
 			)
 		)
 		(net
-			(code "248")
+			(code "250")
 			(name "VCC5V0_USB")
 			(class "Default")
 			(node
@@ -49523,7 +49945,7 @@
 			)
 		)
 		(net
-			(code "249")
+			(code "251")
 			(name "VCC25_DDR")
 			(class "Default")
 			(node
@@ -49618,7 +50040,7 @@
 			)
 		)
 		(net
-			(code "250")
+			(code "252")
 			(name "VCCIO_FLASH")
 			(class "Default")
 			(node
@@ -49705,7 +50127,7 @@
 			)
 		)
 		(net
-			(code "251")
+			(code "253")
 			(name "VCCSYS_IN")
 			(class "Default")
 			(node
@@ -49772,7 +50194,7 @@
 			)
 		)
 		(net
-			(code "252")
+			(code "254")
 			(name "VCC_0V8")
 			(class "Default")
 			(node
@@ -49859,7 +50281,7 @@
 			)
 		)
 		(net
-			(code "253")
+			(code "255")
 			(name "VCC_1V8")
 			(class "Default")
 			(node
@@ -50027,7 +50449,7 @@
 			)
 		)
 		(net
-			(code "254")
+			(code "256")
 			(name "VCC_2.8V")
 			(class "Default")
 			(node
@@ -50054,7 +50476,7 @@
 			)
 		)
 		(net
-			(code "255")
+			(code "257")
 			(name "VCC_3V3")
 			(class "Default")
 			(node
@@ -50335,7 +50757,7 @@
 			)
 		)
 		(net
-			(code "256")
+			(code "258")
 			(name "VCC_BAT")
 			(class "Default")
 			(node
@@ -50355,7 +50777,7 @@
 			)
 		)
 		(net
-			(code "257")
+			(code "259")
 			(name "VCC_DDR")
 			(class "Default")
 			(node
@@ -50857,7 +51279,7 @@
 			)
 		)
 		(net
-			(code "258")
+			(code "260")
 			(name "VCC_SYS")
 			(class "Default")
 			(node
@@ -51078,7 +51500,7 @@
 			)
 		)
 		(net
-			(code "259")
+			(code "261")
 			(name "VDD_ARM")
 			(class "Default")
 			(node
@@ -51166,7 +51588,7 @@
 			)
 		)
 		(net
-			(code "260")
+			(code "262")
 			(name "VDD_LOGIC")
 			(class "Default")
 			(node
@@ -51267,7 +51689,7 @@
 			)
 		)
 		(net
-			(code "261")
+			(code "263")
 			(name "VDD_NPU")
 			(class "Default")
 			(node
@@ -51383,7 +51805,7 @@
 			)
 		)
 		(net
-			(code "262")
+			(code "264")
 			(name "VDD_VEPU")
 			(class "Default")
 			(node
@@ -51472,7 +51894,7 @@
 			)
 		)
 		(net
-			(code "263")
+			(code "265")
 			(name "VEPU_PWM2_M0")
 			(class "Default")
 			(node
@@ -51493,7 +51915,7 @@
 			)
 		)
 		(net
-			(code "264")
+			(code "266")
 			(name "VREF_DDR")
 			(class "Default")
 			(node
@@ -51509,7 +51931,7 @@
 			)
 		)
 		(net
-			(code "265")
+			(code "267")
 			(name "VREF_DDR4_CA")
 			(class "Default")
 			(node
@@ -51561,7 +51983,7 @@
 			)
 		)
 		(net
-			(code "266")
+			(code "268")
 			(name "WW_LED_PWM")
 			(class "Default")
 			(node
@@ -51578,7 +52000,7 @@
 			)
 		)
 		(net
-			(code "267")
+			(code "269")
 			(name "unconnected-(FPC1-Pad18)")
 			(class "Default")
 			(node
@@ -51589,7 +52011,7 @@
 			)
 		)
 		(net
-			(code "268")
+			(code "270")
 			(name "unconnected-(FPC2-Pad5)")
 			(class "Default")
 			(node
@@ -51600,7 +52022,7 @@
 			)
 		)
 		(net
-			(code "269")
+			(code "271")
 			(name "unconnected-(SW1-Pad1)")
 			(class "Default")
 			(node
@@ -51611,7 +52033,7 @@
 			)
 		)
 		(net
-			(code "270")
+			(code "272")
 			(name "unconnected-(SW1-Pad3)")
 			(class "Default")
 			(node
@@ -51622,7 +52044,7 @@
 			)
 		)
 		(net
-			(code "271")
+			(code "273")
 			(name "unconnected-(TYPE_C1-SBU1-Pad8)")
 			(class "Default")
 			(node
@@ -51633,7 +52055,7 @@
 			)
 		)
 		(net
-			(code "272")
+			(code "274")
 			(name "unconnected-(TYPE_C1-SBU2-Pad20)")
 			(class "Default")
 			(node
@@ -51644,7 +52066,7 @@
 			)
 		)
 		(net
-			(code "273")
+			(code "275")
 			(name "unconnected-(TYPE_C1-SSRXN2-Pad10)")
 			(class "Default")
 			(node
@@ -51655,7 +52077,7 @@
 			)
 		)
 		(net
-			(code "274")
+			(code "276")
 			(name "unconnected-(TYPE_C1-SSRXN22-Pad15)")
 			(class "Default")
 			(node
@@ -51666,7 +52088,7 @@
 			)
 		)
 		(net
-			(code "275")
+			(code "277")
 			(name "unconnected-(TYPE_C1-SSRXP2-Pad11)")
 			(class "Default")
 			(node
@@ -51677,7 +52099,7 @@
 			)
 		)
 		(net
-			(code "276")
+			(code "278")
 			(name "unconnected-(TYPE_C1-SSRXP22-Pad14)")
 			(class "Default")
 			(node
@@ -51688,7 +52110,7 @@
 			)
 		)
 		(net
-			(code "277")
+			(code "279")
 			(name "unconnected-(TYPE_C1-SSTXN1-Pad3)")
 			(class "Default")
 			(node
@@ -51699,7 +52121,7 @@
 			)
 		)
 		(net
-			(code "278")
+			(code "280")
 			(name "unconnected-(TYPE_C1-SSTXN11-Pad22)")
 			(class "Default")
 			(node
@@ -51710,7 +52132,7 @@
 			)
 		)
 		(net
-			(code "279")
+			(code "281")
 			(name "unconnected-(TYPE_C1-SSTXP1-Pad2)")
 			(class "Default")
 			(node
@@ -51721,7 +52143,7 @@
 			)
 		)
 		(net
-			(code "280")
+			(code "282")
 			(name "unconnected-(TYPE_C1-SSTXP11-Pad23)")
 			(class "Default")
 			(node
@@ -51732,7 +52154,7 @@
 			)
 		)
 		(net
-			(code "281")
+			(code "283")
 			(name "unconnected-(U1000B-I2S2_LRCK_M0__SPI1_CS0n_M1______________________________UART1_CTSn_M1_GPIO1_C7_d-PadC13)")
 			(class "Default")
 			(node
@@ -51743,7 +52165,7 @@
 			)
 		)
 		(net
-			(code "282")
+			(code "284")
 			(name "unconnected-(U1000B-I2S2_SCLK_M0__SPI1_CLK_M1___PRELIGHT_TRIG_OUT___________UART1_RTSn_M1_GPIO1_C6_d-PadD13)")
 			(class "Default")
 			(node
@@ -51754,7 +52176,7 @@
 			)
 		)
 		(net
-			(code "283")
+			(code "285")
 			(name "unconnected-(U1000B-I2S2_SDI_M0___SPI1_MISO_M1__FLASH_TRIG_IN_____________________________GPIO1_C5_d-PadE13)")
 			(class "Default")
 			(node
@@ -51765,7 +52187,7 @@
 			)
 		)
 		(net
-			(code "284")
+			(code "286")
 			(name "unconnected-(U1000B-I2S2_SDO_M0___SPI1_MOSI_M1__FLASH_TRIG_OUT____________________________GPIO1_C4_d-PadB14)")
 			(class "Default")
 			(node
@@ -51776,7 +52198,7 @@
 			)
 		)
 		(net
-			(code "285")
+			(code "287")
 			(name "unconnected-(U1000B-SDIO_CLK________________________________GPIO1_B2_d-PadD16)")
 			(class "Default")
 			(node
@@ -51787,7 +52209,7 @@
 			)
 		)
 		(net
-			(code "286")
+			(code "288")
 			(name "unconnected-(U1000B-SDIO_CMD________________________________GPIO1_B3_u-PadA16)")
 			(class "Default")
 			(node
@@ -51798,7 +52220,7 @@
 			)
 		)
 		(net
-			(code "287")
+			(code "289")
 			(name "unconnected-(U1000B-SDIO_D0_________________________________GPIO1_B4_u-PadB16)")
 			(class "Default")
 			(node
@@ -51809,7 +52231,7 @@
 			)
 		)
 		(net
-			(code "288")
+			(code "290")
 			(name "unconnected-(U1000B-SDIO_D1_________________________________GPIO1_B5_u-PadC16)")
 			(class "Default")
 			(node
@@ -51820,7 +52242,7 @@
 			)
 		)
 		(net
-			(code "289")
+			(code "291")
 			(name "unconnected-(U1000B-SDIO_D2_________________________________GPIO1_B6_u-PadD15)")
 			(class "Default")
 			(node
@@ -51831,7 +52253,7 @@
 			)
 		)
 		(net
-			(code "290")
+			(code "292")
 			(name "unconnected-(U1000B-SDIO_D3_________________________________GPIO1_B7_u-PadC15)")
 			(class "Default")
 			(node
@@ -51842,7 +52264,7 @@
 			)
 		)
 		(net
-			(code "291")
+			(code "293")
 			(name "unconnected-(U1000B-UART0_CTSn____GPIO1_C1_u-PadA15)")
 			(class "Default")
 			(node
@@ -51853,7 +52275,7 @@
 			)
 		)
 		(net
-			(code "292")
+			(code "294")
 			(name "unconnected-(U1000B-UART0_RTSn____GPIO1_C0_u-PadB15)")
 			(class "Default")
 			(node
@@ -51864,7 +52286,7 @@
 			)
 		)
 		(net
-			(code "293")
+			(code "295")
 			(name "unconnected-(U1000B-UART0_RX______GPIO1_C2_u-PadD14)")
 			(class "Default")
 			(node
@@ -51875,7 +52297,7 @@
 			)
 		)
 		(net
-			(code "294")
+			(code "296")
 			(name "unconnected-(U1000B-UART0_TX______GPIO1_C3_u-PadC14)")
 			(class "Default")
 			(node
@@ -51886,7 +52308,7 @@
 			)
 		)
 		(net
-			(code "295")
+			(code "297")
 			(name "unconnected-(U1000C-ADCIN2-PadB18)")
 			(class "Default")
 			(node
@@ -51897,7 +52319,7 @@
 			)
 		)
 		(net
-			(code "296")
+			(code "298")
 			(name "unconnected-(U1000C-ADCIN4-PadC17)")
 			(class "Default")
 			(node
@@ -51908,7 +52330,7 @@
 			)
 		)
 		(net
-			(code "297")
+			(code "299")
 			(name "unconnected-(U1000C-ADCIN5-PadB17)")
 			(class "Default")
 			(node
@@ -51919,7 +52341,7 @@
 			)
 		)
 		(net
-			(code "298")
+			(code "300")
 			(name "unconnected-(U1000D-MIPI_DSI_TX0_D1N-PadB20)")
 			(class "Default")
 			(node
@@ -51930,7 +52352,7 @@
 			)
 		)
 		(net
-			(code "299")
+			(code "301")
 			(name "unconnected-(U1000D-MIPI_DSI_TX0_D1P-PadA20)")
 			(class "Default")
 			(node
@@ -51941,7 +52363,7 @@
 			)
 		)
 		(net
-			(code "300")
+			(code "302")
 			(name "unconnected-(U1000D-MIPI_DSI_TX0_D2N-PadC20)")
 			(class "Default")
 			(node
@@ -51952,7 +52374,7 @@
 			)
 		)
 		(net
-			(code "301")
+			(code "303")
 			(name "unconnected-(U1000D-MIPI_DSI_TX0_D2P-PadB21)")
 			(class "Default")
 			(node
@@ -51963,7 +52385,7 @@
 			)
 		)
 		(net
-			(code "302")
+			(code "304")
 			(name "unconnected-(U1000D-MIPI_DSI_TX0_D3N-PadD19)")
 			(class "Default")
 			(node
@@ -51974,7 +52396,7 @@
 			)
 		)
 		(net
-			(code "303")
+			(code "305")
 			(name "unconnected-(U1000D-MIPI_DSI_TX0_D3P-PadD20)")
 			(class "Default")
 			(node
@@ -51985,7 +52407,7 @@
 			)
 		)
 		(net
-			(code "304")
+			(code "306")
 			(name "unconnected-(U1000E-CLK_OUT_ETHERNET_M1___CIF_D13_M1_____LCDC_D17____GPIO2_C5_d-PadG21)")
 			(class "Default")
 			(node
@@ -51996,7 +52418,7 @@
 			)
 		)
 		(net
-			(code "305")
+			(code "307")
 			(name "unconnected-(U1000E-I2C5_SDA_M0___I2S2_MCLK_M1__UART5_CTSN_M1__PWM0_M1______SPI0_CS1n_M2__________CIF_D3_M1______LCDC_D7_____GPIO2_B3_d-PadK17)")
 			(class "Default")
 			(node
@@ -52007,7 +52429,7 @@
 			)
 		)
 		(net
-			(code "306")
+			(code "308")
 			(name "unconnected-(U1000E-I2S1_MCLK_M2______________________________RGMII_RXD2_M1_________CIF_D15_M1_____LCDC_D19____GPIO2_C7_d-PadG19)")
 			(class "Default")
 			(node
@@ -52018,7 +52440,7 @@
 			)
 		)
 		(net
-			(code "307")
+			(code "309")
 			(name "unconnected-(U1000E-I2S1_SDO_M2_______________________________RGMII_RXD3_M1_________CIF_VSYNC_M1___LCDC_D20____GPIO2_D0_d-PadH18)")
 			(class "Default")
 			(node
@@ -52029,7 +52451,7 @@
 			)
 		)
 		(net
-			(code "308")
+			(code "310")
 			(name "unconnected-(U1000E-I2S2_LRCK_M1__UART5_RTSN_M1__PWM1_M1______SPI0_CLK_M2__________________________LCDC_D6_____GPIO2_B2_d-PadK16)")
 			(class "Default")
 			(node
@@ -52040,7 +52462,7 @@
 			)
 		)
 		(net
-			(code "309")
+			(code "311")
 			(name "unconnected-(U1000E-I2S2_SCLK_M1__UART5_RX_M1____PWM2_M1______SPI0_MISO_M2_________________________LCDC_D5_____GPIO2_B1_d-PadL20)")
 			(class "Default")
 			(node
@@ -52051,7 +52473,7 @@
 			)
 		)
 		(net
-			(code "310")
+			(code "312")
 			(name "unconnected-(U1000E-I2S2_SDI_M1___UART5_TX_M1____PWM3_IR_M1___SPI0_MOSI_M2_________________________LCDC_D4_____GPIO2_B0_d-PadL19)")
 			(class "Default")
 			(node
@@ -52062,7 +52484,7 @@
 			)
 		)
 		(net
-			(code "311")
+			(code "313")
 			(name "unconnected-(U1000E-I2S2_SDO_M1___UART4_RX_M1____PWM4_M1______SPI0_CS0n_M2_________________________LCDC_D3_____GPIO2_A7_d-PadM20)")
 			(class "Default")
 			(node
@@ -52073,7 +52495,7 @@
 			)
 		)
 		(net
-			(code "312")
+			(code "314")
 			(name "unconnected-(U1000E-RGMII_CLK_M1__________CIF_D7_M1______LCDC_D11____GPIO2_B7_d-PadK21)")
 			(class "Default")
 			(node
@@ -52084,7 +52506,7 @@
 			)
 		)
 		(net
-			(code "313")
+			(code "315")
 			(name "unconnected-(U1000E-RGMII_MDC_M1__________CIF_D10_M1_____LCDC_D14____GPIO2_C2_d-PadJ20)")
 			(class "Default")
 			(node
@@ -52095,7 +52517,7 @@
 			)
 		)
 		(net
-			(code "314")
+			(code "316")
 			(name "unconnected-(U1000E-RGMII_MDIO_M1_________CIF_D9_M1______LCDC_D13____GPIO2_C1_d-PadJ21)")
 			(class "Default")
 			(node
@@ -52106,7 +52528,7 @@
 			)
 		)
 		(net
-			(code "315")
+			(code "317")
 			(name "unconnected-(U1000E-RGMII_RXD0_M1_________CIF_D5_M1______LCDC_D9_____GPIO2_B5_d-PadK19)")
 			(class "Default")
 			(node
@@ -52117,7 +52539,7 @@
 			)
 		)
 		(net
-			(code "316")
+			(code "318")
 			(name "unconnected-(U1000E-RGMII_RXD1_M1_________CIF_D6_M1______LCDC_D10____GPIO2_B6_d-PadK20)")
 			(class "Default")
 			(node
@@ -52128,7 +52550,7 @@
 			)
 		)
 		(net
-			(code "317")
+			(code "319")
 			(name "unconnected-(U1000E-RGMII_RXDV_M1_________CIF_D4_M1______LCDC_D8_____GPIO2_B4_d-PadK18)")
 			(class "Default")
 			(node
@@ -52139,7 +52561,7 @@
 			)
 		)
 		(net
-			(code "318")
+			(code "320")
 			(name "unconnected-(U1000E-RGMII_RXER_M1_________CIF_D8_M1______LCDC_D12____GPIO2_C0_d-PadJ19)")
 			(class "Default")
 			(node
@@ -52150,7 +52572,7 @@
 			)
 		)
 		(net
-			(code "319")
+			(code "321")
 			(name "unconnected-(U1000E-RGMII_TXD0_M1_________CIF_D11_M1_____LCDC_D15____GPIO2_C3_d-PadH20)")
 			(class "Default")
 			(node
@@ -52161,7 +52583,7 @@
 			)
 		)
 		(net
-			(code "320")
+			(code "322")
 			(name "unconnected-(U1000E-RGMII_TXD1_M1_________CIF_D12_M1_____LCDC_D16____GPIO2_C4_d-PadH19)")
 			(class "Default")
 			(node
@@ -52172,7 +52594,7 @@
 			)
 		)
 		(net
-			(code "321")
+			(code "323")
 			(name "unconnected-(U1000E-RGMII_TXEN_M1_________CIF_D14_M1_____LCDC_D18____GPIO2_C6_d-PadG20)")
 			(class "Default")
 			(node
@@ -52183,7 +52605,7 @@
 			)
 		)
 		(net
-			(code "322")
+			(code "324")
 			(name "unconnected-(U1000F-CIF_CLKIN_M0___CLK_OUT_ETHERNET_M0_____________________UART3_CTSN_M0____________________________GPIO3_C5_d-PadM19)")
 			(class "Default")
 			(node
@@ -52194,7 +52616,7 @@
 			)
 		)
 		(net
-			(code "323")
+			(code "325")
 			(name "unconnected-(U1000F-CIF_CLKOUT_M0__RGMII_TXCLK_M0__________________________UART3_TX_M0______________________________GPIO3_C6_d-PadP19)")
 			(class "Default")
 			(node
@@ -52205,7 +52627,7 @@
 			)
 		)
 		(net
-			(code "324")
+			(code "326")
 			(name "unconnected-(U1000F-CIF_D1_M0______RGMII_CRS_M0_________I2S0_LRCK_TX_M1____UART4_RX_M0____I2C3_SDA_M0__PWM9_M0______GPIO3_A5_d-PadT18)")
 			(class "Default")
 			(node
@@ -52216,7 +52638,7 @@
 			)
 		)
 		(net
-			(code "325")
+			(code "327")
 			(name "unconnected-(U1000F-CIF_D2_M0______RGMII_COL_M0_________I2S0_SDO0_M1_______UART5_TX_M0____CAN_RXD_M1___PWM10_M0_____GPIO3_A6_d-PadP17)")
 			(class "Default")
 			(node
@@ -52227,7 +52649,7 @@
 			)
 		)
 		(net
-			(code "326")
+			(code "328")
 			(name "unconnected-(U1000F-CIF_D3_M0______RGMII_RXD2_M0________I2S0_SDI0_M1_______UART5_RX_M0____CAN_TXD_M1___PWM11_IR_M0__GPIO3_A7_d-PadR18)")
 			(class "Default")
 			(node
@@ -52238,7 +52660,7 @@
 			)
 		)
 		(net
-			(code "327")
+			(code "329")
 			(name "unconnected-(U1000F-CIF_D4_M0______RGMII_RXD3_M0________I2S0_MCLK_M1_______UART5_RTSN_M0__I2C5_SCL_M1_______________GPIO3_B0_d-PadT19)")
 			(class "Default")
 			(node
@@ -52249,7 +52671,7 @@
 			)
 		)
 		(net
-			(code "328")
+			(code "330")
 			(name "unconnected-(U1000F-CIF_D5_M0______RGMII_TXD2_M0________I2S0_SCLK_RX_M1____UART5_CTSN_M0__I2C5_SDA_M1_______________GPIO3_B1_d-PadT20)")
 			(class "Default")
 			(node
@@ -52260,7 +52682,7 @@
 			)
 		)
 		(net
-			(code "329")
+			(code "331")
 			(name "unconnected-(U1000F-CIF_D6_M0______RGMII_TXD3_M0________I2S0_LRCK_RX_M1____UART4_RTSN_M0____________________________GPIO3_B2_d-PadN17)")
 			(class "Default")
 			(node
@@ -52271,7 +52693,7 @@
 			)
 		)
 		(net
-			(code "330")
+			(code "332")
 			(name "unconnected-(U1000F-CIF_D7_M0______RGMII_TXD0_M0________I2S0_SDO1_SDI3_M1__UART4_CTSN_M0____________________________GPIO3_B3_d-PadR19)")
 			(class "Default")
 			(node
@@ -52282,7 +52704,7 @@
 			)
 		)
 		(net
-			(code "331")
+			(code "333")
 			(name "unconnected-(U1000F-CIF_D8_M0______RGMII_TXD1_M0________I2S0_SDO2_SDI2_M1_________________SPI1_CS1n_M0______________GPIO3_B4_d-PadT21)")
 			(class "Default")
 			(node
@@ -52293,7 +52715,7 @@
 			)
 		)
 		(net
-			(code "332")
+			(code "334")
 			(name "unconnected-(U1000F-CIF_D9_M0______RGMII_TXEN_M0________I2S0_SDO3_SDI1_M1_________________SPI1_CS0n_M0______________GPIO3_B5_d-PadN18)")
 			(class "Default")
 			(node
@@ -52304,7 +52726,7 @@
 			)
 		)
 		(net
-			(code "333")
+			(code "335")
 			(name "unconnected-(U1000F-CIF_D10_M0_____RGMII_RXD0_M0________PDM_SDI2_M1_______________________SPI1_MOSI_M0______________GPIO3_B6_d-PadR20)")
 			(class "Default")
 			(node
@@ -52315,7 +52737,7 @@
 			)
 		)
 		(net
-			(code "334")
+			(code "336")
 			(name "unconnected-(U1000F-CIF_D11_M0_____RGMII_RXD1_M0________PDM_SDI3_M1_______________________SPI1_MISO_M0______________GPIO3_B7_d-PadR21)")
 			(class "Default")
 			(node
@@ -52326,7 +52748,7 @@
 			)
 		)
 		(net
-			(code "335")
+			(code "337")
 			(name "unconnected-(U1000F-CIF_D12_M0_____RGMII_CLK_M0_________PDM_CLk0_M1_______________________SPI1_CLK_M0_______________GPIO3_C0_d-PadN19)")
 			(class "Default")
 			(node
@@ -52337,7 +52759,7 @@
 			)
 		)
 		(net
-			(code "336")
+			(code "338")
 			(name "unconnected-(U1000F-CIF_D13_M0_____RGMII_RXDV_M0________PDM_SDI0_M1_________________________________________________GPIO3_C1_d-PadM17)")
 			(class "Default")
 			(node
@@ -52348,7 +52770,7 @@
 			)
 		)
 		(net
-			(code "337")
+			(code "339")
 			(name "unconnected-(U1000F-CIF_D14_M0_____RGMII_RXER_M0________PDM_SDI1_M1_________________________________________________GPIO3_C2_d-PadM18)")
 			(class "Default")
 			(node
@@ -52359,7 +52781,7 @@
 			)
 		)
 		(net
-			(code "338")
+			(code "340")
 			(name "unconnected-(U1000F-CIF_D15_M0_____RGMII_MDIO_M0________PDM_CLk1_M1_________________________________________________GPIO3_C3_d-PadN20)")
 			(class "Default")
 			(node
@@ -52370,7 +52792,7 @@
 			)
 		)
 		(net
-			(code "339")
+			(code "341")
 			(name "unconnected-(U1000F-CIF_HSYNC_M0___RGMII_RXCLK_M0__________________________UART3_RX_M0______________________________GPIO3_C7_d-PadP20)")
 			(class "Default")
 			(node
@@ -52381,7 +52803,7 @@
 			)
 		)
 		(net
-			(code "340")
+			(code "342")
 			(name "unconnected-(U1000F-CIF_VSYNC_M0___RGMII_MDC_M0____________________________UART3_RTSN_M0____________________________GPIO3_C4_d-PadN21)")
 			(class "Default")
 			(node
@@ -52392,7 +52814,7 @@
 			)
 		)
 		(net
-			(code "341")
+			(code "343")
 			(name "unconnected-(U1000G-SPI0_CLK_M1___I2S1_SDO_M1_________________UART5_RX_M2____GPIO2_A1_d-PadU20)")
 			(class "Default")
 			(node
@@ -52403,7 +52825,7 @@
 			)
 		)
 		(net
-			(code "342")
+			(code "344")
 			(name "unconnected-(U1000G-SPI0_CS1n_M1__I2S1_MCLK_M1________________UART4_TX_M2____GPIO1_D5_d-PadV20)")
 			(class "Default")
 			(node
@@ -52414,7 +52836,7 @@
 			)
 		)
 		(net
-			(code "343")
+			(code "345")
 			(name "unconnected-(U1000I-UART2_RX_M0____TEST_CLK1_OUT______________________SDMMC0_D0___GPIO1_A4_u-PadY14)")
 			(class "Default")
 			(node
@@ -52425,7 +52847,7 @@
 			)
 		)
 		(net
-			(code "344")
+			(code "346")
 			(name "unconnected-(U1000I-UART2_TX_M0____TEST_CLK0_OUT______MCU_JTAG_TRSTn__SDMMC0_D1___GPIO1_A5_u-PadW13)")
 			(class "Default")
 			(node
@@ -52436,7 +52858,7 @@
 			)
 		)
 		(net
-			(code "345")
+			(code "347")
 			(name "unconnected-(U1000I-UART3_CTSN_M1_____________________MCU_JTAG_TDI____SDMMC0_CMD__GPIO1_B1_u-PadY13)")
 			(class "Default")
 			(node
@@ -52447,7 +52869,7 @@
 			)
 		)
 		(net
-			(code "346")
+			(code "348")
 			(name "unconnected-(U1000I-UART3_RTSN_M1_____________________MCU_JTAG_TDO____SDMMC0_CLK__GPIO1_B0_u-PadAA13)")
 			(class "Default")
 			(node
@@ -52458,7 +52880,7 @@
 			)
 		)
 		(net
-			(code "347")
+			(code "349")
 			(name "unconnected-(U1000I-UART3_RX_M1____A7_JTAG_TCK_M0_____MCU_JTAG_TCK____SDMMC0_D2___GPIO1_A6_u-PadV13)")
 			(class "Default")
 			(node
@@ -52469,7 +52891,7 @@
 			)
 		)
 		(net
-			(code "348")
+			(code "350")
 			(name "unconnected-(U1000I-UART3_TX_M1____A7_JTAG_TMS_M0_____MCU_JTAG_TMS____SDMMC0_D3___GPIO1_A7_u-PadU13)")
 			(class "Default")
 			(node
@@ -52480,7 +52902,7 @@
 			)
 		)
 		(net
-			(code "349")
+			(code "351")
 			(name "unconnected-(U1000J-I2S0_LRCK_RX_M0____PDM_CLk0_M0__ACODEC_ADC_SYNC___________________________GPIO3_D4_d-PadY12)")
 			(class "Default")
 			(node
@@ -52491,7 +52913,7 @@
 			)
 		)
 		(net
-			(code "350")
+			(code "352")
 			(name "unconnected-(U1000J-I2S0_LRCK_TX_M0_________________ACODEC_DAC_SYNC___AUDPWM_L_M1__AUDDSM_LN__GPIO3_D3_d-PadW11)")
 			(class "Default")
 			(node
@@ -52502,7 +52924,7 @@
 			)
 		)
 		(net
-			(code "351")
+			(code "353")
 			(name "unconnected-(U1000J-I2S0_MCLK_M0______________________________________________________________GPIO3_D2_d-PadU12)")
 			(class "Default")
 			(node
@@ -52513,7 +52935,7 @@
 			)
 		)
 		(net
-			(code "352")
+			(code "354")
 			(name "unconnected-(U1000J-I2S0_SCLK_RX_M0____PDM_CLk1_M0__ACODEC_ADC_CLK____________________________GPIO3_D1_d-PadV12)")
 			(class "Default")
 			(node
@@ -52524,7 +52946,7 @@
 			)
 		)
 		(net
-			(code "353")
+			(code "355")
 			(name "unconnected-(U1000J-I2S0_SCLK_TX_M0_________________ACODEC_DAC_CLK____________________________GPIO3_D0_d-PadW12)")
 			(class "Default")
 			(node
@@ -52535,7 +52957,7 @@
 			)
 		)
 		(net
-			(code "354")
+			(code "356")
 			(name "unconnected-(U1000J-I2S0_SDI0_M0_______PDM_SDI0_M0__ACODEC_DAC_DATAL__________________________GPIO3_D6_d-PadAA12)")
 			(class "Default")
 			(node
@@ -52546,7 +52968,7 @@
 			)
 		)
 		(net
-			(code "355")
+			(code "357")
 			(name "unconnected-(U1000J-I2S0_SDO0_M0____________________ACODEC_DAC_DATAR__AUDPWM_R_M1__AUDDSM_LP__GPIO3_D5_d-PadY11)")
 			(class "Default")
 			(node
@@ -52557,7 +52979,7 @@
 			)
 		)
 		(net
-			(code "356")
+			(code "358")
 			(name "unconnected-(U1000J-I2S0_SDO1_SDI3_M0__PDM_SDI3_M0__ACODEC_ADC_DATA___________________________GPIO3_D7_d-PadT11)")
 			(class "Default")
 			(node
@@ -52568,7 +52990,7 @@
 			)
 		)
 		(net
-			(code "357")
+			(code "359")
 			(name "unconnected-(U1000J-I2S0_SDO2_SDI2_M0__PDM_SDI2_M0__I2C4_SCL_M1_______AUDPWM_L_M0__AUDDSM_RN__GPIO4_A0_d-PadU11)")
 			(class "Default")
 			(node
@@ -52579,7 +53001,7 @@
 			)
 		)
 		(net
-			(code "358")
+			(code "360")
 			(name "unconnected-(U1000J-I2S0_SDO3_SDI1_M0__PDM_SDI1_M0__I2C4_SDA_M1_______AUDPWM_R_M0__AUDDSM_RP__GPIO4_A1_d-PadV11)")
 			(class "Default")
 			(node
@@ -52590,7 +53012,7 @@
 			)
 		)
 		(net
-			(code "359")
+			(code "361")
 			(name "unconnected-(U1000K-CLKI_CLKO_32K___GPIO0_A2_z-PadAA3)")
 			(class "Default")
 			(node
@@ -52601,7 +53023,7 @@
 			)
 		)
 		(net
-			(code "360")
+			(code "362")
 			(name "unconnected-(U1000K-SPI0_CS0n_M0____GPIO0_A5_u-PadAA2)")
 			(class "Default")
 			(node
@@ -52612,7 +53034,7 @@
 			)
 		)
 		(net
-			(code "361")
+			(code "363")
 			(name "unconnected-(U1000L-I2S1_LRCK_M0__FSPI_D0________________FLASH_ALE___GPIO1_A0_d-PadT2)")
 			(class "Default")
 			(node
@@ -52623,7 +53045,7 @@
 			)
 		)
 		(net
-			(code "362")
+			(code "364")
 			(name "unconnected-(U1000L-I2S1_MCLK_M0__FSPI_CS0n______________FLASH_CS0n__GPIO0_D4_u-PadU2)")
 			(class "Default")
 			(node
@@ -52634,7 +53056,7 @@
 			)
 		)
 		(net
-			(code "363")
+			(code "365")
 			(name "unconnected-(U1000L-I2S1_SCLK_M0__FSPI_D1________________FLASH_RDYn__GPIO1_A1_u-PadR2)")
 			(class "Default")
 			(node
@@ -52645,7 +53067,7 @@
 			)
 		)
 		(net
-			(code "364")
+			(code "366")
 			(name "unconnected-(U1000L-I2S1_SDI_M0___FSPI_D3________________FLASH_RDn___GPIO1_A2_u-PadR4)")
 			(class "Default")
 			(node
@@ -52656,7 +53078,7 @@
 			)
 		)
 		(net
-			(code "365")
+			(code "367")
 			(name "unconnected-(U1000L-I2S1_SDO_M0___FSPI_D2____________________________GPIO0_D6_d-PadT3)")
 			(class "Default")
 			(node
@@ -52667,7 +53089,7 @@
 			)
 		)
 		(net
-			(code "366")
+			(code "368")
 			(name "unconnected-(U1000M-HOST_DM-PadY2)")
 			(class "Default")
 			(node
@@ -52678,7 +53100,7 @@
 			)
 		)
 		(net
-			(code "367")
+			(code "369")
 			(name "unconnected-(U1000M-HOST_DP-PadY1)")
 			(class "Default")
 			(node
@@ -52689,7 +53111,7 @@
 			)
 		)
 		(net
-			(code "368")
+			(code "370")
 			(name "unconnected-(U1000M-HOST_EXTR-PadU5)")
 			(class "Default")
 			(node
@@ -52700,7 +53122,7 @@
 			)
 		)
 		(net
-			(code "369")
+			(code "371")
 			(name "unconnected-(U1000M-OTG_ID-PadY3)")
 			(class "Default")
 			(node
@@ -52711,7 +53133,7 @@
 			)
 		)
 		(net
-			(code "370")
+			(code "372")
 			(name "unconnected-(U3200-ALERT_n-PadP9)")
 			(class "Default")
 			(node
@@ -52722,7 +53144,7 @@
 			)
 		)
 		(net
-			(code "371")
+			(code "373")
 			(name "unconnected-(U3200-NC-PadT7)")
 			(class "Default")
 			(node
@@ -52733,7 +53155,7 @@
 			)
 		)
 		(net
-			(code "372")
+			(code "374")
 			(name "unconnected-(U3201-ALERT_n-PadP9)")
 			(class "Default")
 			(node
@@ -52744,7 +53166,7 @@
 			)
 		)
 		(net
-			(code "373")
+			(code "375")
 			(name "unconnected-(U3201-NC-PadT7)")
 			(class "Default")
 			(node
@@ -52755,7 +53177,7 @@
 			)
 		)
 		(net
-			(code "374")
+			(code "376")
 			(name "unconnected-(U4000A-Data_Strobe-PadH5)")
 			(class "Default")
 			(node
@@ -52766,7 +53188,7 @@
 			)
 		)
 		(net
-			(code "375")
+			(code "377")
 			(name "unconnected-(U4000A-VSF1-PadE9)")
 			(class "Default")
 			(node
@@ -52777,7 +53199,7 @@
 			)
 		)
 		(net
-			(code "376")
+			(code "378")
 			(name "unconnected-(U4000A-VSF2-PadE10)")
 			(class "Default")
 			(node
@@ -52788,7 +53210,7 @@
 			)
 		)
 		(net
-			(code "377")
+			(code "379")
 			(name "unconnected-(U4000A-VSF3-PadF10)")
 			(class "Default")
 			(node
@@ -52799,7 +53221,7 @@
 			)
 		)
 		(net
-			(code "378")
+			(code "380")
 			(name "unconnected-(U4000A-VSF4-PadK10)")
 			(class "Default")
 			(node
@@ -52810,7 +53232,7 @@
 			)
 		)
 		(net
-			(code "379")
+			(code "381")
 			(name "unconnected-(U4000B-NC1-PadA1)")
 			(class "Default")
 			(node
@@ -52821,7 +53243,7 @@
 			)
 		)
 		(net
-			(code "380")
+			(code "382")
 			(name "unconnected-(U4000B-NC2-PadA2)")
 			(class "Default")
 			(node
@@ -52832,7 +53254,7 @@
 			)
 		)
 		(net
-			(code "381")
+			(code "383")
 			(name "unconnected-(U4000B-NC8-PadA8)")
 			(class "Default")
 			(node
@@ -52843,7 +53265,7 @@
 			)
 		)
 		(net
-			(code "382")
+			(code "384")
 			(name "unconnected-(U4000B-NC9-PadA9)")
 			(class "Default")
 			(node
@@ -52854,7 +53276,7 @@
 			)
 		)
 		(net
-			(code "383")
+			(code "385")
 			(name "unconnected-(U4000B-NC10-PadA10)")
 			(class "Default")
 			(node
@@ -52865,7 +53287,7 @@
 			)
 		)
 		(net
-			(code "384")
+			(code "386")
 			(name "unconnected-(U4000B-NC11-PadA11)")
 			(class "Default")
 			(node
@@ -52876,7 +53298,7 @@
 			)
 		)
 		(net
-			(code "385")
+			(code "387")
 			(name "unconnected-(U4000B-NC12-PadA12)")
 			(class "Default")
 			(node
@@ -52887,7 +53309,7 @@
 			)
 		)
 		(net
-			(code "386")
+			(code "388")
 			(name "unconnected-(U4000B-NC13-PadA13)")
 			(class "Default")
 			(node
@@ -52898,7 +53320,7 @@
 			)
 		)
 		(net
-			(code "387")
+			(code "389")
 			(name "unconnected-(U4000B-NC14-PadA14)")
 			(class "Default")
 			(node
@@ -52909,7 +53331,7 @@
 			)
 		)
 		(net
-			(code "388")
+			(code "390")
 			(name "unconnected-(U4000B-NC15-PadB1)")
 			(class "Default")
 			(node
@@ -52920,7 +53342,7 @@
 			)
 		)
 		(net
-			(code "389")
+			(code "391")
 			(name "unconnected-(U4000B-NC21-PadB7)")
 			(class "Default")
 			(node
@@ -52931,7 +53353,7 @@
 			)
 		)
 		(net
-			(code "390")
+			(code "392")
 			(name "unconnected-(U4000B-NC22-PadB8)")
 			(class "Default")
 			(node
@@ -52942,7 +53364,7 @@
 			)
 		)
 		(net
-			(code "391")
+			(code "393")
 			(name "unconnected-(U4000B-NC23-PadB9)")
 			(class "Default")
 			(node
@@ -52953,7 +53375,7 @@
 			)
 		)
 		(net
-			(code "392")
+			(code "394")
 			(name "unconnected-(U4000B-NC24-PadB10)")
 			(class "Default")
 			(node
@@ -52964,7 +53386,7 @@
 			)
 		)
 		(net
-			(code "393")
+			(code "395")
 			(name "unconnected-(U4000B-NC25-PadB11)")
 			(class "Default")
 			(node
@@ -52975,7 +53397,7 @@
 			)
 		)
 		(net
-			(code "394")
+			(code "396")
 			(name "unconnected-(U4000B-NC26-PadB12)")
 			(class "Default")
 			(node
@@ -52986,7 +53408,7 @@
 			)
 		)
 		(net
-			(code "395")
+			(code "397")
 			(name "unconnected-(U4000B-NC27-PadB13)")
 			(class "Default")
 			(node
@@ -52997,7 +53419,7 @@
 			)
 		)
 		(net
-			(code "396")
+			(code "398")
 			(name "unconnected-(U4000B-NC28-PadB14)")
 			(class "Default")
 			(node
@@ -53008,7 +53430,7 @@
 			)
 		)
 		(net
-			(code "397")
+			(code "399")
 			(name "unconnected-(U4000B-NC29-PadC1)")
 			(class "Default")
 			(node
@@ -53019,7 +53441,7 @@
 			)
 		)
 		(net
-			(code "398")
+			(code "400")
 			(name "unconnected-(U4000B-NC31-PadC3)")
 			(class "Default")
 			(node
@@ -53030,7 +53452,7 @@
 			)
 		)
 		(net
-			(code "399")
+			(code "401")
 			(name "unconnected-(U4000B-NC33-PadC5)")
 			(class "Default")
 			(node
@@ -53041,7 +53463,7 @@
 			)
 		)
 		(net
-			(code "400")
+			(code "402")
 			(name "unconnected-(U4000B-NC35-PadC7)")
 			(class "Default")
 			(node
@@ -53052,7 +53474,7 @@
 			)
 		)
 		(net
-			(code "401")
+			(code "403")
 			(name "unconnected-(U4000B-NC36-PadC8)")
 			(class "Default")
 			(node
@@ -53063,7 +53485,7 @@
 			)
 		)
 		(net
-			(code "402")
+			(code "404")
 			(name "unconnected-(U4000B-NC37-PadC9)")
 			(class "Default")
 			(node
@@ -53074,7 +53496,7 @@
 			)
 		)
 		(net
-			(code "403")
+			(code "405")
 			(name "unconnected-(U4000B-NC38-PadC10)")
 			(class "Default")
 			(node
@@ -53085,7 +53507,7 @@
 			)
 		)
 		(net
-			(code "404")
+			(code "406")
 			(name "unconnected-(U4000B-NC39-PadC11)")
 			(class "Default")
 			(node
@@ -53096,7 +53518,7 @@
 			)
 		)
 		(net
-			(code "405")
+			(code "407")
 			(name "unconnected-(U4000B-NC40-PadC12)")
 			(class "Default")
 			(node
@@ -53107,7 +53529,7 @@
 			)
 		)
 		(net
-			(code "406")
+			(code "408")
 			(name "unconnected-(U4000B-NC41-PadC13)")
 			(class "Default")
 			(node
@@ -53118,7 +53540,7 @@
 			)
 		)
 		(net
-			(code "407")
+			(code "409")
 			(name "unconnected-(U4000B-NC42-PadC14)")
 			(class "Default")
 			(node
@@ -53129,7 +53551,7 @@
 			)
 		)
 		(net
-			(code "408")
+			(code "410")
 			(name "unconnected-(U4000B-NC43-PadD1)")
 			(class "Default")
 			(node
@@ -53140,7 +53562,7 @@
 			)
 		)
 		(net
-			(code "409")
+			(code "411")
 			(name "unconnected-(U4000B-NC44-PadD2)")
 			(class "Default")
 			(node
@@ -53151,7 +53573,7 @@
 			)
 		)
 		(net
-			(code "410")
+			(code "412")
 			(name "unconnected-(U4000B-NC45-PadD3)")
 			(class "Default")
 			(node
@@ -53162,7 +53584,7 @@
 			)
 		)
 		(net
-			(code "411")
+			(code "413")
 			(name "unconnected-(U4000B-NC46-PadD4)")
 			(class "Default")
 			(node
@@ -53173,7 +53595,7 @@
 			)
 		)
 		(net
-			(code "412")
+			(code "414")
 			(name "unconnected-(U4000B-NC54-PadD12)")
 			(class "Default")
 			(node
@@ -53184,7 +53606,7 @@
 			)
 		)
 		(net
-			(code "413")
+			(code "415")
 			(name "unconnected-(U4000B-NC55-PadD13)")
 			(class "Default")
 			(node
@@ -53195,7 +53617,7 @@
 			)
 		)
 		(net
-			(code "414")
+			(code "416")
 			(name "unconnected-(U4000B-NC56-PadD14)")
 			(class "Default")
 			(node
@@ -53206,7 +53628,7 @@
 			)
 		)
 		(net
-			(code "415")
+			(code "417")
 			(name "unconnected-(U4000B-NC57-PadE1)")
 			(class "Default")
 			(node
@@ -53217,7 +53639,7 @@
 			)
 		)
 		(net
-			(code "416")
+			(code "418")
 			(name "unconnected-(U4000B-NC58-PadE2)")
 			(class "Default")
 			(node
@@ -53228,7 +53650,7 @@
 			)
 		)
 		(net
-			(code "417")
+			(code "419")
 			(name "unconnected-(U4000B-NC59-PadE3)")
 			(class "Default")
 			(node
@@ -53239,7 +53661,7 @@
 			)
 		)
 		(net
-			(code "418")
+			(code "420")
 			(name "unconnected-(U4000B-NC68-PadE12)")
 			(class "Default")
 			(node
@@ -53250,7 +53672,7 @@
 			)
 		)
 		(net
-			(code "419")
+			(code "421")
 			(name "unconnected-(U4000B-NC69-PadE13)")
 			(class "Default")
 			(node
@@ -53261,7 +53683,7 @@
 			)
 		)
 		(net
-			(code "420")
+			(code "422")
 			(name "unconnected-(U4000B-NC70-PadE14)")
 			(class "Default")
 			(node
@@ -53272,7 +53694,7 @@
 			)
 		)
 		(net
-			(code "421")
+			(code "423")
 			(name "unconnected-(U4000B-NC71-PadF1)")
 			(class "Default")
 			(node
@@ -53283,7 +53705,7 @@
 			)
 		)
 		(net
-			(code "422")
+			(code "424")
 			(name "unconnected-(U4000B-NC72-PadF2)")
 			(class "Default")
 			(node
@@ -53294,7 +53716,7 @@
 			)
 		)
 		(net
-			(code "423")
+			(code "425")
 			(name "unconnected-(U4000B-NC73-PadF3)")
 			(class "Default")
 			(node
@@ -53305,7 +53727,7 @@
 			)
 		)
 		(net
-			(code "424")
+			(code "426")
 			(name "unconnected-(U4000B-NC82-PadF12)")
 			(class "Default")
 			(node
@@ -53316,7 +53738,7 @@
 			)
 		)
 		(net
-			(code "425")
+			(code "427")
 			(name "unconnected-(U4000B-NC83-PadF13)")
 			(class "Default")
 			(node
@@ -53327,7 +53749,7 @@
 			)
 		)
 		(net
-			(code "426")
+			(code "428")
 			(name "unconnected-(U4000B-NC84-PadF14)")
 			(class "Default")
 			(node
@@ -53338,7 +53760,7 @@
 			)
 		)
 		(net
-			(code "427")
+			(code "429")
 			(name "unconnected-(U4000B-NC85-PadG1)")
 			(class "Default")
 			(node
@@ -53349,7 +53771,7 @@
 			)
 		)
 		(net
-			(code "428")
+			(code "430")
 			(name "unconnected-(U4000B-NC86-PadG2)")
 			(class "Default")
 			(node
@@ -53360,7 +53782,7 @@
 			)
 		)
 		(net
-			(code "429")
+			(code "431")
 			(name "unconnected-(U4000B-NC96-PadG12)")
 			(class "Default")
 			(node
@@ -53371,7 +53793,7 @@
 			)
 		)
 		(net
-			(code "430")
+			(code "432")
 			(name "unconnected-(U4000B-NC97-PadG13)")
 			(class "Default")
 			(node
@@ -53382,7 +53804,7 @@
 			)
 		)
 		(net
-			(code "431")
+			(code "433")
 			(name "unconnected-(U4000B-NC98-PadG14)")
 			(class "Default")
 			(node
@@ -53393,7 +53815,7 @@
 			)
 		)
 		(net
-			(code "432")
+			(code "434")
 			(name "unconnected-(U4000B-NC99-PadH1)")
 			(class "Default")
 			(node
@@ -53404,7 +53826,7 @@
 			)
 		)
 		(net
-			(code "433")
+			(code "435")
 			(name "unconnected-(U4000B-NC100-PadH2)")
 			(class "Default")
 			(node
@@ -53415,7 +53837,7 @@
 			)
 		)
 		(net
-			(code "434")
+			(code "436")
 			(name "unconnected-(U4000B-NC101-PadH3)")
 			(class "Default")
 			(node
@@ -53426,7 +53848,7 @@
 			)
 		)
 		(net
-			(code "435")
+			(code "437")
 			(name "unconnected-(U4000B-NC110-PadH12)")
 			(class "Default")
 			(node
@@ -53437,7 +53859,7 @@
 			)
 		)
 		(net
-			(code "436")
+			(code "438")
 			(name "unconnected-(U4000B-NC111-PadH13)")
 			(class "Default")
 			(node
@@ -53448,7 +53870,7 @@
 			)
 		)
 		(net
-			(code "437")
+			(code "439")
 			(name "unconnected-(U4000B-NC112-PadH14)")
 			(class "Default")
 			(node
@@ -53459,7 +53881,7 @@
 			)
 		)
 		(net
-			(code "438")
+			(code "440")
 			(name "unconnected-(U4000B-NC113-PadJ1)")
 			(class "Default")
 			(node
@@ -53470,7 +53892,7 @@
 			)
 		)
 		(net
-			(code "439")
+			(code "441")
 			(name "unconnected-(U4000B-NC114-PadJ2)")
 			(class "Default")
 			(node
@@ -53481,7 +53903,7 @@
 			)
 		)
 		(net
-			(code "440")
+			(code "442")
 			(name "unconnected-(U4000B-NC115-PadJ3)")
 			(class "Default")
 			(node
@@ -53492,7 +53914,7 @@
 			)
 		)
 		(net
-			(code "441")
+			(code "443")
 			(name "unconnected-(U4000B-NC124-PadJ12)")
 			(class "Default")
 			(node
@@ -53503,7 +53925,7 @@
 			)
 		)
 		(net
-			(code "442")
+			(code "444")
 			(name "unconnected-(U4000B-NC125-PadJ13)")
 			(class "Default")
 			(node
@@ -53514,7 +53936,7 @@
 			)
 		)
 		(net
-			(code "443")
+			(code "445")
 			(name "unconnected-(U4000B-NC126-PadJ14)")
 			(class "Default")
 			(node
@@ -53525,7 +53947,7 @@
 			)
 		)
 		(net
-			(code "444")
+			(code "446")
 			(name "unconnected-(U4000B-NC127-PadK1)")
 			(class "Default")
 			(node
@@ -53536,7 +53958,7 @@
 			)
 		)
 		(net
-			(code "445")
+			(code "447")
 			(name "unconnected-(U4000B-NC128-PadK2)")
 			(class "Default")
 			(node
@@ -53547,7 +53969,7 @@
 			)
 		)
 		(net
-			(code "446")
+			(code "448")
 			(name "unconnected-(U4000B-NC129-PadK3)")
 			(class "Default")
 			(node
@@ -53558,7 +53980,7 @@
 			)
 		)
 		(net
-			(code "447")
+			(code "449")
 			(name "unconnected-(U4000B-NC138-PadK12)")
 			(class "Default")
 			(node
@@ -53569,7 +53991,7 @@
 			)
 		)
 		(net
-			(code "448")
+			(code "450")
 			(name "unconnected-(U4000B-NC139-PadK13)")
 			(class "Default")
 			(node
@@ -53580,7 +54002,7 @@
 			)
 		)
 		(net
-			(code "449")
+			(code "451")
 			(name "unconnected-(U4000B-NC140-PadK14)")
 			(class "Default")
 			(node
@@ -53591,7 +54013,7 @@
 			)
 		)
 		(net
-			(code "450")
+			(code "452")
 			(name "unconnected-(U4000B-NC141-PadL1)")
 			(class "Default")
 			(node
@@ -53602,7 +54024,7 @@
 			)
 		)
 		(net
-			(code "451")
+			(code "453")
 			(name "unconnected-(U4000B-NC142-PadL2)")
 			(class "Default")
 			(node
@@ -53613,7 +54035,7 @@
 			)
 		)
 		(net
-			(code "452")
+			(code "454")
 			(name "unconnected-(U4000B-NC143-PadL3)")
 			(class "Default")
 			(node
@@ -53624,7 +54046,7 @@
 			)
 		)
 		(net
-			(code "453")
+			(code "455")
 			(name "unconnected-(U4000B-NC152-PadL12)")
 			(class "Default")
 			(node
@@ -53635,7 +54057,7 @@
 			)
 		)
 		(net
-			(code "454")
+			(code "456")
 			(name "unconnected-(U4000B-NC153-PadL13)")
 			(class "Default")
 			(node
@@ -53646,7 +54068,7 @@
 			)
 		)
 		(net
-			(code "455")
+			(code "457")
 			(name "unconnected-(U4000B-NC154-PadL14)")
 			(class "Default")
 			(node
@@ -53657,7 +54079,7 @@
 			)
 		)
 		(net
-			(code "456")
+			(code "458")
 			(name "unconnected-(U4000B-NC155-PadM1)")
 			(class "Default")
 			(node
@@ -53668,7 +54090,7 @@
 			)
 		)
 		(net
-			(code "457")
+			(code "459")
 			(name "unconnected-(U4000B-NC156-PadM2)")
 			(class "Default")
 			(node
@@ -53679,7 +54101,7 @@
 			)
 		)
 		(net
-			(code "458")
+			(code "460")
 			(name "unconnected-(U4000B-NC157-PadM3)")
 			(class "Default")
 			(node
@@ -53690,7 +54112,7 @@
 			)
 		)
 		(net
-			(code "459")
+			(code "461")
 			(name "unconnected-(U4000B-NC161-PadM7)")
 			(class "Default")
 			(node
@@ -53701,7 +54123,7 @@
 			)
 		)
 		(net
-			(code "460")
+			(code "462")
 			(name "unconnected-(U4000B-NC162-PadM8)")
 			(class "Default")
 			(node
@@ -53712,7 +54134,7 @@
 			)
 		)
 		(net
-			(code "461")
+			(code "463")
 			(name "unconnected-(U4000B-NC163-PadM9)")
 			(class "Default")
 			(node
@@ -53723,7 +54145,7 @@
 			)
 		)
 		(net
-			(code "462")
+			(code "464")
 			(name "unconnected-(U4000B-NC164-PadM10)")
 			(class "Default")
 			(node
@@ -53734,7 +54156,7 @@
 			)
 		)
 		(net
-			(code "463")
+			(code "465")
 			(name "unconnected-(U4000B-NC165-PadM11)")
 			(class "Default")
 			(node
@@ -53745,7 +54167,7 @@
 			)
 		)
 		(net
-			(code "464")
+			(code "466")
 			(name "unconnected-(U4000B-NC166-PadM12)")
 			(class "Default")
 			(node
@@ -53756,7 +54178,7 @@
 			)
 		)
 		(net
-			(code "465")
+			(code "467")
 			(name "unconnected-(U4000B-NC167-PadM13)")
 			(class "Default")
 			(node
@@ -53767,7 +54189,7 @@
 			)
 		)
 		(net
-			(code "466")
+			(code "468")
 			(name "unconnected-(U4000B-NC168-PadM14)")
 			(class "Default")
 			(node
@@ -53778,7 +54200,7 @@
 			)
 		)
 		(net
-			(code "467")
+			(code "469")
 			(name "unconnected-(U4000B-NC169-PadN1)")
 			(class "Default")
 			(node
@@ -53789,7 +54211,7 @@
 			)
 		)
 		(net
-			(code "468")
+			(code "470")
 			(name "unconnected-(U4000B-NC171-PadN3)")
 			(class "Default")
 			(node
@@ -53800,7 +54222,7 @@
 			)
 		)
 		(net
-			(code "469")
+			(code "471")
 			(name "unconnected-(U4000B-NC174-PadN6)")
 			(class "Default")
 			(node
@@ -53811,7 +54233,7 @@
 			)
 		)
 		(net
-			(code "470")
+			(code "472")
 			(name "unconnected-(U4000B-NC175-PadN7)")
 			(class "Default")
 			(node
@@ -53822,7 +54244,7 @@
 			)
 		)
 		(net
-			(code "471")
+			(code "473")
 			(name "unconnected-(U4000B-NC176-PadN8)")
 			(class "Default")
 			(node
@@ -53833,7 +54255,7 @@
 			)
 		)
 		(net
-			(code "472")
+			(code "474")
 			(name "unconnected-(U4000B-NC177-PadN9)")
 			(class "Default")
 			(node
@@ -53844,7 +54266,7 @@
 			)
 		)
 		(net
-			(code "473")
+			(code "475")
 			(name "unconnected-(U4000B-NC178-PadN10)")
 			(class "Default")
 			(node
@@ -53855,7 +54277,7 @@
 			)
 		)
 		(net
-			(code "474")
+			(code "476")
 			(name "unconnected-(U4000B-NC179-PadN11)")
 			(class "Default")
 			(node
@@ -53866,7 +54288,7 @@
 			)
 		)
 		(net
-			(code "475")
+			(code "477")
 			(name "unconnected-(U4000B-NC180-PadN12)")
 			(class "Default")
 			(node
@@ -53877,7 +54299,7 @@
 			)
 		)
 		(net
-			(code "476")
+			(code "478")
 			(name "unconnected-(U4000B-NC181-PadN13)")
 			(class "Default")
 			(node
@@ -53888,7 +54310,7 @@
 			)
 		)
 		(net
-			(code "477")
+			(code "479")
 			(name "unconnected-(U4000B-NC182-PadN14)")
 			(class "Default")
 			(node
@@ -53899,7 +54321,7 @@
 			)
 		)
 		(net
-			(code "478")
+			(code "480")
 			(name "unconnected-(U4000B-NC183-PadP1)")
 			(class "Default")
 			(node
@@ -53910,7 +54332,7 @@
 			)
 		)
 		(net
-			(code "479")
+			(code "481")
 			(name "unconnected-(U4000B-NC184-PadP2)")
 			(class "Default")
 			(node
@@ -53921,7 +54343,7 @@
 			)
 		)
 		(net
-			(code "480")
+			(code "482")
 			(name "unconnected-(U4000B-NC190-PadP8)")
 			(class "Default")
 			(node
@@ -53932,7 +54354,7 @@
 			)
 		)
 		(net
-			(code "481")
+			(code "483")
 			(name "unconnected-(U4000B-NC191-PadP9)")
 			(class "Default")
 			(node
@@ -53943,7 +54365,7 @@
 			)
 		)
 		(net
-			(code "482")
+			(code "484")
 			(name "unconnected-(U4000B-NC193-PadP11)")
 			(class "Default")
 			(node
@@ -53954,7 +54376,7 @@
 			)
 		)
 		(net
-			(code "483")
+			(code "485")
 			(name "unconnected-(U4000B-NC194-PadP12)")
 			(class "Default")
 			(node
@@ -53965,7 +54387,7 @@
 			)
 		)
 		(net
-			(code "484")
+			(code "486")
 			(name "unconnected-(U4000B-NC195-PadP13)")
 			(class "Default")
 			(node
@@ -53976,7 +54398,7 @@
 			)
 		)
 		(net
-			(code "485")
+			(code "487")
 			(name "unconnected-(U4000B-NC196-PadP14)")
 			(class "Default")
 			(node
@@ -53987,7 +54409,7 @@
 			)
 		)
 		(net
-			(code "486")
+			(code "488")
 			(name "unconnected-(U4000B-RFU1-PadA7)")
 			(class "Default")
 			(node
@@ -53998,7 +54420,7 @@
 			)
 		)
 		(net
-			(code "487")
+			(code "489")
 			(name "unconnected-(U4000B-RFU2-PadE5)")
 			(class "Default")
 			(node
@@ -54009,7 +54431,7 @@
 			)
 		)
 		(net
-			(code "488")
+			(code "490")
 			(name "unconnected-(U4000B-RFU3-PadE8)")
 			(class "Default")
 			(node
@@ -54020,7 +54442,7 @@
 			)
 		)
 		(net
-			(code "489")
+			(code "491")
 			(name "unconnected-(U4000B-RFU4-PadG10)")
 			(class "Default")
 			(node
@@ -54031,7 +54453,7 @@
 			)
 		)
 		(net
-			(code "490")
+			(code "492")
 			(name "unconnected-(U4000B-RFU5-PadK6)")
 			(class "Default")
 			(node
@@ -54042,7 +54464,7 @@
 			)
 		)
 		(net
-			(code "491")
+			(code "493")
 			(name "unconnected-(U4000B-RFU6-PadK7)")
 			(class "Default")
 			(node
@@ -54053,7 +54475,7 @@
 			)
 		)
 		(net
-			(code "492")
+			(code "494")
 			(name "unconnected-(U4000B-RFU7-PadP7)")
 			(class "Default")
 			(node
@@ -54064,7 +54486,7 @@
 			)
 		)
 		(net
-			(code "493")
+			(code "495")
 			(name "unconnected-(U4000B-RFU8-PadP10)")
 			(class "Default")
 			(node
@@ -54075,7 +54497,7 @@
 			)
 		)
 		(net
-			(code "494")
+			(code "496")
 			(name "unconnected-(U4000B-RFU9-Pad1)")
 			(class "Default")
 			(node
@@ -54086,7 +54508,7 @@
 			)
 		)
 		(net
-			(code "495")
+			(code "497")
 			(name "unconnected-(U4014-NC1-Pad2)")
 			(class "Default")
 			(node
@@ -54097,7 +54519,7 @@
 			)
 		)
 		(net
-			(code "496")
+			(code "498")
 			(name "unconnected-(U4014-NC2-Pad5)")
 			(class "Default")
 			(node

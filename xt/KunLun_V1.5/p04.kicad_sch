@@ -184,7 +184,7 @@
 (global_label "EMMC_D7/FLASH_D7" (shape bidirectional) (at 115.57 62.23 0) (fields_autoplaced yes) (effects (font (size 1 1)) (justify left)) (uuid "b969e91c-e57a-4dbd-b67f-e9ea259cf615"))
 (global_label "UV_RESET" (shape bidirectional) (at 364.49 173.99 0) (fields_autoplaced yes) (effects (font (size 1 1)) (justify left)) (uuid "fd78e6a8-0bb4-4676-8e62-3095ed643ed1"))
 (global_label "RGB_RESET" (shape bidirectional) (at 364.49 171.45 0) (fields_autoplaced yes) (effects (font (size 1 1)) (justify left)) (uuid "ceef6037-3c7d-4ba5-b944-776ddd4dec27"))
-(text "B" (exclude_from_sim no) (at 416.7297 185.6851 0) (effects (font (size 1.2515 1.2515)) (justify left bottom)) (uuid "2d7e917f-967e-45f4-9ad1-c308bd4e79ac"))
+
 (text "EMMC/FLASH" (exclude_from_sim no) (at 26.67 18.7252 0) (effects (font (size 4.1124 4.1124)) (justify left bottom)) (uuid "161d50a5-aa77-49a5-b1bf-18ef9171d848"))
 (text "SDMMC0/JTAG" (exclude_from_sim no) (at 209.544 16.1852 0) (effects (font (size 4.1124 4.1124)) (justify left bottom)) (uuid "282ecc44-9f3e-4fdb-b32f-64238ba10bab"))
 (text "SDMMC1/UART/I2S2" (exclude_from_sim no) (at 209.544 115.2452 0) (effects (font (size 4.1124 4.1124)) (justify left bottom)) (uuid "9c0e2284-62a9-49f4-a6f1-0e81716184b7"))
