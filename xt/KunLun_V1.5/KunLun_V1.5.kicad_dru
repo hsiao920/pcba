@@ -2,40 +2,50 @@
 
 (rule "DiffPair_D1_gap"
   (condition "A.NetName == 'OTG_DP' && B.NetName == 'OTG_DM'")
-  (constraint clearance (min 0.1524mm)))
+  # PADS pair gap 0.1524mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D2_gap"
   (condition "A.NetName == 'MIPI_DSI_TX0_D0N' && B.NetName == 'MIPI_DSI_TX0_D0P'")
-  (constraint clearance (min 0.15748mm)))
+  # PADS pair gap 0.15748mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D3_gap"
   (condition "A.NetName == 'MIPI_DSI_TX0_CLKN' && B.NetName == 'MIPI_DSI_TX0_CLKP'")
-  (constraint clearance (min 0.15748mm)))
+  # PADS pair gap 0.15748mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D4_gap"
   (condition "A.NetName == 'MIPI_CSI_RX1_D1P' && B.NetName == 'MIPI_CSI_RX1_D1N'")
-  (constraint clearance (min 0.15748mm)))
+  # PADS pair gap 0.15748mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D5_gap"
   (condition "A.NetName == 'MIPI_CSI_RX1_D0P' && B.NetName == 'MIPI_CSI_RX1_D0N'")
-  (constraint clearance (min 0.15748mm)))
+  # PADS pair gap 0.15748mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D6_gap"
   (condition "A.NetName == 'MIPI_CSI_RX1_CLKP' && B.NetName == 'MIPI_CSI_RX1_CLKN'")
-  (constraint clearance (min 0.15748mm)))
+  # PADS pair gap 0.15748mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D7_gap"
   (condition "A.NetName == 'MIPI_CSI_RX0_D1P' && B.NetName == 'MIPI_CSI_RX0_D1N'")
-  (constraint clearance (min 0.15748mm)))
+  # PADS pair gap 0.15748mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D8_gap"
   (condition "A.NetName == 'MIPI_CSI_RX0_D0P' && B.NetName == 'MIPI_CSI_RX0_D0N'")
-  (constraint clearance (min 0.15748mm)))
+  # PADS pair gap 0.15748mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D9_gap"
   (condition "A.NetName == 'MIPI_CSI_RX0_CLKN' && B.NetName == 'MIPI_CSI_RX0_CLKP'")
-  (constraint clearance (min 0.15748mm)))
+  # PADS pair gap 0.15748mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
 
 (rule "DiffPair_D10_gap"
   (condition "A.NetName == 'OTGDM' && B.NetName == 'OTGDP'")
-  (constraint clearance (min 0.1524mm)))
+  # PADS pair gap 0.1524mm is a routing target; DRC uses the source 4 mil clearance
+  (constraint clearance (min 0.1016mm)))
